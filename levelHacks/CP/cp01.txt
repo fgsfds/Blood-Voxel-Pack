@@ -1,0 +1,16 @@
+498805253
+
+sprite 11 angoff -512
+sprite 13 angoff 512
+sprite 15 angoff -512
+sprite 17 angoff 256
+sprite 19 angoff 256
+sprite 84 angoff 1024
+sprite 85 angoff 1024
+sprite 161 mdyoff 80
+sprite 202 angoff 512
+sprite 203 angoff 512
+sprite 576 angoff 512
+sprite 577 angoff -512
+sprite 744 angoff 360
+sprite 849 angoff 512

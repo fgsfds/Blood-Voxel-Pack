@@ -1,0 +1,32 @@
+3595380326
+
+sprite 28 mdxoff 50
+sprite 35 angoff -256
+sprite 38 angoff -256
+sprite 39 angoff 256
+sprite 52 angoff 512
+sprite 62 angoff 256
+sprite 86 angoff 512
+sprite 87 angoff 256
+sprite 88 angoff 256
+sprite 89 angoff -256
+sprite 102 angoff 512
+sprite 106 angoff -256
+sprite 107 angoff 256
+sprite 110 angoff 512
+sprite 116 angoff 256
+sprite 118 angoff -256
+sprite 120 angoff 512
+sprite 167 novoxel
+sprite 400 angoff -256
+sprite 410 angoff -256
+sprite 449 angoff -256
+sprite 665 angoff -256
+sprite 1023 angoff -512
+sprite 1024 angoff 1024
+sprite 1025 angoff 1024
+sprite 1026 angoff 1024
+sprite 1142 angoff 256
+sprite 1143 angoff 256
+sprite 1153 angoff -256
+sprite 1154 angoff -256

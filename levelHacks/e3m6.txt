@@ -1,0 +1,9 @@
+4075974876
+
+sprite 18 angoff 256
+sprite 29 angoff 512
+sprite 30 angoff 512
+sprite 185 angoff -512
+sprite 620 angoff -512
+sprite 642 angoff -512
+sprite 643 angoff -512

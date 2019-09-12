@@ -1,0 +1,16 @@
+3607809202
+
+sprite 130 angoff 256
+sprite 131 angoff 256
+sprite 133 angoff 256
+sprite 135 angoff -512
+sprite 136 angoff 256
+sprite 139 angoff 1024
+sprite 140 angoff -512
+sprite 141 angoff 256
+sprite 142 angoff -512
+sprite 144 angoff -512
+sprite 151 angoff -512
+sprite 153 angoff -512
+sprite 270 angoff 1024
+sprite 341 angoff -512
