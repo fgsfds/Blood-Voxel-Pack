@@ -129,6 +129,11 @@ voxel "KVX/0830_SWIMSUIT.kvx" { tile 830 }
 voxel "KVX/2558_KEY7.kvx" { tile 2558 }
 
 
+voxel "KVX/0256_WOODBRIDGE.kvx" { tile 0256 }
+voxel "KVX/0640_LANTERN.kvx" { tile 640 }
+voxel "KVX/0641_CHAINLANTERN.kvx" { tile 0641 }
+voxel "KVX/1044_GATE.kvx" { tile 1044 }
+voxel "KVX/2493_LANTERN_SNOW.kvx" { tile 2493 }
 voxel "KVX/0201_TOXICBARREL.kvx" { tile 201 }
 voxel "KVX/0284_STOOL.kvx" { tile 284 }
 voxel "KVX/0563_ZOMBARREL.kvx" { tile 563 }
