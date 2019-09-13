@@ -19,7 +19,9 @@ It is meant to be used with the BuildGDX or NBlood ports.
 HOW TO USE
 ============================================================================================
 
-Drop voxels.zip into "autoload" folder.
+BuildGDX (1.04 and later) and EDuke32:
+- put voxels.zip into autoload folder
+- make sure "enable autoload folder" checkbox is enabled
 
 
 ============================================================================================
