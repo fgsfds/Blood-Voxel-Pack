@@ -61,6 +61,8 @@ Version 0.91 (13.09.2019)
 + Plant #1 (1009)
 + Plant #2 (1010)
 + Tommy Gun (0558)
++ Remote Dynamite (3457-3458)
++ Proximity Dynamite (3444-3448)
 * Respawn Skulls (2274-2279) update
 * Vase (0537) update
 
