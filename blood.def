@@ -127,6 +127,8 @@ voxel "KVX/0813_AMMOTOMMY.kvx" { tile 813 }
 voxel "KVX/0827_BOOTS.kvx" { tile 827 }
 voxel "KVX/0830_SWIMSUIT.kvx" { tile 830 }
 voxel "KVX/2558_KEY7.kvx" { tile 2558 }
+
+
 voxel "KVX/0201_TOXICBARREL.kvx" { tile 201 }
 voxel "KVX/0284_STOOL.kvx" { tile 284 }
 voxel "KVX/0563_ZOMBARREL.kvx" { tile 563 }

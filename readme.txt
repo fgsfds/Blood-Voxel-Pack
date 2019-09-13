@@ -3,7 +3,7 @@ Blood Voxel Pack
 ============================================================================================
 
 Version:       0.91
-Release Date:  30.06.2019
+Release Date:  13.09.2019
 Author:        Oleg "FGSFDS" G.
 
 
@@ -41,7 +41,6 @@ Main Development:
 
 > Voxel creation
   FGSFDS (https://twitter.com/fgsfds228)
-  SomeThingEvil (https://forums.duke4.net/user/1351-somethingevil/)
 
 > All voxels based on work by 
   Monolith Productions
@@ -51,12 +50,7 @@ Main Development:
 CHANGELOG
 ============================================================================================
 
-Version 0.9 (30.06.2019)
----------------------------
-> Added NBlood compatibility
-+ Vase (0537)
-
-Version 0.91 (20.07.2019)
+Version 0.91 (13.09.2019)
 ---------------------------
 + Torch (0506-0509)
 + Jacob's Ladder #1 (2479-2481)
@@ -67,4 +61,9 @@ Version 0.91 (20.07.2019)
 + Tommy Gun (0558)
 * Respawn Skulls (2274-2279) update
 * Vase (0537) update
-+ Voxels by SomeThingEvil
+
+
+Version 0.9 (30.06.2019)
+---------------------------
+> Added NBlood compatibility
++ Vase (0537)
