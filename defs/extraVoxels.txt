@@ -4,6 +4,7 @@
     Note: type ID is associated with the picnum ID
 */
 
+Voxel 201 { filename "KVX/0201_TOXICBARREL.kvx" bRandomizedAngle TRUE }
 Voxel 256 { filename "KVX/0256_WOODBRIDGE.kvx" }
 Voxel 258 { filename "KVX/0258_ROPE.kvx" }
 Voxel 284 { filename "KVX/0284_STOOL.kvx" bRandomizedAngle TRUE }
@@ -125,7 +126,6 @@ Voxel 1721 { filename "KVX/1721_WIRES.kvx" }
 Voxel 1722 { filename "KVX/1722_WIRES_A.kvx" }
 Voxel 1723 { filename "KVX/1723_WIRES_B.kvx" }
 Voxel 1724 { filename "KVX/1724_WIRES_C.kvx" }
-Voxel 201 { filename "KVX/0201_TOXICBARREL.kvx" bRandomizedAngle TRUE }
 Voxel 2159 { filename "KVX/2159_ARROW.kvx" }
 Voxel 2274 { filename "KVX/2274_RESPAWN_R.kvx" rotate TRUE }
 Voxel 2275 { filename "KVX/2275_RESPAWN.kvx" rotate TRUE }
@@ -144,6 +144,7 @@ Voxel 2436 { filename "KVX/2436_SEED_D.kvx" rotate TRUE }
 Voxel 2437 { filename "KVX/2437_SEED_E.kvx" rotate TRUE }
 Voxel 2464 { filename "KVX/2464_EJECTSHELL.kvx" bRandomizedAngle TRUE }
 Voxel 2465 { filename "KVX/2465_EJECTTOMMY.kvx" bRandomizedAngle TRUE }
+Voxel 2472 { filename "KVX/2472_TCOIL.kvx" }
 Voxel 2479 { filename "KVX/2479_JACOB_A.kvx" }
 Voxel 2480 { filename "KVX/2480_JACOB_B.kvx" }
 Voxel 2481 { filename "KVX/2481_JACOB_C.kvx" }
@@ -163,3 +164,12 @@ Voxel 2543 { filename "KVX/2543_KEYSIGN4.kvx" }
 Voxel 2544 { filename "KVX/2544_KEYSIGN5.kvx" }
 Voxel 2545 { filename "KVX/2545_KEYSIGN6.kvx" }
 Voxel 2558 { filename "KVX/2558_KEY7.kvx" rotate TRUE }
+
+Voxel 3444{ filename "KVX/3444_PROX_A.kvx"  }
+Voxel 3445{ filename "KVX/3445_PROX_B.kvx" }
+Voxel 3446{ filename "KVX/3446_PROX_C.kvx" }
+Voxel 3447{ filename "KVX/3447_PROX_D.kvx" }
+Voxel 3448{ filename "KVX/3448_PROX_E.kvx" }
+
+Voxel 3457{ filename "KVX/3457_REMOTE_A.kvx" }
+Voxel 3458{ filename "KVX/3458_REMOTE_B.kvx" }
