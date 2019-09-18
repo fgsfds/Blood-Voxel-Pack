@@ -43,18 +43,18 @@ voxel "KVX/1722_WIRES_A.kvx" { tile 1722 }
 voxel "KVX/1723_WIRES_B.kvx" { tile 1723 }
 voxel "KVX/1724_WIRES_C.kvx" { tile 1724 }
 
-voxel "KVX/2274_RESPAWN_R.kvx" { tile 2274 }
-voxel "KVX/2275_RESPAWN.kvx" { tile 2275 }
-voxel "KVX/2276_RESPAWN_O.kvx" { tile 2276 }
-voxel "KVX/2275_RESPAWN.kvx" { tile 2277 }
-voxel "KVX/2278_RESPAWN_G.kvx" { tile 2278 }
-voxel "KVX/2275_RESPAWN.kvx" { tile 2279 }
+voxel "KVX/2274_RESPAWN_R.kvx" { tile 2274 rotate }
+voxel "KVX/2275_RESPAWN.kvx" { tile 2275 rotate }
+voxel "KVX/2276_RESPAWN_O.kvx" { tile 2276 rotate }
+voxel "KVX/2275_RESPAWN.kvx" { tile 2277 rotate }
+voxel "KVX/2278_RESPAWN_G.kvx" { tile 2278 rotate }
+voxel "KVX/2275_RESPAWN.kvx" { tile 2279 rotate }
 
-voxel "KVX/2433_SEED_A.kvx" { tile 2433 }
-voxel "KVX/2434_SEED_B.kvx" { tile 2434 }
-voxel "KVX/2435_SEED_C.kvx" { tile 2435 }
-voxel "KVX/2436_SEED_D.kvx" { tile 2436 }
-voxel "KVX/2437_SEED_E.kvx" { tile 2437 }
+voxel "KVX/2433_SEED_A.kvx" { tile 2433 rotate }
+voxel "KVX/2434_SEED_B.kvx" { tile 2434 rotate }
+voxel "KVX/2435_SEED_C.kvx" { tile 2435 rotate }
+voxel "KVX/2436_SEED_D.kvx" { tile 2436 rotate }
+voxel "KVX/2437_SEED_E.kvx" { tile 2437 rotate }
 
 voxel "KVX/2479_JACOB_A.kvx" { tile 2479 }
 voxel "KVX/2480_JACOB_B.kvx" { tile 2480 }
@@ -120,13 +120,13 @@ voxel "KVX/1261_WHEEL_B.kvx" { tile 1261 }
 //Pickups
 
 voxel "KVX/0548_AMMOTESLA.kvx" { tile 548 }
-voxel "KVX/0558_TOMMY.kvx" { tile 0558 }
+voxel "KVX/0558_TOMMY.kvx" { tile 0558 rotate }
 voxel "KVX/0619_AMMOSHOT.kvx" { tile 619 }
 voxel "KVX/0783_FEATHER.kvx" { tile 783 }
 voxel "KVX/0813_AMMOTOMMY.kvx" { tile 813 }
 voxel "KVX/0827_BOOTS.kvx" { tile 827 }
 voxel "KVX/0830_SWIMSUIT.kvx" { tile 830 }
-voxel "KVX/2558_KEY7.kvx" { tile 2558 }
+voxel "KVX/2558_KEY7.kvx" { tile 2558 rotate }
 
 
 voxel "KVX/0256_WOODBRIDGE.kvx" { tile 0256 }
