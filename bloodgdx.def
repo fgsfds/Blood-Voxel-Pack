@@ -128,17 +128,11 @@ voxel "KVX/0830_SWIMSUIT.kvx" { tile 830 }
 voxel "KVX/2558_KEY7.kvx" { tile 2558 rotate }
 
 
-//OpenGL
-
 voxel "KVX/0256_WOODBRIDGE.kvx" { tile 0256 }
 voxel "KVX/0640_LANTERN.kvx" { tile 640 }
 voxel "KVX/0641_CHAINLANTERN.kvx" { tile 0641 }
 voxel "KVX/1044_GATE.kvx" { tile 1044 }
 voxel "KVX/2493_LANTERN_SNOW.kvx" { tile 2493 }
-
-
-//Random
-
 voxel "KVX/0201_TOXICBARREL.kvx" { tile 201 }
 voxel "KVX/0284_STOOL.kvx" { tile 284 }
 voxel "KVX/0563_ZOMBARREL.kvx" { tile 563 }
@@ -151,8 +145,6 @@ voxel "KVX/0962_IVPOLE1.kvx" { tile 962 }
 voxel "KVX/0963_IVPOLE2.kvx" { tile 963 }
 voxel "KVX/2464_EJECTSHELL.kvx" { tile 2464 }
 voxel "KVX/2465_EJECTTOMMY.kvx" { tile 2465 }
-
-
 voxel "KVX/0073_SHIRT.kvx" { tile 0073 }
 voxel "KVX/0258_ROPE.kvx" { tile 0258 }
 voxel "KVX/0389_WINDOW1.kvx" { tile 389 }
@@ -212,3 +204,7 @@ voxel "KVX/2542_KEYSIGN3.kvx" { tile 2542 }
 voxel "KVX/2543_KEYSIGN4.kvx" { tile 2543 }
 voxel "KVX/2544_KEYSIGN5.kvx" { tile 2544 }
 voxel "KVX/2545_KEYSIGN6.kvx" { tile 2545 }
+voxel "KVX/0616_JUG.kvx" { tile 616 }
+voxel "KVX/0693_LANTERN.kvx" { tile 693 }
+voxel "KVX/0712_JUG.kvx" { tile 712 }
+voxel "KVX/0739_VASE.kvx" { tile 739 }

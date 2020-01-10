@@ -43,6 +43,7 @@ Main Development:
 
 > Voxel creation
   FGSFDS (https://twitter.com/fgsfds228)
+  warezeater
 
 > All voxels based on work by 
   Monolith Productions
@@ -51,6 +52,14 @@ Main Development:
 ============================================================================================
 CHANGELOG
 ============================================================================================
+
+Version 0.92
+---------------------------
++ Jug (0616)
++ Lantern (0693)
++ Jug (0712)
++ Vase (0739)
+
 
 Version 0.91 (13.09.2019)
 ---------------------------
