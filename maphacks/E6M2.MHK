@@ -12,10 +12,10 @@ sprite 114 angoff -768
 sprite 116 angoff -256
 sprite 118 angoff 256
 sprite 119 angoff -768
-sprite 119 mdyoff 100
+sprite 119 mdposyoff 100
 sprite 120 angoff -256
 sprite 121 angoff 1024
-sprite 121 mdyoff 50
+sprite 121 mdposyoff 50
 sprite 122 angoff -256
 sprite 129 angoff 512
 sprite 130 angoff 512

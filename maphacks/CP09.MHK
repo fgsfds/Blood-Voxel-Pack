@@ -6,8 +6,8 @@ sprite 486 angoff 512
 sprite 487 angoff 512
 sprite 529 angoff 512
 sprite 532 angoff 256
-sprite 626 mdyoff 70
-sprite 627 mdyoff 70
+sprite 626 mdposyoff 70
+sprite 627 mdposyoff 70
 sprite 648 angoff -256
 sprite 669 angoff -256
 sprite 723 angoff 768

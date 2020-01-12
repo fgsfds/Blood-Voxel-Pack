@@ -12,8 +12,8 @@ sprite 619 angoff 1024
 sprite 621 angoff 512
 sprite 623 angoff 512
 sprite 625 angoff 512
-sprite 633 mdyoff -100
-sprite 710 mdzoff -5000
+sprite 633 mdposyoff -100
+sprite 710 mdposzoff -5000
 sprite 718 angoff 512
 sprite 744 angoff -512
 sprite 745 angoff 512

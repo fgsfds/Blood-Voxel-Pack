@@ -21,6 +21,6 @@ sprite 487 angoff 256
 sprite 488 angoff 1024
 sprite 489 angoff 512
 sprite 490 angoff 768
-sprite 490 mdxoff -100
+sprite 490 mdposxoff -100
 sprite 525 angoff 256
-sprite 529 mdyoff 40
+sprite 529 mdposyoff 40
