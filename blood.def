@@ -1,4 +1,2 @@
-include blood_widescreen.def
 include bloodgdx.def
-
-echo Blood Voxel Pack 0.91
+include maphacks/maphacks.def

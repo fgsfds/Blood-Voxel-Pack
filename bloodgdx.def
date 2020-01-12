@@ -1,6 +1,3 @@
-echo Blood Voxel Pack 0.91
-
-
 //Animated
 
 voxel "KVX/0506_TORCH_A.kvx" { tile 0506 }

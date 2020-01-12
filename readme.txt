@@ -19,7 +19,7 @@ It is meant to be used with the BuildGDX or NBlood ports.
 HOW TO USE
 ============================================================================================
 
-BuildGDX (1.04 and later) and EDuke32:
+BuildGDX (1.04 and later) and NBlood (r2059 or later):
 - put voxels.zip into autoload folder
 - make sure "enable autoload folder" checkbox is enabled
 
@@ -33,6 +33,9 @@ LINKS
 
 > BuildGDX port:
   https://m210.duke4.net/index.php/downloads/download/8-java/53-buildgdx
+
+> NBlood dev builds:
+  https://lerppu.net/wannabethesis/nblood/
 
 
 ============================================================================================
@@ -55,6 +58,7 @@ CHANGELOG
 
 Version 0.92
 ---------------------------
++ Maphacks support for NBlood
 + Jug (0616)
 + Lantern (0693)
 + Jug (0712)
