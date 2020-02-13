@@ -1,7 +1,0 @@
-1677404911
-
-sprite 170 angoff 512
-sprite 210 angoff 512
-sprite 262 angoff 512
-sprite 344 angoff 512
-sprite 346 angoff 256
