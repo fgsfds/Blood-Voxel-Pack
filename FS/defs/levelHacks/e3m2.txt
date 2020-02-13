@@ -1,0 +1,24 @@
+3909079946
+
+spriteid 297 remove
+sprite 152 angoff 512
+sprite 500 angoff 256
+sprite 501 angoff 256
+sprite 502 angoff 512
+sprite 612 angoff 512
+sprite 613 angoff 1024
+sprite 614 angoff 1024
+sprite 615 angoff 1024
+sprite 616 angoff 1024
+sprite 619 angoff 1024
+sprite 621 angoff 512
+sprite 623 angoff 512
+sprite 625 angoff 512
+sprite 633 mdyoff -100
+sprite 710 mdzoff -5000
+sprite 718 angoff 512
+sprite 744 angoff -512
+sprite 745 angoff 512
+sprite 746 angoff 512
+sprite 762 angoff 1024
+sprite 886 angoff -256

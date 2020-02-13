@@ -2,9 +2,9 @@
 Blood Voxel Pack
 ============================================================================================
 
-Version:       0.92
-Release Date:  10.02.2020
-Author:        Oleg "fgsfds" G.
+Version:       0.91
+Release Date:  13.09.2019
+Author:        Oleg "FGSFDS" G.
 
 
 ============================================================================================
@@ -12,16 +12,15 @@ ABOUT
 ============================================================================================
 
 This pack provides voxel replacements for sprites in Blood.
-It is meant to be used with the BuildGDX or NBlood ports.
+It is meant to be used with Blood Fresh Supply.
 
 
 ============================================================================================
 HOW TO USE
 ============================================================================================
 
-BuildGDX (1.04 and later) and NBlood (r2059 or later):
-- put voxels.zip into autoload folder
-- make sure "enable autoload folder" checkbox is enabled
+- unpack .zip archive into the Fresh Supply folder
+- run fs_install.bat
 
 
 ============================================================================================
@@ -29,39 +28,25 @@ LINKS
 ============================================================================================
 
 > Voxel pack thread:
-   https://forums.duke4.net/topic/9360-blood-voxel-pack/
-
-> BuildGDX port:
-   https://m210.duke4.net/index.php/downloads/download/8-java/53-buildgdx
-
-> NBlood dev builds:
-   https://lerppu.net/wannabethesis/nblood/
+  https://forums.duke4.net/topic/9360-blood-voxel-pack/
 
 
 ============================================================================================
 CREDITS
 ============================================================================================
 
-> Voxel creation
-   fgsfds (https://twitter.com/fgsfds228)
-   warezeater
+Main Development:
 
-> Maphacks
-   fgsfds
+> Voxel creation
+  FGSFDS (https://twitter.com/fgsfds228)
+
+> All voxels based on work by 
+  Monolith Productions
 
 
 ============================================================================================
 CHANGELOG
 ============================================================================================
-
-Version 0.92 (10.02.2020)
----------------------------
-+ Maphacks support for NBlood
-+ Jug (0616)
-+ Lantern (0693)
-+ Jug (0712)
-+ Vase (0739)
-
 
 Version 0.91 (13.09.2019)
 ---------------------------

@@ -1,0 +1,13 @@
+4019830837
+
+sprite 30 angoff 512
+sprite 54 angoff 512
+sprite 54 mdyoff -50
+sprite 67 angoff 1024
+sprite 153 mdyoff 30
+sprite 155 angoff 256
+sprite 168 angoff -256
+sprite 169 angoff 256
+sprite 233 angoff 512
+sprite 236 angoff 256
+sprite 372 angoff 512

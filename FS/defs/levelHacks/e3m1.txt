@@ -1,0 +1,10 @@
+2789625892
+
+sprite 424 angoff 512
+sprite 435 angoff -512
+sprite 436 angoff -768
+sprite 444 angoff 512
+sprite 472 angoff -512
+sprite 715 angoff 256
+sprite 716 angoff 256
+sprite 723 angoff 256

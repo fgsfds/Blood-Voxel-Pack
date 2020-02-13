@@ -1,0 +1,6 @@
+4110946005
+
+sprite 80 angoff 1024
+sprite 88 angoff 1024
+sprite 104 angoff 1024
+sprite 127 angoff 1024
