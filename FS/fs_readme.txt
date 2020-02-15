@@ -2,9 +2,9 @@
 Blood Voxel Pack
 ============================================================================================
 
-Version:       0.91
-Release Date:  13.09.2019
-Author:        Oleg "FGSFDS" G.
+Version:       0.92
+Release Date:  10.02.2020
+Author:        Oleg "fgsfds" G.
 
 
 ============================================================================================
@@ -35,18 +35,26 @@ LINKS
 CREDITS
 ============================================================================================
 
-Main Development:
-
 > Voxel creation
-  FGSFDS (https://twitter.com/fgsfds228)
+   fgsfds (https://twitter.com/fgsfds228)
+   warezeater
 
-> All voxels based on work by 
-  Monolith Productions
+> Maphacks
+   fgsfds
 
 
 ============================================================================================
 CHANGELOG
 ============================================================================================
+
+Version 0.92 (10.02.2020)
+---------------------------
++ Maphacks support for NBlood
++ Jug (0616)
++ Lantern (0693)
++ Jug (0712)
++ Vase (0739)
+
 
 Version 0.91 (13.09.2019)
 ---------------------------

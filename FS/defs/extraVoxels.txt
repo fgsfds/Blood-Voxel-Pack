@@ -165,11 +165,16 @@ Voxel 2544 { filename "KVX/2544_KEYSIGN5.kvx" }
 Voxel 2545 { filename "KVX/2545_KEYSIGN6.kvx" }
 Voxel 2558 { filename "KVX/2558_KEY7.kvx" rotate TRUE }
 
-Voxel 3444{ filename "KVX/3444_PROX_A.kvx"  }
-Voxel 3445{ filename "KVX/3445_PROX_B.kvx" }
-Voxel 3446{ filename "KVX/3446_PROX_C.kvx" }
-Voxel 3447{ filename "KVX/3447_PROX_D.kvx" }
-Voxel 3448{ filename "KVX/3448_PROX_E.kvx" }
+Voxel 3444 { filename "KVX/3444_PROX_A.kvx"  }
+Voxel 3445 { filename "KVX/3445_PROX_B.kvx" }
+Voxel 3446 { filename "KVX/3446_PROX_C.kvx" }
+Voxel 3447 { filename "KVX/3447_PROX_D.kvx" }
+Voxel 3448 { filename "KVX/3448_PROX_E.kvx" }
 
-Voxel 3457{ filename "KVX/3457_REMOTE_A.kvx" }
-Voxel 3458{ filename "KVX/3458_REMOTE_B.kvx" }
+Voxel 3457 { filename "KVX/3457_REMOTE_A.kvx" }
+Voxel 3458 { filename "KVX/3458_REMOTE_B.kvx" }
+
+Voxel 616 { filename "KVX/0616_JUG.kvx" }
+Voxel 693 { filename "KVX/0693_LANTERN.kvx" }
+Voxel 712 { filename "KVX/0712_JUG.kvx" }
+Voxel 739 { filename "KVX/0739_VASE.kvx" }
