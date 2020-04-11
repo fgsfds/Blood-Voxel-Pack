@@ -74,6 +74,10 @@ voxel "KVX/3448_PROX_E.kvx" { tile 3448 }
 voxel "KVX/3457_REMOTE_A.kvx" { tile 3457 }
 voxel "KVX/3458_REMOTE_B.kvx" { tile 3458 }
 
+voxel "KVX/3422_STICK_A.kvx" { tile 3422 }
+voxel "KVX/3423_STICK_B.kvx" { tile 3423 }
+voxel "KVX/3424_STICK_C.kvx" { tile 3424 }
+
 
 //Switches
 
