@@ -125,6 +125,8 @@ voxel "KVX/0830_SWIMSUIT.kvx" { tile 830 }
 voxel "KVX/2558_KEY7.kvx" { tile 2558 rotate }
 
 
+//Props
+
 voxel "KVX/0256_WOODBRIDGE.kvx" { tile 0256 }
 voxel "KVX/0640_LANTERN.kvx" { tile 640 }
 voxel "KVX/0641_CHAINLANTERN.kvx" { tile 0641 }
@@ -178,7 +180,7 @@ voxel "KVX/1010_PLANT2.kvx" { tile 1010 }
 voxel "KVX/1013_FLOWERS.kvx" { tile 1013 }
 voxel "KVX/1050_SOCKET.kvx" { tile 1050 }
 voxel "KVX/1098_GRATE.kvx" { tile 1098 }
-voxel "KVX/1099_GRATEBROKEN.kvx" { tile 1099 }
+voxel "KVX/1099_GRATE_BRK.kvx" { tile 1099 }
 voxel "KVX/1708_PRUNERS.kvx" { tile 1708 }
 voxel "KVX/1709_AXE.kvx" { tile 1709 }
 voxel "KVX/1710_BROOM.kvx" { tile 1710 }
@@ -205,3 +207,8 @@ voxel "KVX/0616_JUG.kvx" { tile 616 }
 voxel "KVX/0693_LANTERN.kvx" { tile 693 }
 voxel "KVX/0712_JUG.kvx" { tile 712 }
 voxel "KVX/0739_VASE.kvx" { tile 739 }
+voxel "KVX/0058_MTLBARS.kvx" { tile 0058 }
+voxel "KVX/0059_MTLBARS2.kvx" { tile 0059 }
+voxel "KVX/0350_RAILING.kvx" { tile 0350 }
+voxel "KVX/0351_RAILING2.kvx" { tile 0351 }
+voxel "KVX/0588_RAILING3.kvx" { tile 0588 }
