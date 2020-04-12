@@ -82,6 +82,14 @@ voxel "KVX/3433_DYNOMITE_A.kvx" { tile 3433 }
 voxel "KVX/3434_DYNOMITE_B.kvx" { tile 3434 }
 voxel "KVX/3435_DYNOMITE_C.kvx" { tile 3435 }
 
+voxel "KVX/1701_LANTERN_A.kvx" { tile 1701 }
+voxel "KVX/1702_LANTERN_B.kvx" { tile 1702 }
+voxel "KVX/1703_LANTERN_C.kvx" { tile 1703 }
+voxel "KVX/1704_LANTERN_D.kvx" { tile 1704 }
+voxel "KVX/1705_LANTERN_E.kvx" { tile 1705 }
+voxel "KVX/1706_LANTERN_F.kvx" { tile 1706 }
+voxel "KVX/1707_LANTERN_G.kvx" { tile 1707 }
+
 
 //Switches
 
