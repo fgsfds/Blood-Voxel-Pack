@@ -59,6 +59,10 @@ Version 0.93 (00.00.0000)
 * Various voxels fixes
 + Metal Bars (0058-0059)
 + Wooden Railings (0350-0351, 0588)
++ Fire Lantern (1701-1707)
++ Dropped Dynomite Stick (3422-3424)
++ Dropped Dynomite Bundle (3433-3435)
++ Dropped Spray Can (3467-3470)
 
 
 Version 0.92 (10.02.2020)
@@ -68,10 +72,6 @@ Version 0.92 (10.02.2020)
 + Lantern (0693)
 + Jug (0712)
 + Vase (0739)
-+ Fire Lantern (1701-1707)
-+ Dropped Dynomite Stick (3422-3424)
-+ Dropped Dynomite Bundle (3433-3435)
-+ Dropped Spray Can (3467-3470)
 
 
 Version 0.91 (13.09.2019)

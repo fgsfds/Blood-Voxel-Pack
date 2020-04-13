@@ -224,10 +224,10 @@ voxel "KVX/2542_KEYSIGN3.kvx" { tile 2542 }
 voxel "KVX/2543_KEYSIGN4.kvx" { tile 2543 }
 voxel "KVX/2544_KEYSIGN5.kvx" { tile 2544 }
 voxel "KVX/2545_KEYSIGN6.kvx" { tile 2545 }
-voxel "KVX/0616_JUG.kvx" { tile 616 }
-voxel "KVX/0693_LANTERN.kvx" { tile 693 }
-voxel "KVX/0712_JUG.kvx" { tile 712 }
-voxel "KVX/0739_VASE.kvx" { tile 739 }
+voxel "KVX/0616_JUG.kvx" { tile 616 } // warezeater
+voxel "KVX/0693_LANTERN.kvx" { tile 693 } // warezeater
+voxel "KVX/0712_JUG.kvx" { tile 712 } // warezeater
+voxel "KVX/0739_VASE.kvx" { tile 739 } // warezeater
 voxel "KVX/0058_MTLBARS.kvx" { tile 0058 }
 voxel "KVX/0059_MTLBARS2.kvx" { tile 0059 }
 voxel "KVX/0350_RAILING.kvx" { tile 0350 }
