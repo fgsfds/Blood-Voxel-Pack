@@ -90,6 +90,11 @@ voxel "KVX/1705_LANTERN_E.kvx" { tile 1705 }
 voxel "KVX/1706_LANTERN_F.kvx" { tile 1706 }
 voxel "KVX/1707_LANTERN_G.kvx" { tile 1707 }
 
+voxel "KVX/3467_SPRAY_A.kvx" { tile 3467 }
+voxel "KVX/3468_SPRAY_B.kvx" { tile 3468 }
+voxel "KVX/3469_SPRAY_C.kvx" { tile 3469 }
+voxel "KVX/3470_SPRAY_D.kvx" { tile 3470 }
+
 
 //Switches
 
