@@ -60,8 +60,8 @@ Version 0.93 (00.00.0000)
 + Metal Bars (0058-0059)
 + Wooden Railings (0350-0351, 0588)
 + Fire Lantern (1701-1707)
-+ Dropped Dynomite Stick (3422-3424)
-+ Dropped Dynomite Bundle (3433-3435)
++ Dropped Dynamite Stick (3422-3424)
++ Dropped Dynamite Bundle (3433-3435)
 + Dropped Spray Can (3467-3470)
 
 
