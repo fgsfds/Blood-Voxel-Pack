@@ -35,6 +35,10 @@ voxel "KVX/0939_CANDLE_B.kvx" { tile 939 }
 voxel "KVX/0940_CANDLE_C.kvx" { tile 940 }
 voxel "KVX/0941_CANDLE_D.kvx" { tile 941 }
 
+voxel "KVX/1092_AIR_FRESHENER_A.kvx" { tile 1092 }
+voxel "KVX/1093_AIR_FRESHENER_B.kvx" { tile 1093 }
+voxel "KVX/1094_AIR_FRESHENER_C.kvx" { tile 1094 }
+
 voxel "KVX/1722_WIRES_A.kvx" { tile 1722 }
 voxel "KVX/1723_WIRES_B.kvx" { tile 1723 }
 voxel "KVX/1724_WIRES_C.kvx" { tile 1724 }
