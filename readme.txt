@@ -12,14 +12,14 @@ ABOUT
 ============================================================================================
 
 This pack provides voxel replacements for sprites in Blood.
-It is meant to be used with the BuildGDX or NBlood ports.
+It is meant to be used with BuildGDX or NBlood ports.
 
 
 ============================================================================================
 HOW TO USE
 ============================================================================================
 
-BuildGDX and NBlood:
+BuildGDX (1.09 or later) and NBlood (r11419 or later):
 - put voxels.zip into autoload folder
 - make sure "enable autoload folder" checkbox is enabled
 

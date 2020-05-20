@@ -1,2 +1,2 @@
-include bloodgdx.def
+include voxels.def
 include maphacks/maphacks.def
