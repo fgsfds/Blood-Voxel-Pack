@@ -2,8 +2,8 @@
 Blood Voxel Pack
 ============================================================================================
 
-Version:       0.92
-Release Date:  10.02.2020
+Version:       0.93
+Release Date:  19.05.2020
 Author:        Oleg "fgsfds" G.
 
 
@@ -12,14 +12,14 @@ ABOUT
 ============================================================================================
 
 This pack provides voxel replacements for sprites in Blood.
-It is meant to be used with the BuildGDX or NBlood ports.
+It is meant to be used with BuildGDX or NBlood ports.
 
 
 ============================================================================================
 HOW TO USE
 ============================================================================================
 
-BuildGDX (1.04 and later) and NBlood (r2059 or later):
+BuildGDX (1.09 or later) and NBlood (r11419 or later):
 - put voxels.zip into autoload folder
 - make sure "enable autoload folder" checkbox is enabled
 
@@ -45,6 +45,7 @@ CREDITS
 > Voxel creation
    fgsfds (https://twitter.com/fgsfds228)
    warezeater
+   Dzierzan
 
 > Maphacks
    fgsfds
@@ -54,7 +55,7 @@ CREDITS
 CHANGELOG
 ============================================================================================
 
-Version 0.93 (00.00.0000)
+Version 0.93 (19.05.2020)
 ---------------------------
 * Various voxels fixes
 + Metal Bars (0058-0059)
@@ -63,15 +64,18 @@ Version 0.93 (00.00.0000)
 + Dropped Dynamite Stick (3422-3424)
 + Dropped Dynamite Bundle (3433-3435)
 + Dropped Spray Can (3467-3470)
++ Stalactite (0632) by Dzierzan
++ Eye Gib (1454) by Dzierzan
++ Air Freshener (1092-1094) by Dzierzan
 
 
 Version 0.92 (10.02.2020)
 ---------------------------
 + Maphacks support for NBlood
-+ Jug (0616)
-+ Lantern (0693)
-+ Jug (0712)
-+ Vase (0739)
++ Jug (0616) by warezeater
++ Lantern (0693) by warezeater
++ Jug (0712) by warezeater
++ Vase (0739) by warezeater
 
 
 Version 0.91 (13.09.2019)
