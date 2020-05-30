@@ -82,9 +82,9 @@ voxel "KVX/3422_STICK_A.kvx" { tile 3422 }
 voxel "KVX/3423_STICK_B.kvx" { tile 3423 }
 voxel "KVX/3424_STICK_C.kvx" { tile 3424 }
 
-voxel "KVX/3433_DYNOMITE_A.kvx" { tile 3433 }
-voxel "KVX/3434_DYNOMITE_B.kvx" { tile 3434 }
-voxel "KVX/3435_DYNOMITE_C.kvx" { tile 3435 }
+voxel "KVX/3433_DYNAMITE_A.kvx" { tile 3433 }
+voxel "KVX/3434_DYNAMITE_B.kvx" { tile 3434 }
+voxel "KVX/3435_DYNAMITE_C.kvx" { tile 3435 }
 
 voxel "KVX/1701_LANTERN_A.kvx" { tile 1701 }
 voxel "KVX/1702_LANTERN_B.kvx" { tile 1702 }
