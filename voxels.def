@@ -239,3 +239,14 @@ voxel "KVX/0059_MTLBARS2.kvx" { tile 0059 }
 voxel "KVX/0350_RAILING.kvx" { tile 0350 }
 voxel "KVX/0351_RAILING2.kvx" { tile 0351 }
 voxel "KVX/0588_RAILING3.kvx" { tile 0588 }
+voxel "KVX/1066_WEB1.kvx" { tile 1066 }
+voxel "KVX/1067_WEB2.kvx" { tile 1067 }
+voxel "KVX/1068_WEB3.kvx" { tile 1068 }
+voxel "KVX/1069_WEB4.kvx" { tile 1069 }
+voxel "KVX/1087_WEB_BRK_A.kvx" { tile 1087 }
+voxel "KVX/1088_WEB_BRK_B.kvx" { tile 1088 }
+voxel "KVX/1089_WEB_BRK_C.kvx" { tile 1089 }
+voxel "KVX/2420_WEB_FIRE_A.kvx" { tile 2420 }
+voxel "KVX/2421_WEB_FIRE_B.kvx" { tile 2421 }
+voxel "KVX/2422_WEB_FIRE_C.kvx" { tile 2422 }
+voxel "KVX/2423_WEB_FIRE_D.kvx" { tile 2423 }

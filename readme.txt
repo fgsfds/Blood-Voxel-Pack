@@ -20,7 +20,7 @@ HOW TO USE
 ============================================================================================
 
 BuildGDX (1.09 or later) and NBlood (r11419 or later):
-- put voxels.zip into autoload folder
+- put blvoxels.zip into autoload folder located in a game directory
 - make sure "enable autoload folder" checkbox is enabled
 
 
@@ -54,6 +54,11 @@ CREDITS
 ============================================================================================
 CHANGELOG
 ============================================================================================
+
+Version 0.94 (WIP)
+---------------------------
++ Web (1066-1069, 1087-1089, 2420-2423)
+
 
 Version 0.93 (21.05.2020)
 ---------------------------
