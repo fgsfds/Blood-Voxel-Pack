@@ -82,9 +82,9 @@ voxel "KVX/3422_STICK_A.kvx" { tile 3422 }
 voxel "KVX/3423_STICK_B.kvx" { tile 3423 }
 voxel "KVX/3424_STICK_C.kvx" { tile 3424 }
 
-voxel "KVX/3433_DYNAMITE_A.kvx" { tile 3433 }
-voxel "KVX/3434_DYNAMITE_B.kvx" { tile 3434 }
-voxel "KVX/3435_DYNAMITE_C.kvx" { tile 3435 }
+voxel "KVX/3433_DYNOMITE_A.kvx" { tile 3433 }
+voxel "KVX/3434_DYNOMITE_B.kvx" { tile 3434 }
+voxel "KVX/3435_DYNOMITE_C.kvx" { tile 3435 }
 
 voxel "KVX/1701_LANTERN_A.kvx" { tile 1701 }
 voxel "KVX/1702_LANTERN_B.kvx" { tile 1702 }
@@ -197,6 +197,7 @@ voxel "KVX/0753_SHOWER.kvx" { tile 753 }
 voxel "KVX/0759_BOTTLE1.kvx" { tile 759 }
 voxel "KVX/0802_JAR1.kvx" { tile 802 }
 voxel "KVX/0834_INVISIBL.KVX" { tile 834 }
+voxel "KVX/0852_DUCK.KVX" { tile 852 }
 voxel "KVX/0905_SIGN_TICKETS.kvx" { tile 905 }
 voxel "KVX/0946_BULB_OFF.kvx" { tile 0946 }
 voxel "KVX/0947_BULB_ON.kvx" { tile 0947 }
@@ -239,14 +240,3 @@ voxel "KVX/0059_MTLBARS2.kvx" { tile 0059 }
 voxel "KVX/0350_RAILING.kvx" { tile 0350 }
 voxel "KVX/0351_RAILING2.kvx" { tile 0351 }
 voxel "KVX/0588_RAILING3.kvx" { tile 0588 }
-voxel "KVX/1066_WEB1.kvx" { tile 1066 }
-voxel "KVX/1067_WEB2.kvx" { tile 1067 }
-voxel "KVX/1068_WEB3.kvx" { tile 1068 }
-voxel "KVX/1069_WEB4.kvx" { tile 1069 }
-voxel "KVX/1087_WEB_BRK_A.kvx" { tile 1087 }
-voxel "KVX/1088_WEB_BRK_B.kvx" { tile 1088 }
-voxel "KVX/1089_WEB_BRK_C.kvx" { tile 1089 }
-voxel "KVX/2420_WEB_FIRE_A.kvx" { tile 2420 }
-voxel "KVX/2421_WEB_FIRE_B.kvx" { tile 2421 }
-voxel "KVX/2422_WEB_FIRE_C.kvx" { tile 2422 }
-voxel "KVX/2423_WEB_FIRE_D.kvx" { tile 2423 }
