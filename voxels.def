@@ -197,6 +197,7 @@ voxel "KVX/0753_SHOWER.kvx" { tile 753 }
 voxel "KVX/0759_BOTTLE1.kvx" { tile 759 }
 voxel "KVX/0802_JAR1.kvx" { tile 802 }
 voxel "KVX/0834_INVISIBL.KVX" { tile 834 }
+voxel "KVX/0852_DUCK.KVX" { tile 852 }
 voxel "KVX/0905_SIGN_TICKETS.kvx" { tile 905 }
 voxel "KVX/0946_BULB_OFF.kvx" { tile 0946 }
 voxel "KVX/0947_BULB_ON.kvx" { tile 0947 }
