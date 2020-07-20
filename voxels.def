@@ -207,6 +207,7 @@ voxel "KVX/1013_FLOWERS.kvx" { tile 1013 }
 voxel "KVX/1050_SOCKET.kvx" { tile 1050 }
 voxel "KVX/1098_GRATE.kvx" { tile 1098 }
 voxel "KVX/1099_GRATE_BRK.kvx" { tile 1099 }
+voxel "KVX/1327_HELLHOUND_EYE_GIB.kvx" { tile 1327 }
 voxel "KVX/1454_EYE_GIB.kvx" { tile 1454 }
 voxel "KVX/1708_PRUNERS.kvx" { tile 1708 }
 voxel "KVX/1709_AXE.kvx" { tile 1709 }
