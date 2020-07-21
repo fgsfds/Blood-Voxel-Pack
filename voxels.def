@@ -159,6 +159,7 @@ voxel "KVX/1044_GATE.kvx" { tile 1044 }
 voxel "KVX/2493_LANTERN_SNOW.kvx" { tile 2493 }
 voxel "KVX/0201_TOXICBARREL.kvx" { tile 201 }
 voxel "KVX/0284_STOOL.kvx" { tile 284 }
+voxel "KVX/0382_BELL.kvx" { tile 382 }
 voxel "KVX/0563_ZOMBARREL.kvx" { tile 563 }
 voxel "KVX/0600_CANDLE.kvx" { tile 0600 }
 voxel "KVX/0605_BOTTLE4.kvx" { tile 605 }
@@ -177,6 +178,7 @@ voxel "KVX/0485_FAUCET.kvx" { tile 485 }
 voxel "KVX/0505_WASTE.kvx" { tile 505 }
 voxel "KVX/0513_ROPE.kvx" { tile 0513 }
 voxel "KVX/0517_HEALTHBOTTLE.kvx" { tile 517 }
+voxel "KVX/0534_PILLAR.kvx" { tile 534 }
 voxel "KVX/0537_VASE.kvx" { tile 0537 }
 voxel "KVX/0549_CEILINGCHAND2_OFF.kvx" { tile 0549 }
 voxel "KVX/0554_TORCH_OFF.kvx" { tile 0554 }
@@ -185,6 +187,7 @@ voxel "KVX/0560_POST1.kvx" { tile 0560 }
 voxel "KVX/0561_POST2.kvx" { tile 0561 }
 voxel "KVX/0570_TORCH_OFF.kvx" { tile 570 }
 voxel "KVX/0571_TORCH_ON.kvx" { tile 571 }
+voxel "KVX/0574_EMPTY_GLASS.kvx" { tile 574 }
 voxel "KVX/0575_INLOVING.kvx" { tile 575 }
 voxel "KVX/0604_JAR2.kvx" { tile 604 }
 voxel "KVX/0607_SKULLSTAKE.kvx" { tile 607 }
@@ -196,8 +199,10 @@ voxel "KVX/0714_SHIELD.kvx" { tile 714 }
 voxel "KVX/0753_SHOWER.kvx" { tile 753 }
 voxel "KVX/0759_BOTTLE1.kvx" { tile 759 }
 voxel "KVX/0802_JAR1.kvx" { tile 802 }
+voxel "KVX/0803_GOBLET.kvx" { tile 803 }
 voxel "KVX/0834_INVISIBL.KVX" { tile 834 }
 voxel "KVX/0853_FACE.KVX" { tile 853 }
+voxel "KVX/0852_DUCK.KVX" { tile 852 }
 voxel "KVX/0905_SIGN_TICKETS.kvx" { tile 905 }
 voxel "KVX/0946_BULB_OFF.kvx" { tile 0946 }
 voxel "KVX/0947_BULB_ON.kvx" { tile 0947 }
@@ -208,6 +213,7 @@ voxel "KVX/1013_FLOWERS.kvx" { tile 1013 }
 voxel "KVX/1050_SOCKET.kvx" { tile 1050 }
 voxel "KVX/1098_GRATE.kvx" { tile 1098 }
 voxel "KVX/1099_GRATE_BRK.kvx" { tile 1099 }
+voxel "KVX/1115_BALLOON.kvx" { tile 1115 }
 voxel "KVX/1454_EYE_GIB.kvx" { tile 1454 }
 voxel "KVX/1708_PRUNERS.kvx" { tile 1708 }
 voxel "KVX/1709_AXE.kvx" { tile 1709 }
