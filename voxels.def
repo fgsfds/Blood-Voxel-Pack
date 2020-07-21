@@ -187,6 +187,7 @@ voxel "KVX/0560_POST1.kvx" { tile 0560 }
 voxel "KVX/0561_POST2.kvx" { tile 0561 }
 voxel "KVX/0570_TORCH_OFF.kvx" { tile 570 }
 voxel "KVX/0571_TORCH_ON.kvx" { tile 571 }
+voxel "KVX/0574_EMPTY_GLASS.kvx" { tile 574 }
 voxel "KVX/0575_INLOVING.kvx" { tile 575 }
 voxel "KVX/0604_JAR2.kvx" { tile 604 }
 voxel "KVX/0607_SKULLSTAKE.kvx" { tile 607 }
