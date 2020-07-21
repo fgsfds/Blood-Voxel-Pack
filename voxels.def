@@ -177,6 +177,7 @@ voxel "KVX/0485_FAUCET.kvx" { tile 485 }
 voxel "KVX/0505_WASTE.kvx" { tile 505 }
 voxel "KVX/0513_ROPE.kvx" { tile 0513 }
 voxel "KVX/0517_HEALTHBOTTLE.kvx" { tile 517 }
+voxel "KVX/0534_PILLAR.kvx" { tile 534 }
 voxel "KVX/0537_VASE.kvx" { tile 0537 }
 voxel "KVX/0549_CEILINGCHAND2_OFF.kvx" { tile 0549 }
 voxel "KVX/0554_TORCH_OFF.kvx" { tile 0554 }
