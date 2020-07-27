@@ -207,6 +207,12 @@ voxel "KVX/0905_SIGN_TICKETS.kvx" { tile 905 }
 voxel "KVX/0946_BULB_OFF.kvx" { tile 0946 }
 voxel "KVX/0947_BULB_ON.kvx" { tile 0947 }
 voxel "KVX/0961_POT1.kvx" { tile 0961 }
+voxel "KVX/0968_SPIKETRAP_1.kvx" { tile 0968 } // Dzierzan
+voxel "KVX/0969_SPIKETRAP_2.kvx" { tile 0969 } // Dzierzan
+voxel "KVX/0970_SPIKETRAP_3.kvx" { tile 0970 } // Dzierzan
+voxel "KVX/0971_SPIKETRAP_4.kvx" { tile 0971 } // Dzierzan
+voxel "KVX/0972_SPIKETRAP_5.kvx" { tile 0972 } // Dzierzan
+voxel "KVX/0973_SPIKETRAP_6.kvx" { tile 0973 } // Dzierzan
 voxel "KVX/1009_PLANT1.kvx" { tile 1009 }
 voxel "KVX/1010_PLANT2.kvx" { tile 1010 }
 voxel "KVX/1013_FLOWERS.kvx" { tile 1013 }
