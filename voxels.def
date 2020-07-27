@@ -193,7 +193,7 @@ voxel "KVX/0604_JAR2.kvx" { tile 604 }
 voxel "KVX/0607_SKULLSTAKE.kvx" { tile 607 }
 voxel "KVX/0632_STALACTITE.kvx" { tile 632 }
 voxel "KVX/0633_RIP.kvx" { tile 633 }
-voxel "KVX/0654_STALACTITE.kvx" { tile 654 }
+voxel "KVX/0654_STALACTITE.kvx" { tile 654 } // Dzierzan
 voxel "KVX/0658_EXTINGUISHER.kvx" { tile 658 }
 voxel "KVX/0659_WINDOW2.kvx" { tile 659 }
 voxel "KVX/0714_SHIELD.kvx" { tile 714 }
