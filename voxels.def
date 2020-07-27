@@ -160,7 +160,7 @@ voxel "KVX/2493_LANTERN_SNOW.kvx" { tile 2493 }
 voxel "KVX/0201_TOXICBARREL.kvx" { tile 201 }
 voxel "KVX/0284_STOOL.kvx" { tile 284 }
 voxel "KVX/0382_BELL.kvx" { tile 382 }
-voxel "KVX/0446_KRUEGER.kvx" { tile 446 }
+voxel "KVX/0446_KRUEGER.kvx" { tile 446 } // Dzierzan
 voxel "KVX/0563_ZOMBARREL.kvx" { tile 563 }
 voxel "KVX/0600_CANDLE.kvx" { tile 0600 }
 voxel "KVX/0605_BOTTLE4.kvx" { tile 605 }
