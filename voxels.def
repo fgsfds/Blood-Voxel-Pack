@@ -207,6 +207,8 @@ voxel "KVX/0905_SIGN_TICKETS.kvx" { tile 905 }
 voxel "KVX/0946_BULB_OFF.kvx" { tile 0946 }
 voxel "KVX/0947_BULB_ON.kvx" { tile 0947 }
 voxel "KVX/0961_POT1.kvx" { tile 0961 }
+voxel "KVX/0966_TARGET_1.kvx" { tile 0966 } // Dzierzan
+voxel "KVX/0967_TARGET_2.kvx" { tile 0967 } // Dzierzan
 voxel "KVX/1009_PLANT1.kvx" { tile 1009 }
 voxel "KVX/1010_PLANT2.kvx" { tile 1010 }
 voxel "KVX/1013_FLOWERS.kvx" { tile 1013 }
