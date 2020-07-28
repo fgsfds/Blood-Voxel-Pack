@@ -208,6 +208,8 @@ voxel "KVX/0905_SIGN_TICKETS.kvx" { tile 905 }
 voxel "KVX/0946_BULB_OFF.kvx" { tile 0946 }
 voxel "KVX/0947_BULB_ON.kvx" { tile 0947 }
 voxel "KVX/0961_POT1.kvx" { tile 0961 }
+voxel "KVX/0966_TARGET_1.kvx" { tile 0966 } // Dzierzan
+voxel "KVX/0967_TARGET_2.kvx" { tile 0967 } // Dzierzan
 voxel "KVX/0968_SPIKETRAP_1.kvx" { tile 0968 } // Dzierzan
 voxel "KVX/0969_SPIKETRAP_2.kvx" { tile 0969 } // Dzierzan
 voxel "KVX/0970_SPIKETRAP_3.kvx" { tile 0970 } // Dzierzan
