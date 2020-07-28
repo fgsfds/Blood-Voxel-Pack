@@ -287,6 +287,8 @@ voxel "KVX/1069_WEB4.kvx" { tile 1069 }
 voxel "KVX/1087_WEB_BRK_A.kvx" { tile 1087 }
 voxel "KVX/1088_WEB_BRK_B.kvx" { tile 1088 }
 voxel "KVX/1089_WEB_BRK_C.kvx" { tile 1089 }
+voxel "KVX/2410_FLY_A.kvx" { tile0 2410 tile1 2414 } // Dzierzan
+voxel "KVX/2415_FLY_B.kvx" { tile0 2415 tile1 2419 } // Dzierzan
 voxel "KVX/2420_WEB_FIRE_A.kvx" { tile 2420 }
 voxel "KVX/2421_WEB_FIRE_B.kvx" { tile 2421 }
 voxel "KVX/2422_WEB_FIRE_C.kvx" { tile 2422 }
