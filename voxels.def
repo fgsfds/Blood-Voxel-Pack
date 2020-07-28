@@ -39,6 +39,12 @@ voxel "KVX/1092_AIR_FRESHENER_A.kvx" { tile 1092 } // Dzierzan
 voxel "KVX/1093_AIR_FRESHENER_B.kvx" { tile 1093 } // Dzierzan
 voxel "KVX/1094_AIR_FRESHENER_C.kvx" { tile 1094 } // Dzierzan
 
+voxel "KVX/1148_BLOOD_A.kvx" { tile 1148 } // Dzierzan
+voxel "KVX/1149_BLOOD_B.kvx" { tile 1149 } // Dzierzan
+voxel "KVX/1150_BLOOD_C.kvx" { tile 1150 } // Dzierzan
+voxel "KVX/1151_BLOOD_D.kvx" { tile 1151 } // Dzierzan
+voxel "KVX/1152_BLOOD_E.kvx" { tile 1152 } // Dzierzan
+
 voxel "KVX/1722_WIRES_A.kvx" { tile 1722 }
 voxel "KVX/1723_WIRES_B.kvx" { tile 1723 }
 voxel "KVX/1724_WIRES_C.kvx" { tile 1724 }
@@ -227,6 +233,9 @@ voxel "KVX/1013_FLOWERS.kvx" { tile 1013 }
 voxel "KVX/1050_SOCKET.kvx" { tile 1050 }
 voxel "KVX/1098_GRATE.kvx" { tile 1098 }
 voxel "KVX/1099_GRATE_BRK.kvx" { tile 1099 }
+voxel "KVX/1160_BLOOD_DROP.kvx" { tile 1160 } // Dzierzan
+voxel "KVX/2028_BLOOD_DROP_A.kvx" { tile 2028 } // Dzierzan
+voxel "KVX/2029_BLOOD_DROP_B.kvx" { tile 2029 } // Dzierzan
 voxel "KVX/1327_HELLHOUND_EYE_GIB.kvx" { tile 1327 } // Dzierzan
 voxel "KVX/1115_BALLOON.kvx" { tile 1115 } // Dzierzan
 voxel "KVX/1454_EYE_GIB.kvx" { tile 1454 } // Dzierzan
