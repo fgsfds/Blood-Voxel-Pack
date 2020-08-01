@@ -210,7 +210,7 @@ voxel "KVX/0640_LANTERN.kvx" { tile 640 }
 voxel "KVX/0641_CHAINLANTERN.kvx" { tile 0641 }
 voxel "KVX/0649_TABLE.kvx" { tile 0649 }
 voxel "KVX/0650_CANDLE.kvx" { tile 650 }
-voxel "KVX/0654_STALACTITE.kvx" { tile 654 } // Dzierzan
+voxel "KVX/0654_STALACTITE_2.kvx" { tile 654 } // Dzierzan
 voxel "KVX/0658_EXTINGUISHER.kvx" { tile 658 }
 voxel "KVX/0659_WINDOW2.kvx" { tile 659 }
 voxel "KVX/0693_LANTERN.kvx" { tile 693 } // warezeater
@@ -292,3 +292,12 @@ voxel "KVX/2542_KEYSIGN3.kvx" { tile 2542 }
 voxel "KVX/2543_KEYSIGN4.kvx" { tile 2543 }
 voxel "KVX/2544_KEYSIGN5.kvx" { tile 2544 }
 voxel "KVX/2545_KEYSIGN6.kvx" { tile 2545 }
+
+voxel "KVX/0631_KIMBLE.kvx" { tile 0631 } // Chillo
+voxel "KVX/0685_SKULL.kvx" { tile 0685 } // Chillo
+voxel "KVX/0738_COWSKULL.kvx" { tile 0738 } // Chillo
+voxel "KVX/1348_SKULL.kvx" { tile 1348 } // Chillo
+voxel "KVX/0226_FACE.kvx" { tile 0226 } // Chillo
+voxel "KVX/0799_REAPER.kvx" { tile 0799 } // Chillo
+voxel "KVX/1144_PAJAMAS.kvx" { tile 1144 } // Chillo
+voxel "KVX/1456_GIB.kvx" { tile 1456 } // Chillo

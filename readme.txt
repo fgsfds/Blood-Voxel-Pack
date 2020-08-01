@@ -4,7 +4,8 @@ Blood Voxel Pack
 
 Version:       0.94 WIP
 Release Date:  TBA
-Author:        Oleg "fgsfds" G.
+Author:        fgsfds
+Link:          https://github.com/fgsfds/Blood-Voxel-Pack
 
 
 ============================================================================================
@@ -45,6 +46,7 @@ CREDITS
 > Voxel creation
    fgsfds (https://twitter.com/fgsfds228)
    Dzierzan
+   Chillo (https://twitter.com/DanielWienerson)
    warezeater
 
 > Maphacks
@@ -73,12 +75,19 @@ Version 0.94 (WIP)
 + Freddy's Outfit (0446)
 + Jason's Outfit (0447)
 + Skull Goblet (0520)
-+ Blood Drops and Splashes (1148-1152, 1160, 2028, 2029)
-+ Water Drops and Splashes (1262-1266, 1147)
++ Blood drops and splashes (1148-1152, 1160, 2028, 2029)
++ Water drops and splashes (1262-1266, 1147)
 + Wine Glass (0521)
 + Clock (1165, 1166)
 + Fly (2410, 2415)
-
++ Kimble's Suit (0631)
++ Skull on Stake (1348)
++ Demon Skull (0685)
++ Cow Skull (0738)
++ Demon Face (0226)
++ Reaper (0799)
++ Pajamas (1144)
++ Gib (1456) 
 
 
 Version 0.93 (21.05.2020)
