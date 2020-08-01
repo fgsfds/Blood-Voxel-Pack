@@ -2,8 +2,8 @@
 Blood Voxel Pack
 ============================================================================================
 
-Version:       0.93
-Release Date:  21.05.2020
+Version:       0.94 WIP
+Release Date:  TBA
 Author:        Oleg "fgsfds" G.
 
 
@@ -19,7 +19,7 @@ It is meant to be used with BuildGDX or NBlood ports.
 HOW TO USE
 ============================================================================================
 
-BuildGDX (1.09 or later) and NBlood (r11419 or later):
+BuildGDX (1.15 or later) and NBlood (r11419 or later):
 - put blvoxels.zip into autoload folder located in a game directory
 - make sure "enable autoload folder" checkbox is enabled
 
@@ -44,8 +44,8 @@ CREDITS
 
 > Voxel creation
    fgsfds (https://twitter.com/fgsfds228)
-   warezeater
    Dzierzan
+   warezeater
 
 > Maphacks
    fgsfds
@@ -57,7 +57,28 @@ CHANGELOG
 
 Version 0.94 (WIP)
 ---------------------------
+> Maphacks support for BuildGDX 
 + Web (1066-1069, 1087-1089, 2420-2423)
++ Face Target (0853)
++ Duck Target (0852)
++ Balloon (1115)
++ Bell (0382)
++ Goblet (0803)
++ Pillar (0534)
++ Empty Glass (0574)
++ Hellhound Eye Gib (1327)
++ Stalactite (0654)
++ Targets (0966, 0967)
++ Med Pouch (0822)
++ Freddy's Outfit (0446)
++ Jason's Outfit (0447)
++ Skull Goblet (0520)
++ Blood Drops and Splashes (1148-1152, 1160, 2028, 2029)
++ Water Drops and Splashes (1262-1266, 1147)
++ Wine Glass (0521)
++ Clock (1165, 1166)
++ Fly (2410, 2415)
+
 
 
 Version 0.93 (21.05.2020)
@@ -69,18 +90,18 @@ Version 0.93 (21.05.2020)
 + Dropped Dynamite Stick (3422-3424)
 + Dropped Dynamite Bundle (3433-3435)
 + Dropped Spray Can (3467-3470)
-+ Stalactite (0632) by Dzierzan
-+ Eye Gib (1454) by Dzierzan
-+ Air Freshener (1092-1094) by Dzierzan
++ Stalactite (0632)
++ Eye Gib (1454)
++ Air Freshener (1092-1094)
 
 
 Version 0.92 (10.02.2020)
 ---------------------------
 + Maphacks support for NBlood
-+ Jug (0616) by warezeater
-+ Lantern (0693) by warezeater
-+ Jug (0712) by warezeater
-+ Vase (0739) by warezeater
++ Jug (0616)
++ Lantern (0693)
++ Jug (0712)
++ Vase (0739)
 
 
 Version 0.91 (13.09.2019)
