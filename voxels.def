@@ -30,6 +30,12 @@ voxel "KVX/0772_SAW2_A.kvx" { tile 772 }
 voxel "KVX/0773_SAW2_B.kvx" { tile 773 }
 voxel "KVX/0774_SAW2_C.kvx" { tile 774 }
 
+voxel "KVX/784_ALARM_OFF.kvx" { tile 784 }
+voxel "KVX/785_ALARM_ON_A.kvx" { tile 785 }
+voxel "KVX/786_ALARM_ON_B.kvx" { tile 786 }
+voxel "KVX/787_ALARM_ON_C.kvx" { tile 787 }
+voxel "KVX/788_ALARM_ON_D.kvx" { tile 788 }
+
 voxel "KVX/0938_CANDLE_A.kvx" { tile 938 }
 voxel "KVX/0939_CANDLE_B.kvx" { tile 939 }
 voxel "KVX/0940_CANDLE_C.kvx" { tile 940 }
