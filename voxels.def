@@ -1,313 +1,327 @@
 //Animated
 
-voxel "KVX/0506_TORCH_A.kvx" { tile 0506 }
-voxel "KVX/0507_TORCH_B.kvx" { tile 0507 }
-voxel "KVX/0508_TORCH_C.kvx" { tile 0508 }
-voxel "KVX/0509_TORCH_D.kvx" { tile 0509 }
+voxel "KVX/ANIM/0506_TORCH_A.KVX" { tile 0506 }
+voxel "KVX/ANIM/0507_TORCH_B.KVX" { tile 0507 }
+voxel "KVX/ANIM/0508_TORCH_C.KVX" { tile 0508 }
+voxel "KVX/ANIM/0509_TORCH_D.KVX" { tile 0509 }
 
-voxel "KVX/0580_CHAND_A.kvx" { tile 580 }
-voxel "KVX/0581_CHAND_B.kvx" { tile 581 }
-voxel "KVX/0582_CHAND_C.kvx" { tile 582 }
-voxel "KVX/0583_CHAND_D.kvx" { tile 583 }
+voxel "KVX/ANIM/0580_CHAND_A.KVX" { tile 580 }
+voxel "KVX/ANIM/0581_CHAND_B.KVX" { tile 581 }
+voxel "KVX/ANIM/0582_CHAND_C.KVX" { tile 582 }
+voxel "KVX/ANIM/0583_CHAND_D.KVX" { tile 583 }
 
-voxel "KVX/0584_CHAND2_A.kvx" { tile 584 }
-voxel "KVX/0585_CHAND2_B.kvx" { tile 585 }
-voxel "KVX/0586_CHAND2_C.kvx" { tile 586 }
-voxel "KVX/0587_CHAND2_D.kvx" { tile 587 }
+voxel "KVX/ANIM/0584_CHAND2_A.KVX" { tile 584 }
+voxel "KVX/ANIM/0585_CHAND2_B.KVX" { tile 585 }
+voxel "KVX/ANIM/0586_CHAND2_C.KVX" { tile 586 }
+voxel "KVX/ANIM/0587_CHAND2_D.KVX" { tile 587 }
 
-voxel "KVX/0596_CCHAND_A.kvx" { tile 0596 }
-voxel "KVX/0597_CCHAND_B.kvx" { tile 0597 }
+voxel "KVX/ANIM/0596_CCHAND_A.KVX" { tile 0596 }
+voxel "KVX/ANIM/0597_CCHAND_B.KVX" { tile 0597 }
 
-voxel "KVX/0628_CEILINGCHAND2_A.kvx" { tile 0628 }
-voxel "KVX/0629_CEILINGCHAND2_B.kvx" { tile 0629 }
-voxel "KVX/0630_CEILINGCHAND2_C.kvx" { tile 0630 }
+voxel "KVX/ANIM/0628_CEILINGCHAND2_A.KVX" { tile 0628 }
+voxel "KVX/ANIM/0629_CEILINGCHAND2_B.KVX" { tile 0629 }
+voxel "KVX/ANIM/0630_CEILINGCHAND2_C.KVX" { tile 0630 }
 
-voxel "KVX/0655_SAW1_A.kvx" { tile 655 }
-voxel "KVX/0656_SAW1_B.kvx" { tile 656 }
-voxel "KVX/0657_SAW1_C.kvx" { tile 657 }
+voxel "KVX/ANIM/0655_SAW1_A.KVX" { tile 655 }
+voxel "KVX/ANIM/0656_SAW1_B.KVX" { tile 656 }
+voxel "KVX/ANIM/0657_SAW1_C.KVX" { tile 657 }
 
-voxel "KVX/0772_SAW2_A.kvx" { tile 772 }
-voxel "KVX/0773_SAW2_B.kvx" { tile 773 }
-voxel "KVX/0774_SAW2_C.kvx" { tile 774 }
+voxel "KVX/ANIM/0772_SAW2_A.KVX" { tile 772 }
+voxel "KVX/ANIM/0773_SAW2_B.KVX" { tile 773 }
+voxel "KVX/ANIM/0774_SAW2_C.KVX" { tile 774 }
 
-voxel "KVX/0938_CANDLE_A.kvx" { tile 938 }
-voxel "KVX/0939_CANDLE_B.kvx" { tile 939 }
-voxel "KVX/0940_CANDLE_C.kvx" { tile 940 }
-voxel "KVX/0941_CANDLE_D.kvx" { tile 941 }
+voxel "KVX/ANIM/0938_CANDLE_A.KVX" { tile 938 }
+voxel "KVX/ANIM/0939_CANDLE_B.KVX" { tile 939 }
+voxel "KVX/ANIM/0940_CANDLE_C.KVX" { tile 940 }
+voxel "KVX/ANIM/0941_CANDLE_D.KVX" { tile 941 }
 
-voxel "KVX/1092_AIR_FRESHENER_A.kvx" { tile 1092 } // Dzierzan
-voxel "KVX/1093_AIR_FRESHENER_B.kvx" { tile 1093 } // Dzierzan
-voxel "KVX/1094_AIR_FRESHENER_C.kvx" { tile 1094 } // Dzierzan
+voxel "KVX/ANIM/1092_AIR_FRESHENER_A.KVX" { tile 1092 } // Dzierzan
+voxel "KVX/ANIM/1093_AIR_FRESHENER_B.KVX" { tile 1093 } // Dzierzan
+voxel "KVX/ANIM/1094_AIR_FRESHENER_C.KVX" { tile 1094 } // Dzierzan
 
-voxel "KVX/1148_BLOOD_A.kvx" { tile 1148 } // Dzierzan
-voxel "KVX/1149_BLOOD_B.kvx" { tile 1149 } // Dzierzan
-voxel "KVX/1150_BLOOD_C.kvx" { tile 1150 } // Dzierzan
-voxel "KVX/1151_BLOOD_D.kvx" { tile 1151 } // Dzierzan
-voxel "KVX/1152_BLOOD_E.kvx" { tile 1152 } // Dzierzan
+voxel "KVX/ANIM/1148_BLOOD_A.KVX" { tile 1148 } // Dzierzan
+voxel "KVX/ANIM/1149_BLOOD_B.KVX" { tile 1149 } // Dzierzan
+voxel "KVX/ANIM/1150_BLOOD_C.KVX" { tile 1150 } // Dzierzan
+voxel "KVX/ANIM/1151_BLOOD_D.KVX" { tile 1151 } // Dzierzan
+voxel "KVX/ANIM/1152_BLOOD_E.KVX" { tile 1152 } // Dzierzan
 
-voxel "KVX/1262_WATER_A.kvx" { tile 1262 } // Dzierzan
-voxel "KVX/1263_WATER_B.kvx" { tile 1263 } // Dzierzan
-voxel "KVX/1264_WATER_C.kvx" { tile 1264 } // Dzierzan
-voxel "KVX/1265_WATER_D.kvx" { tile 1265 } // Dzierzan
-voxel "KVX/1266_WATER_E.kvx" { tile 1266 } // Dzierzan
+voxel "KVX/ANIM/1262_WATER_A.KVX" { tile 1262 } // Dzierzan
+voxel "KVX/ANIM/1263_WATER_B.KVX" { tile 1263 } // Dzierzan
+voxel "KVX/ANIM/1264_WATER_C.KVX" { tile 1264 } // Dzierzan
+voxel "KVX/ANIM/1265_WATER_D.KVX" { tile 1265 } // Dzierzan
+voxel "KVX/ANIM/1266_WATER_E.KVX" { tile 1266 } // Dzierzan
 
-voxel "KVX/1722_WIRES_A.kvx" { tile 1722 }
-voxel "KVX/1723_WIRES_B.kvx" { tile 1723 }
-voxel "KVX/1724_WIRES_C.kvx" { tile 1724 }
+voxel "KVX/ANIM/1701_LANTERN_A.KVX" { tile 1701 }
+voxel "KVX/ANIM/1702_LANTERN_B.KVX" { tile 1702 }
+voxel "KVX/ANIM/1703_LANTERN_C.KVX" { tile 1703 }
+voxel "KVX/ANIM/1704_LANTERN_D.KVX" { tile 1704 }
+voxel "KVX/ANIM/1705_LANTERN_E.KVX" { tile 1705 }
+voxel "KVX/ANIM/1706_LANTERN_F.KVX" { tile 1706 }
+voxel "KVX/ANIM/1707_LANTERN_G.KVX" { tile 1707 }
 
-voxel "KVX/2274_RESPAWN_R.kvx" { tile 2274 rotate }
-voxel "KVX/2275_RESPAWN.kvx" { tile 2275 rotate }
-voxel "KVX/2276_RESPAWN_O.kvx" { tile 2276 rotate }
-voxel "KVX/2275_RESPAWN.kvx" { tile 2277 rotate }
-voxel "KVX/2278_RESPAWN_G.kvx" { tile 2278 rotate }
-voxel "KVX/2275_RESPAWN.kvx" { tile 2279 rotate }
+voxel "KVX/ANIM/1722_WIRES_A.KVX" { tile 1722 }
+voxel "KVX/ANIM/1723_WIRES_B.KVX" { tile 1723 }
+voxel "KVX/ANIM/1724_WIRES_C.KVX" { tile 1724 }
 
-voxel "KVX/2433_SEED_A.kvx" { tile 2433 rotate }
-voxel "KVX/2434_SEED_B.kvx" { tile 2434 rotate }
-voxel "KVX/2435_SEED_C.kvx" { tile 2435 rotate }
-voxel "KVX/2436_SEED_D.kvx" { tile 2436 rotate }
-voxel "KVX/2437_SEED_E.kvx" { tile 2437 rotate }
+voxel "KVX/ANIM/2274_RESPAWN_R.KVX" { tile 2274 rotate }
+voxel "KVX/ANIM/2275_RESPAWN.KVX" { tile 2275 rotate }
+voxel "KVX/ANIM/2276_RESPAWN_O.KVX" { tile 2276 rotate }
+voxel "KVX/ANIM/2275_RESPAWN.KVX" { tile 2277 rotate }
+voxel "KVX/ANIM/2278_RESPAWN_G.KVX" { tile 2278 rotate }
+voxel "KVX/ANIM/2275_RESPAWN.KVX" { tile 2279 rotate }
 
-voxel "KVX/2479_JACOB_A.kvx" { tile 2479 }
-voxel "KVX/2480_JACOB_B.kvx" { tile 2480 }
-voxel "KVX/2481_JACOB_C.kvx" { tile 2481 }
+voxel "KVX/ANIM/2479_JACOB_A.KVX" { tile 2479 }
+voxel "KVX/ANIM/2480_JACOB_B.KVX" { tile 2480 }
+voxel "KVX/ANIM/2481_JACOB_C.KVX" { tile 2481 }
 
-voxel "KVX/2482_JACOB2_A.kvx" { tile 2482 }
-voxel "KVX/2483_JACOB2_B.kvx" { tile 2483 }
-voxel "KVX/2484_JACOB2_C.kvx" { tile 2484 }
-voxel "KVX/2485_JACOB2_D.kvx" { tile 2485 }
-voxel "KVX/2486_JACOB2_E.kvx" { tile 2486 }
-voxel "KVX/2487_JACOB2_F.kvx" { tile 2487 }
-voxel "KVX/2488_JACOB2_G.kvx" { tile 2488 }
-voxel "KVX/2489_JACOB2_H.kvx" { tile 2489 }
+voxel "KVX/ANIM/2482_JACOB2_A.KVX" { tile 2482 }
+voxel "KVX/ANIM/2483_JACOB2_B.KVX" { tile 2483 }
+voxel "KVX/ANIM/2484_JACOB2_C.KVX" { tile 2484 }
+voxel "KVX/ANIM/2485_JACOB2_D.KVX" { tile 2485 }
+voxel "KVX/ANIM/2486_JACOB2_E.KVX" { tile 2486 }
+voxel "KVX/ANIM/2487_JACOB2_F.KVX" { tile 2487 }
+voxel "KVX/ANIM/2488_JACOB2_G.KVX" { tile 2488 }
+voxel "KVX/ANIM/2489_JACOB2_H.KVX" { tile 2489 }
 
-voxel "KVX/3444_PROX_A.kvx" { tile 3444 }
-voxel "KVX/3445_PROX_B.kvx" { tile 3445 }
-voxel "KVX/3446_PROX_C.kvx" { tile 3446 }
-voxel "KVX/3447_PROX_D.kvx" { tile 3447 }
-voxel "KVX/3448_PROX_E.kvx" { tile 3448 }
+voxel "KVX/ANIM/3422_STICK_A.KVX" { tile 3422 }
+voxel "KVX/ANIM/3423_STICK_B.KVX" { tile 3423 }
+voxel "KVX/ANIM/3424_STICK_C.KVX" { tile 3424 }
 
-voxel "KVX/3457_REMOTE_A.kvx" { tile 3457 }
-voxel "KVX/3458_REMOTE_B.kvx" { tile 3458 }
+voxel "KVX/ANIM/3433_DYNAMITE_A.KVX" { tile 3433 }
+voxel "KVX/ANIM/3434_DYNAMITE_B.KVX" { tile 3434 }
+voxel "KVX/ANIM/3435_DYNAMITE_C.KVX" { tile 3435 }
 
-voxel "KVX/3422_STICK_A.kvx" { tile 3422 }
-voxel "KVX/3423_STICK_B.kvx" { tile 3423 }
-voxel "KVX/3424_STICK_C.kvx" { tile 3424 }
+voxel "KVX/ANIM/3444_PROX_A.KVX" { tile 3444 }
+voxel "KVX/ANIM/3445_PROX_B.KVX" { tile 3445 }
+voxel "KVX/ANIM/3446_PROX_C.KVX" { tile 3446 }
+voxel "KVX/ANIM/3447_PROX_D.KVX" { tile 3447 }
+voxel "KVX/ANIM/3448_PROX_E.KVX" { tile 3448 }
 
-voxel "KVX/3433_DYNAMITE_A.kvx" { tile 3433 }
-voxel "KVX/3434_DYNAMITE_B.kvx" { tile 3434 }
-voxel "KVX/3435_DYNAMITE_C.kvx" { tile 3435 }
+voxel "KVX/ANIM/3457_REMOTE_A.KVX" { tile 3457 }
+voxel "KVX/ANIM/3458_REMOTE_B.KVX" { tile 3458 }
 
-voxel "KVX/1701_LANTERN_A.kvx" { tile 1701 }
-voxel "KVX/1702_LANTERN_B.kvx" { tile 1702 }
-voxel "KVX/1703_LANTERN_C.kvx" { tile 1703 }
-voxel "KVX/1704_LANTERN_D.kvx" { tile 1704 }
-voxel "KVX/1705_LANTERN_E.kvx" { tile 1705 }
-voxel "KVX/1706_LANTERN_F.kvx" { tile 1706 }
-voxel "KVX/1707_LANTERN_G.kvx" { tile 1707 }
-
-voxel "KVX/3467_SPRAY_A.kvx" { tile 3467 }
-voxel "KVX/3468_SPRAY_B.kvx" { tile 3468 }
-voxel "KVX/3469_SPRAY_C.kvx" { tile 3469 }
-voxel "KVX/3470_SPRAY_D.kvx" { tile 3470 }
+voxel "KVX/ANIM/3467_SPRAY_A.KVX" { tile 3467 }
+voxel "KVX/ANIM/3468_SPRAY_B.KVX" { tile 3468 }
+voxel "KVX/ANIM/3469_SPRAY_C.KVX" { tile 3469 }
+voxel "KVX/ANIM/3470_SPRAY_D.KVX" { tile 3470 }
 
 
 //Switches
 
-voxel "KVX/0318_ENDSWITCH_A.kvx" { tile 318 }
-voxel "KVX/0319_ENDSWITCH_B.kvx" { tile 319 }
+voxel "KVX/SWITCHES/0318_ENDSWITCH_A.KVX" { tile 318 }
+voxel "KVX/SWITCHES/0319_ENDSWITCH_B.KVX" { tile 319 }
 
-voxel "KVX/0982_VALVE_A.kvx" { tile 0982 }
-voxel "KVX/0983_VALVE_B.kvx" { tile 0983 }
+voxel "KVX/SWITCHES/0982_VALVE_A.KVX" { tile 0982 }
+voxel "KVX/SWITCHES/0983_VALVE_B.KVX" { tile 0983 }
 
-voxel "KVX/1046_BUTTON_A.kvx" { tile 1046 }
-voxel "KVX/1047_BUTTON_B.kvx" { tile 1047 }
+voxel "KVX/SWITCHES/1046_BUTTON_A.KVX" { tile 1046 }
+voxel "KVX/SWITCHES/1047_BUTTON_B.KVX" { tile 1047 }
 
-voxel "KVX/1048_SKULLSWITCH_A.kvx" { tile 1048 }
-voxel "KVX/1049_SKULLSWITCH_B.kvx" { tile 1049 }
+voxel "KVX/SWITCHES/1048_SKULLSWITCH_A.KVX" { tile 1048 }
+voxel "KVX/SWITCHES/1049_SKULLSWITCH_B.KVX" { tile 1049 }
 
-voxel "KVX/1070_SWITCH1_A.kvx" { tile 1070 }
-voxel "KVX/1071_SWITCH1_B.kvx" { tile 1071 }
+voxel "KVX/SWITCHES/1070_SWITCH1_A.KVX" { tile 1070 }
+voxel "KVX/SWITCHES/1071_SWITCH1_B.KVX" { tile 1071 }
 
-voxel "KVX/1072_BUTTONS_A.kvx" { tile 1072 }
-voxel "KVX/1073_BUTTONS_B.kvx" { tile 1073 }
+voxel "KVX/SWITCHES/1072_BUTTONS_A.KVX" { tile 1072 }
+voxel "KVX/SWITCHES/1073_BUTTONS_B.KVX" { tile 1073 }
 
-voxel "KVX/1074_SWITCH3_A.kvx" { tile 1074 }
-voxel "KVX/1075_SWITCH3_B.kvx" { tile 1075 }
+voxel "KVX/SWITCHES/1074_SWITCH3_A.KVX" { tile 1074 }
+voxel "KVX/SWITCHES/1075_SWITCH3_B.KVX" { tile 1075 }
 
-voxel "KVX/1076_LEVER_A.kvx" { tile 1076 }
-voxel "KVX/1077_LEVER_B.kvx" { tile 1077 }
+voxel "KVX/SWITCHES/1076_LEVER_A.KVX" { tile 1076 }
+voxel "KVX/SWITCHES/1077_LEVER_B.KVX" { tile 1077 }
 
-voxel "KVX/1078_LIGHTSWITCH_A.kvx" { tile 1078 }
-voxel "KVX/1079_LIGHTSWITCH_B.kvx" { tile 1079 }
+voxel "KVX/SWITCHES/1078_LIGHTSWITCH_A.KVX" { tile 1078 }
+voxel "KVX/SWITCHES/1079_LIGHTSWITCH_B.KVX" { tile 1079 }
 
-voxel "KVX/1161_MULTISWITCH_A.kvx" { tile 1161 }
-voxel "KVX/1162_MULTISWITCH_B.kvx" { tile 1162 }
-voxel "KVX/1163_MULTISWITCH_C.kvx" { tile 1163 }
-voxel "KVX/1164_MULTISWITCH_D.kvx" { tile 1164 }
+voxel "KVX/SWITCHES/1161_MULTISWITCH_A.KVX" { tile 1161 }
+voxel "KVX/SWITCHES/1162_MULTISWITCH_B.KVX" { tile 1162 }
+voxel "KVX/SWITCHES/1163_MULTISWITCH_C.KVX" { tile 1163 }
+voxel "KVX/SWITCHES/1164_MULTISWITCH_D.KVX" { tile 1164 }
 
-voxel "KVX/1260_WHEEL_A.kvx" { tile 1260 }
-voxel "KVX/1261_WHEEL_B.kvx" { tile 1261 }
+voxel "KVX/SWITCHES/1260_WHEEL_A.KVX" { tile 1260 }
+voxel "KVX/SWITCHES/1261_WHEEL_B.KVX" { tile 1261 }
 
 
 //Pickups
 
-voxel "KVX/0548_AMMOTESLA.kvx" { tile 548 }
-voxel "KVX/0558_TOMMY.kvx" { tile 0558 rotate }
-voxel "KVX/0619_AMMOSHOT.kvx" { tile 619 }
-voxel "KVX/0783_FEATHER.kvx" { tile 783 }
-voxel "KVX/0813_AMMOTOMMY.kvx" { tile 813 }
-voxel "KVX/0822_POUCH.kvx" { tile 822 } // Dzierzan
-voxel "KVX/0827_BOOTS.kvx" { tile 827 }
-voxel "KVX/0830_SWIMSUIT.kvx" { tile 830 }
-voxel "KVX/2558_KEY7.kvx" { tile 2558 rotate }
+voxel "KVX/PICKUPS/0517_HEALTHBOTTLE.KVX" { tile 517 }
+voxel "KVX/PICKUPS/0548_AMMOTESLA.KVX" { tile 548 }
+voxel "KVX/PICKUPS/0558_TOMMY.KVX" { tile 0558 rotate }
+voxel "KVX/PICKUPS/0619_AMMOSHOT.KVX" { tile 619 }
+voxel "KVX/PICKUPS/0783_FEATHER.KVX" { tile 783 }
+voxel "KVX/PICKUPS/0813_AMMOTOMMY.KVX" { tile 813 }
+voxel "KVX/PICKUPS/0822_POUCH.KVX" { tile 822 } // Dzierzan
+voxel "KVX/PICKUPS/0827_BOOTS.KVX" { tile 827 }
+voxel "KVX/PICKUPS/0830_SWIMSUIT.KVX" { tile 830 }
+voxel "KVX/PICKUPS/2558_KEY7.KVX" { tile 2558 rotate }
+
+voxel "KVX/PICKUPS/2433_SEED_A.KVX" { tile 2433 rotate }
+voxel "KVX/PICKUPS/2434_SEED_B.KVX" { tile 2434 rotate }
+voxel "KVX/PICKUPS/2435_SEED_C.KVX" { tile 2435 rotate }
+voxel "KVX/PICKUPS/2436_SEED_D.KVX" { tile 2436 rotate }
+voxel "KVX/PICKUPS/2437_SEED_E.KVX" { tile 2437 rotate }
+
+
+//Decals
+
+voxel "KVX/DECALS/0166_KNOCKER.KVX" { tile 0166 } // Chillo
+voxel "KVX/DECALS/0226_FACE.KVX" { tile 0226 } // Chillo
+voxel "KVX/DECALS/0382_BELL.KVX" { tile 382 } // Dzierzan
+voxel "KVX/DECALS/0431_BILLBOARD.KVX" { tile 431 }
+voxel "KVX/DECALS/0446_KRUEGER.KVX" { tile 446 } // Dzierzan
+voxel "KVX/DECALS/0447_VOORHEES.KVX" { tile 447 } // Dzierzan
+voxel "KVX/DECALS/0617_ART_MAN.KVX" { tile 0617 } // SomeThingEviL
+voxel "KVX/DECALS/0621_ART_EVILFACE.KVX" { tile 0621 } // SomeThingEviL
+voxel "KVX/DECALS/0631_KIMBLE.KVX" { tile 0631 } // Chillo
+voxel "KVX/DECALS/0658_EXTINGUISHER.KVX" { tile 658 }
+voxel "KVX/DECALS/0714_SHIELD.KVX" { tile 714 }
+voxel "KVX/DECALS/0716_ART_MADONNA_A.KVX" { tile 0716 } // SomeThingEviL
+voxel "KVX/DECALS/0717_ART_MADONNA_B.KVX" { tile 0717 } // SomeThingEviL
+voxel "KVX/DECALS/0718_ART_MADONNA_C.KVX" { tile 0718 } // SomeThingEviL
+voxel "KVX/DECALS/0719_ART_MADONNA_D.KVX" { tile 0719 } // SomeThingEviL
+voxel "KVX/DECALS/0905_SIGN_TICKETS.KVX" { tile 905 }
+voxel "KVX/DECALS/1050_SOCKET.KVX" { tile 1050 }
+voxel "KVX/DECALS/1144_PAJAMAS.KVX" { tile 1144 } // Chillo
+voxel "KVX/DECALS/1165_CLOCK.KVX" { tile 1165 } // Dzierzan
+voxel "KVX/DECALS/1166_CLOCK_DAMAGED.KVX" { tile 1166 } // Dzierzan
+
+
+//Gibs
+
+voxel "KVX/GIBS/1327_HELLHOUND_EYE_GIB.KVX" { tile 1327 } // Dzierzan
+voxel "KVX/GIBS/1454_EYE_GIB.KVX" { tile 1454 } // Dzierzan
+voxel "KVX/GIBS/1456_GIB.KVX" { tile 1456 } // Chillo
 
 
 //Props
 
-voxel "KVX/0058_MTLBARS.kvx" { tile 0058 }
-voxel "KVX/0059_MTLBARS2.kvx" { tile 0059 }
-voxel "KVX/0073_SHIRT.kvx" { tile 0073 }
-voxel "KVX/0166_KNOCKER.kvx" { tile 0166 } // Chillo
-voxel "KVX/0201_TOXICBARREL.kvx" { tile 201 }
-voxel "KVX/0226_FACE.kvx" { tile 0226 } // Chillo
-voxel "KVX/0256_WOODBRIDGE.kvx" { tile 0256 }
-voxel "KVX/0257_SKULLSTAKE.kvx" { tile 0257 } // warezeater
-voxel "KVX/0258_ROPE.kvx" { tile 0258 }
-voxel "KVX/0284_STOOL.kvx" { tile 284 }
-voxel "KVX/0350_RAILING.kvx" { tile 0350 }
-voxel "KVX/0351_RAILING2.kvx" { tile 0351 }
-voxel "KVX/0382_BELL.kvx" { tile 382 } // Dzierzan
-voxel "KVX/0389_WINDOW1.kvx" { tile 389 }
-voxel "KVX/0431_BILLBOARD.kvx" { tile 431 }
-voxel "KVX/0446_KRUEGER.kvx" { tile 446 } // Dzierzan
-voxel "KVX/0447_VOORHEES.kvx" { tile 447 } // Dzierzan
-voxel "KVX/0485_FAUCET.kvx" { tile 485 }
-voxel "KVX/0505_WASTE.kvx" { tile 505 }
-voxel "KVX/0513_ROPE.kvx" { tile 0513 }
-voxel "KVX/0517_HEALTHBOTTLE.kvx" { tile 517 }
-voxel "KVX/0520_SKULL_GOBLET.kvx" { tile 520 } // Dzierzan
-voxel "KVX/0521_WINE_GLASS.kvx" { tile 521 } // Dzierzan
-voxel "KVX/0534_PILLAR.kvx" { tile 534 } // Dzierzan
-voxel "KVX/0537_VASE.kvx" { tile 0537 }
-voxel "KVX/0549_CEILINGCHAND2_OFF.kvx" { tile 0549 }
-voxel "KVX/0554_TORCH_OFF.kvx" { tile 0554 }
-voxel "KVX/0555_TORCH_ON.kvx" { tile 0555 }
-voxel "KVX/0560_POST1.kvx" { tile 0560 }
-voxel "KVX/0561_POST2.kvx" { tile 0561 }
-voxel "KVX/0563_ZOMBARREL.kvx" { tile 563 }
-voxel "KVX/0564_SKLAMP.kvx" { tile 0564 } // Chillo
-voxel "KVX/0564_SKLAMP.kvx" { tile 0565 } // Chillo
-voxel "KVX/0570_TORCH_OFF.kvx" { tile 570 }
-voxel "KVX/0571_TORCH_ON.kvx" { tile 571 }
-voxel "KVX/0574_EMPTY_GLASS.kvx" { tile 574 } // Dzierzan
-voxel "KVX/0575_INLOVING.kvx" { tile 575 }
-voxel "KVX/0588_RAILING3.kvx" { tile 0588 }
-voxel "KVX/0600_CANDLE.kvx" { tile 0600 }
-voxel "KVX/0604_JAR2.kvx" { tile 604 }
-voxel "KVX/0605_BOTTLE4.kvx" { tile 605 }
-voxel "KVX/0606_BOTTLE5.kvx" { tile 606 }
-voxel "KVX/0607_SKULLSTAKE.kvx" { tile 607 }
-voxel "KVX/0616_JUG.kvx" { tile 616 } // warezeater
-voxel "KVX/0631_KIMBLE.kvx" { tile 0631 } // Chillo
-voxel "KVX/0632_STALACTITE.kvx" { tile 632 } // Dzierzan
-voxel "KVX/0633_RIP.kvx" { tile 633 }
-voxel "KVX/0640_LANTERN.kvx" { tile 640 }
-voxel "KVX/0641_CHAINLANTERN.kvx" { tile 0641 }
-voxel "KVX/0649_TABLE.kvx" { tile 0649 }
-voxel "KVX/0650_CANDLE.kvx" { tile 650 }
-voxel "KVX/0654_STALACTITE_2.kvx" { tile 654 } // Dzierzan
-voxel "KVX/0658_EXTINGUISHER.kvx" { tile 658 }
-voxel "KVX/0659_WINDOW2.kvx" { tile 659 }
-voxel "KVX/0685_SKULL.kvx" { tile 0685 } // Chillo
-voxel "KVX/0688_SKELETON.kvx" { tile 0688 } // Chillo
-voxel "KVX/0689_SKELETON.kvx" { tile 0689 } // Chillo
-voxel "KVX/0690_CORPSE.kvx" { tile 0690 } // Chillo
-voxel "KVX/0692_CHAIN.kvx" { tile 0692 } // Chillo
-voxel "KVX/0693_LANTERN.kvx" { tile 693 } // warezeater
-voxel "KVX/0698_CORPSE.kvx" { tile 0698 } // Chillo
-voxel "KVX/0712_JUG.kvx" { tile 712 } // warezeater
-voxel "KVX/0714_SHIELD.kvx" { tile 714 }
-voxel "KVX/0738_COWSKULL.kvx" { tile 0738 } // Chillo
-voxel "KVX/0739_VASE.kvx" { tile 739 } // warezeater
-voxel "KVX/0753_SHOWER.kvx" { tile 753 }
-voxel "KVX/0759_BOTTLE1.kvx" { tile 759 }
-voxel "KVX/0799_REAPER.kvx" { tile 0799 } // Chillo
-voxel "KVX/0802_JAR1.kvx" { tile 802 }
-voxel "KVX/0803_GOBLET.kvx" { tile 803 } // Dzierzan
+voxel "KVX/0058_MTLBARS.KVX" { tile 0058 }
+voxel "KVX/0059_MTLBARS2.KVX" { tile 0059 }
+voxel "KVX/0073_SHIRT.KVX" { tile 0073 } // SomeThingEviL
+voxel "KVX/0201_TOXICBARREL.KVX" { tile 201 }
+voxel "KVX/0256_WOODBRIDGE.KVX" { tile 0256 } // SomeThingEviL
+voxel "KVX/0257_SKULLSTAKE.KVX" { tile 0257 } // warezeater
+voxel "KVX/0258_ROPE.KVX" { tile 0258 } // SomeThingEviL
+voxel "KVX/0284_STOOL.KVX" { tile 284 }
+voxel "KVX/0350_RAILING.KVX" { tile 0350 }
+voxel "KVX/0351_RAILING2.KVX" { tile 0351 }
+voxel "KVX/0389_WINDOW1.KVX" { tile 389 }
+voxel "KVX/0485_FAUCET.KVX" { tile 485 }
+voxel "KVX/0505_WASTE.KVX" { tile 505 }
+voxel "KVX/0513_ROPE.KVX" { tile 0513 }
+voxel "KVX/0520_SKULL_GOBLET.KVX" { tile 520 } // Dzierzan
+voxel "KVX/0521_WINE_GLASS.KVX" { tile 521 } // Dzierzan
+voxel "KVX/0534_PILLAR.KVX" { tile 534 } // Dzierzan
+voxel "KVX/0537_VASE.KVX" { tile 0537 }
+voxel "KVX/0549_CEILINGCHAND2_OFF.KVX" { tile 0549 }
+voxel "KVX/0554_TORCH_OFF.KVX" { tile 0554 }
+voxel "KVX/0555_TORCH_ON.KVX" { tile 0555 }
+voxel "KVX/0560_POST1.KVX" { tile 0560 }
+voxel "KVX/0561_POST2.KVX" { tile 0561 }
+voxel "KVX/0563_ZOMBARREL.KVX" { tile 563 }
+voxel "KVX/0564_SKLAMP.KVX" { tile 0564 } // Chillo
+voxel "KVX/0564_SKLAMP.KVX" { tile 0565 } // Chillo
+voxel "KVX/0570_TORCH_OFF.KVX" { tile 570 }
+voxel "KVX/0571_TORCH_ON.KVX" { tile 571 }
+voxel "KVX/0574_EMPTY_GLASS.KVX" { tile 574 } // Dzierzan
+voxel "KVX/0575_INLOVING.KVX" { tile 575 }
+voxel "KVX/0588_RAILING3.KVX" { tile 0588 }
+voxel "KVX/0600_CANDLE.KVX" { tile 0600 }
+voxel "KVX/0604_JAR2.KVX" { tile 604 }
+voxel "KVX/0605_BOTTLE4.KVX" { tile 605 }
+voxel "KVX/0606_BOTTLE5.KVX" { tile 606 }
+voxel "KVX/0607_SKULLSTAKE.KVX" { tile 607 }
+voxel "KVX/0616_JUG.KVX" { tile 616 } // warezeater
+voxel "KVX/0632_STALACTITE.KVX" { tile 632 } // Dzierzan
+voxel "KVX/0633_RIP.KVX" { tile 633 }
+voxel "KVX/0640_LANTERN.KVX" { tile 640 }
+voxel "KVX/0641_CHAINLANTERN.KVX" { tile 0641 }
+voxel "KVX/0649_TABLE.KVX" { tile 0649 }
+voxel "KVX/0650_CANDLE.KVX" { tile 650 }
+voxel "KVX/0654_STALACTITE_2.KVX" { tile 654 } // Dzierzan
+voxel "KVX/0659_WINDOW2.KVX" { tile 659 }
+voxel "KVX/0685_SKULL.KVX" { tile 0685 } // Chillo
+voxel "KVX/0688_SKELETON.KVX" { tile 0688 } // Chillo
+voxel "KVX/0689_SKELETON.KVX" { tile 0689 } // Chillo
+voxel "KVX/0690_CORPSE.KVX" { tile 0690 } // Chillo
+voxel "KVX/0692_CHAIN.KVX" { tile 0692 } // Chillo
+voxel "KVX/0693_LANTERN.KVX" { tile 693 } // warezeater
+voxel "KVX/0698_CORPSE.KVX" { tile 0698 } // Chillo
+voxel "KVX/0712_JUG.KVX" { tile 712 } // warezeater
+voxel "KVX/0738_COWSKULL.KVX" { tile 0738 } // Chillo
+voxel "KVX/0739_VASE.KVX" { tile 739 } // warezeater
+voxel "KVX/0753_SHOWER.KVX" { tile 753 }
+voxel "KVX/0759_BOTTLE1.KVX" { tile 759 }
+voxel "KVX/0799_REAPER.KVX" { tile 0799 } // Chillo
+voxel "KVX/0802_JAR1.KVX" { tile 802 }
+voxel "KVX/0803_GOBLET.KVX" { tile 803 } // Dzierzan
 voxel "KVX/0834_INVISIBL.KVX" { tile 834 }
 voxel "KVX/0852_DUCK.KVX" { tile 852 } // Dzierzan
 voxel "KVX/0853_FACE.KVX" { tile 853 } // Dzierzan
-voxel "KVX/0905_SIGN_TICKETS.kvx" { tile 905 }
-voxel "KVX/0906_HANGING.kvx" { tile 0906 } // Chillo
-voxel "KVX/0946_BULB_OFF.kvx" { tile 0946 }
-voxel "KVX/0947_BULB_ON.kvx" { tile 0947 }
-voxel "KVX/0961_POT1.kvx" { tile 0961 }
-voxel "KVX/0962_IVPOLE1.kvx" { tile 962 }
-voxel "KVX/0963_IVPOLE2.kvx" { tile 963 }
-voxel "KVX/0966_TARGET_1.kvx" { tile 0966 } // Dzierzan
-voxel "KVX/0967_TARGET_2.kvx" { tile 0967 } // Dzierzan
-voxel "KVX/0968_SPIKETRAP_1.kvx" { tile 0968 } // Dzierzan
-voxel "KVX/0969_SPIKETRAP_2.kvx" { tile 0969 } // Dzierzan
-voxel "KVX/0970_SPIKETRAP_3.kvx" { tile 0970 } // Dzierzan
-voxel "KVX/0971_SPIKETRAP_4.kvx" { tile 0971 } // Dzierzan
-voxel "KVX/0972_SPIKETRAP_5.kvx" { tile 0972 } // Dzierzan
-voxel "KVX/0973_SPIKETRAP_6.kvx" { tile 0973 } // Dzierzan
-voxel "KVX/1009_PLANT1.kvx" { tile 1009 }
-voxel "KVX/1010_PLANT2.kvx" { tile 1010 }
-voxel "KVX/1013_FLOWERS.kvx" { tile 1013 }
-voxel "KVX/1044_GATE.kvx" { tile 1044 }
-voxel "KVX/1050_SOCKET.kvx" { tile 1050 }
-voxel "KVX/1061_COCOON.kvx" { tile 1061 } // Chillo
-voxel "KVX/1066_WEB1.kvx" { tile 1066 }
-voxel "KVX/1067_WEB2.kvx" { tile 1067 }
-voxel "KVX/1068_WEB3.kvx" { tile 1068 }
-voxel "KVX/1069_WEB4.kvx" { tile 1069 }
-voxel "KVX/1087_WEB_BRK_A.kvx" { tile 1087 }
-voxel "KVX/1088_WEB_BRK_B.kvx" { tile 1088 }
-voxel "KVX/1089_WEB_BRK_C.kvx" { tile 1089 }
-voxel "KVX/1098_GRATE.kvx" { tile 1098 }
-voxel "KVX/1099_GRATE_BRK.kvx" { tile 1099 }
-voxel "KVX/1115_BALLOON.kvx" { tile 1115 } // Dzierzan
-voxel "KVX/1144_PAJAMAS.kvx" { tile 1144 } // Chillo
-voxel "KVX/1147_WATER_DROP.kvx" { tile 1147 } // Dzierzan
-voxel "KVX/1160_BLOOD_DROP.kvx" { tile 1160 } // Dzierzan
-voxel "KVX/1165_CLOCK.kvx" { tile 1165 } // Dzierzan
-voxel "KVX/1166_CLOCK_DAMAGED.kvx" { tile 1166 } // Dzierzan
-voxel "KVX/1327_HELLHOUND_EYE_GIB.kvx" { tile 1327 } // Dzierzan
-voxel "KVX/1348_SKULL.kvx" { tile 1348 } // Chillo
-voxel "KVX/1454_EYE_GIB.kvx" { tile 1454 } // Dzierzan
-voxel "KVX/1456_GIB.kvx" { tile 1456 } // Chillo
-voxel "KVX/1708_PRUNERS.kvx" { tile 1708 }
-voxel "KVX/1709_AXE.kvx" { tile 1709 }
-voxel "KVX/1710_BROOM.kvx" { tile 1710 }
-voxel "KVX/1711_RAKE.kvx" { tile 1711 }
-voxel "KVX/1712_SHOVEL1.kvx" { tile 1712 }
-voxel "KVX/1713_SHOVEL2.kvx" { tile 1713 }
-voxel "KVX/1714_SAW.kvx" { tile 1714 }
-voxel "KVX/1715_CALIPERS.kvx" { tile 1715 }
-voxel "KVX/1716_POKER.kvx" { tile 1716 }
-voxel "KVX/1721_WIRES.kvx" { tile 1721 }
-voxel "KVX/2028_BLOOD_DROP_A.kvx" { tile 2028 } // Dzierzan
-voxel "KVX/2029_BLOOD_DROP_B.kvx" { tile 2029 } // Dzierzan
-voxel "KVX/2159_ARROW.kvx" { tile 2159 }
-voxel "KVX/2295_PAN1.kvx" { tile 2295 }
-voxel "KVX/2304_PAN2.kvx" { tile 2304 }
-voxel "KVX/2305_POT2.kvx" { tile 2305 }
-voxel "KVX/2377_MANNEQUIN.kvx" { tile 2377 }
-voxel "KVX/2410_FLY_A.kvx" { tile0 2410 tile1 2414 } // Dzierzan
-voxel "KVX/2415_FLY_B.kvx" { tile0 2415 tile1 2419 } // Dzierzan
-voxel "KVX/2420_WEB_FIRE_A.kvx" { tile 2420 }
-voxel "KVX/2421_WEB_FIRE_B.kvx" { tile 2421 }
-voxel "KVX/2422_WEB_FIRE_C.kvx" { tile 2422 }
-voxel "KVX/2423_WEB_FIRE_D.kvx" { tile 2423 }
-voxel "KVX/2464_EJECTSHELL.kvx" { tile 2464 }
-voxel "KVX/2465_EJECTTOMMY.kvx" { tile 2465 }
-voxel "KVX/2472_TCOIL.kvx" { tile 2472 }
-voxel "KVX/2493_LANTERN_SNOW.kvx" { tile 2493 }
-voxel "KVX/2540_KEYSIGN1.kvx" { tile 2540 }
-voxel "KVX/2541_KEYSIGN2.kvx" { tile 2541 }
-voxel "KVX/2542_KEYSIGN3.kvx" { tile 2542 }
-voxel "KVX/2543_KEYSIGN4.kvx" { tile 2543 }
-voxel "KVX/2544_KEYSIGN5.kvx" { tile 2544 }
-voxel "KVX/2545_KEYSIGN6.kvx" { tile 2545 }
+voxel "KVX/0906_HANGING.KVX" { tile 0906 } // Chillo
+voxel "KVX/0946_BULB_OFF.KVX" { tile 0946 }
+voxel "KVX/0947_BULB_ON.KVX" { tile 0947 }
+voxel "KVX/0961_POT1.KVX" { tile 0961 }
+voxel "KVX/0962_IVPOLE1.KVX" { tile 962 }
+voxel "KVX/0963_IVPOLE2.KVX" { tile 963 }
+voxel "KVX/0966_TARGET_1.KVX" { tile 0966 } // Dzierzan
+voxel "KVX/0967_TARGET_2.KVX" { tile 0967 } // Dzierzan
+voxel "KVX/0968_SPIKETRAP_1.KVX" { tile 0968 } // Dzierzan
+voxel "KVX/0969_SPIKETRAP_2.KVX" { tile 0969 } // Dzierzan
+voxel "KVX/0970_SPIKETRAP_3.KVX" { tile 0970 } // Dzierzan
+voxel "KVX/0971_SPIKETRAP_4.KVX" { tile 0971 } // Dzierzan
+voxel "KVX/0972_SPIKETRAP_5.KVX" { tile 0972 } // Dzierzan
+voxel "KVX/0973_SPIKETRAP_6.KVX" { tile 0973 } // Dzierzan
+voxel "KVX/1009_PLANT1.KVX" { tile 1009 }
+voxel "KVX/1010_PLANT2.KVX" { tile 1010 }
+voxel "KVX/1013_FLOWERS.KVX" { tile 1013 }
+voxel "KVX/1044_GATE.KVX" { tile 1044 }
+voxel "KVX/1061_COCOON.KVX" { tile 1061 } // Chillo
+voxel "KVX/1066_WEB1.KVX" { tile 1066 }
+voxel "KVX/1067_WEB2.KVX" { tile 1067 }
+voxel "KVX/1068_WEB3.KVX" { tile 1068 }
+voxel "KVX/1069_WEB4.KVX" { tile 1069 }
+voxel "KVX/1087_WEB_BRK_A.KVX" { tile 1087 }
+voxel "KVX/1088_WEB_BRK_B.KVX" { tile 1088 }
+voxel "KVX/1089_WEB_BRK_C.KVX" { tile 1089 }
+voxel "KVX/1098_GRATE.KVX" { tile 1098 }
+voxel "KVX/1099_GRATE_BRK.KVX" { tile 1099 }
+voxel "KVX/1115_BALLOON.KVX" { tile 1115 } // Dzierzan
+voxel "KVX/1147_WATER_DROP.KVX" { tile 1147 } // Dzierzan
+voxel "KVX/1160_BLOOD_DROP.KVX" { tile 1160 } // Dzierzan
+voxel "KVX/1348_SKULL.KVX" { tile 1348 } // Chillo
+voxel "KVX/1708_PRUNERS.KVX" { tile 1708 }
+voxel "KVX/1709_AXE.KVX" { tile 1709 }
+voxel "KVX/1710_BROOM.KVX" { tile 1710 }
+voxel "KVX/1711_RAKE.KVX" { tile 1711 }
+voxel "KVX/1712_SHOVEL1.KVX" { tile 1712 }
+voxel "KVX/1713_SHOVEL2.KVX" { tile 1713 }
+voxel "KVX/1714_SAW.KVX" { tile 1714 }
+voxel "KVX/1715_CALIPERS.KVX" { tile 1715 }
+voxel "KVX/1716_POKER.KVX" { tile 1716 }
+voxel "KVX/1721_WIRES.KVX" { tile 1721 }
+voxel "KVX/2028_BLOOD_DROP_A.KVX" { tile 2028 } // Dzierzan
+voxel "KVX/2029_BLOOD_DROP_B.KVX" { tile 2029 } // Dzierzan
+voxel "KVX/2159_ARROW.KVX" { tile 2159 }
+voxel "KVX/2295_PAN1.KVX" { tile 2295 }
+voxel "KVX/2304_PAN2.KVX" { tile 2304 }
+voxel "KVX/2305_POT2.KVX" { tile 2305 }
+voxel "KVX/2377_MANNEQUIN.KVX" { tile 2377 }
+voxel "KVX/2410_FLY_A.KVX" { tile0 2410 tile1 2414 } // Dzierzan
+voxel "KVX/2415_FLY_B.KVX" { tile0 2415 tile1 2419 } // Dzierzan
+voxel "KVX/2420_WEB_FIRE_A.KVX" { tile 2420 }
+voxel "KVX/2421_WEB_FIRE_B.KVX" { tile 2421 }
+voxel "KVX/2422_WEB_FIRE_C.KVX" { tile 2422 }
+voxel "KVX/2423_WEB_FIRE_D.KVX" { tile 2423 }
+voxel "KVX/2464_EJECTSHELL.KVX" { tile 2464 }
+voxel "KVX/2465_EJECTTOMMY.KVX" { tile 2465 }
+voxel "KVX/2472_TCOIL.KVX" { tile 2472 }
+voxel "KVX/2493_LANTERN_SNOW.KVX" { tile 2493 }
+voxel "KVX/2540_KEYSIGN1.KVX" { tile 2540 }
+voxel "KVX/2541_KEYSIGN2.KVX" { tile 2541 }
+voxel "KVX/2542_KEYSIGN3.KVX" { tile 2542 }
+voxel "KVX/2543_KEYSIGN4.KVX" { tile 2543 }
+voxel "KVX/2544_KEYSIGN5.KVX" { tile 2544 }
+voxel "KVX/2545_KEYSIGN6.KVX" { tile 2545 }
