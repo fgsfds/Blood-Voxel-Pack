@@ -31,10 +31,10 @@ voxel "KVX/ANIM/0773_SAW2_B.KVX" { tile 773 }
 voxel "KVX/ANIM/0774_SAW2_C.KVX" { tile 774 }
 
 voxel "KVX/ANIM/784_ALARM_OFF.KVX" { tile 784 } // Dzierzan
-voxel "KVX/ANIM/785_ALARM_ON_1.KVX" { tile 785 } // Dzierzan
-voxel "KVX/ANIM/786_ALARM_ON_2.KVX" { tile 786 } // Dzierzan
-voxel "KVX/ANIM/787_ALARM_ON_3.KVX" { tile 787 } // Dzierzan
-voxel "KVX/ANIM/788_ALARM_ON_4.KVX" { tile 788 } // Dzierzan
+voxel "KVX/ANIM/785_ALARM_ON_A.KVX" { tile 785 } // Dzierzan
+voxel "KVX/ANIM/786_ALARM_ON_B.KVX" { tile 786 } // Dzierzan
+voxel "KVX/ANIM/787_ALARM_ON_C.KVX" { tile 787 } // Dzierzan
+voxel "KVX/ANIM/788_ALARM_ON_D.KVX" { tile 788 } // Dzierzan
 
 voxel "KVX/ANIM/0938_CANDLE_A.KVX" { tile 938 }
 voxel "KVX/ANIM/0939_CANDLE_B.KVX" { tile 939 }
@@ -246,7 +246,7 @@ voxel "KVX/0640_LANTERN.KVX" { tile 640 }
 voxel "KVX/0641_CHAINLANTERN.KVX" { tile 0641 }
 voxel "KVX/0649_TABLE.KVX" { tile 0649 }
 voxel "KVX/0650_CANDLE.KVX" { tile 650 }
-voxel "KVX/0654_STALACTITE_2.KVX" { tile 654 } // Dzierzan
+voxel "KVX/0654_STALACTITE2.KVX" { tile 654 } // Dzierzan
 voxel "KVX/0659_WINDOW2.KVX" { tile 659 }
 voxel "KVX/0685_SKULL.KVX" { tile 0685 } // Chillo
 voxel "KVX/0688_SKELETON.KVX" { tile 0688 } // Chillo
