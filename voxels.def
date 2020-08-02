@@ -35,9 +35,7 @@ voxel "KVX/ANIM/0939_CANDLE_B.KVX" { tile 939 }
 voxel "KVX/ANIM/0940_CANDLE_C.KVX" { tile 940 }
 voxel "KVX/ANIM/0941_CANDLE_D.KVX" { tile 941 }
 
-voxel "KVX/ANIM/1092_AIR_FRESHENER_A.KVX" { tile 1092 } // Dzierzan
-voxel "KVX/ANIM/1093_AIR_FRESHENER_B.KVX" { tile 1093 } // Dzierzan
-voxel "KVX/ANIM/1094_AIR_FRESHENER_C.KVX" { tile 1094 } // Dzierzan
+voxel "KVX/ANIM/1092_AIR_FRESHENER_A.KVX" { tile0 1092 tile1 1094 rotate } // Dzierzan
 
 voxel "KVX/ANIM/1148_BLOOD_A.KVX" { tile 1148 } // Dzierzan
 voxel "KVX/ANIM/1149_BLOOD_B.KVX" { tile 1149 } // Dzierzan
