@@ -30,6 +30,12 @@ voxel "KVX/ANIM/0772_SAW2_A.KVX" { tile 772 }
 voxel "KVX/ANIM/0773_SAW2_B.KVX" { tile 773 }
 voxel "KVX/ANIM/0774_SAW2_C.KVX" { tile 774 }
 
+voxel "KVX/ANIM/784_ALARM_OFF.KVX" { tile 784 } // Dzierzan
+voxel "KVX/ANIM/785_ALARM_ON_1.KVX" { tile 785 } // Dzierzan
+voxel "KVX/ANIM/786_ALARM_ON_2.KVX" { tile 786 } // Dzierzan
+voxel "KVX/ANIM/787_ALARM_ON_3.KVX" { tile 787 } // Dzierzan
+voxel "KVX/ANIM/788_ALARM_ON_4.KVX" { tile 788 } // Dzierzan
+
 voxel "KVX/ANIM/0938_CANDLE_A.KVX" { tile 938 }
 voxel "KVX/ANIM/0939_CANDLE_B.KVX" { tile 939 }
 voxel "KVX/ANIM/0940_CANDLE_C.KVX" { tile 940 }
