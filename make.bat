@@ -1,0 +1,1 @@
+start 7za a -m0=Copy -tzip blvoxels.zip blood.def bloodgdx.def voxels.def license.txt readme.txt maphacks/ KVX/
