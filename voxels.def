@@ -216,6 +216,7 @@ voxel "KVX/0256_WOODBRIDGE.KVX" { tile 0256 } // SomeThingEviL
 voxel "KVX/0257_SKULLSTAKE.KVX" { tile 0257 } // warezeater
 voxel "KVX/0258_ROPE.KVX" { tile 0258 } // SomeThingEviL
 voxel "KVX/0284_STOOL.KVX" { tile 284 }
+voxel "KVX/0334_LADDER.KVX" { tile 334 } // Dzierzan
 voxel "KVX/0350_RAILING.KVX" { tile 0350 }
 voxel "KVX/0351_RAILING2.KVX" { tile 0351 }
 voxel "KVX/0389_WINDOW1.KVX" { tile 389 }
