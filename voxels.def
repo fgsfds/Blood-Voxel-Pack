@@ -230,6 +230,7 @@ voxel "KVX/0537_VASE.KVX" { tile 0537 }
 voxel "KVX/0549_CEILINGCHAND2_OFF.KVX" { tile 0549 }
 voxel "KVX/0554_TORCH_OFF.KVX" { tile 0554 }
 voxel "KVX/0555_TORCH_ON.KVX" { tile 0555 }
+voxel "KVX/0557_TASSEL.KVX" { tile 0557 } // Dzierzan
 voxel "KVX/0560_POST1.KVX" { tile 0560 }
 voxel "KVX/0561_POST2.KVX" { tile 0561 }
 voxel "KVX/0563_ZOMBARREL.KVX" { tile 563 }
