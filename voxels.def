@@ -220,6 +220,8 @@ voxel "KVX/0334_LADDER.KVX" { tile 334 } // Dzierzan
 voxel "KVX/0350_RAILING.KVX" { tile 0350 }
 voxel "KVX/0351_RAILING2.KVX" { tile 0351 }
 voxel "KVX/0389_WINDOW1.KVX" { tile 389 }
+voxel "KVX/0468_HANGING_LAMP_OFF.KVX" { tile 468 } // Dzierzan
+voxel "KVX/0469_HANGING_LAMP_ON.KVX" { tile 469 } // Dzierzan
 voxel "KVX/0485_FAUCET.KVX" { tile 485 }
 voxel "KVX/0505_WASTE.KVX" { tile 505 }
 voxel "KVX/0513_ROPE.KVX" { tile 0513 }
