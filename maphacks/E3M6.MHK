@@ -3,6 +3,14 @@ sprite 18 angoff 256
 sprite 29 angoff 512
 sprite 30 angoff 512
 sprite 185 angoff -512
+sprite 509 angoff 100
+sprite 510 angoff 350
+sprite 511 angoff -150
+sprite 512 angoff 512
+sprite 514 angoff 400
+sprite 520 angoff 400
+sprite 521 angoff 256
 sprite 620 angoff -512
 sprite 642 angoff -512
 sprite 643 angoff -512
+

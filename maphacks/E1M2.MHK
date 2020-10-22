@@ -4,11 +4,15 @@ sprite 94 angoff -256
 sprite 96 angoff 768
 sprite 97 angoff -768
 sprite 99 angoff -768
+sprite 180 angoff -510
+sprite 210 angoff 1024
+sprite 211 angoff 1024
 sprite 372 angoff 1024
 sprite 373 angoff 1024
 sprite 439 angoff 256
 sprite 463 angoff 512
 sprite 464 angoff 768
+sprite 465 angoff 725
 sprite 468 angoff 1024
 sprite 479 angoff 512
 sprite 480 angoff 1024

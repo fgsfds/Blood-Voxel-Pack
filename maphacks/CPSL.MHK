@@ -1,4 +1,8 @@
 crc32 1118723957
+sprite 24 angoff 400
 sprite 25 angoff -512
+sprite 91 angoff 256
+sprite 115 angoff 400
+sprite 212 mdposxoff 250
 sprite 369 mdposxoff 50
 sprite 369 mdposyoff 50
