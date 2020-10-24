@@ -86,6 +86,7 @@ Dzierzan:
  + Fly (2410, 2415)
  + Skeleton (0696)
  + Chain hook (0694)
+ + Chains (2579-2582)
 Chillo:
  + Wall Decorations (0164, 0165, 0167, 0227)
  + Wall Face (0226, 0662, 0623)

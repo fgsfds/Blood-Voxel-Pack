@@ -94,6 +94,10 @@ voxel "KVX/ANIM/2487_JACOB2_F.KVX" { tile 2487 }
 voxel "KVX/ANIM/2488_JACOB2_G.KVX" { tile 2488 }
 voxel "KVX/ANIM/2489_JACOB2_H.KVX" { tile 2489 }
 
+voxel "KVX/ANIM/2580_CHAIN_A.KVX" { tile 2580 }
+voxel "KVX/ANIM/2581_CHAIN_B.KVX" { tile 2581 }
+voxel "KVX/ANIM/2582_CHAIN_C.KVX" { tile 2582 }
+
 voxel "KVX/ANIM/3422_STICK_A.KVX" { tile 3422 }
 voxel "KVX/ANIM/3423_STICK_B.KVX" { tile 3423 }
 voxel "KVX/ANIM/3424_STICK_C.KVX" { tile 3424 }
@@ -352,3 +356,4 @@ voxel "KVX/2542_KEYSIGN3.KVX" { tile 2542 }
 voxel "KVX/2543_KEYSIGN4.KVX" { tile 2543 }
 voxel "KVX/2544_KEYSIGN5.KVX" { tile 2544 }
 voxel "KVX/2545_KEYSIGN6.KVX" { tile 2545 }
+voxel "KVX/2579_CHAIN.KVX" { tile 2579 }
