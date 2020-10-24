@@ -273,6 +273,7 @@ voxel "KVX/0689_SKELETON.KVX" { tile 0689 } // Chillo
 voxel "KVX/0690_CORPSE.KVX" { tile 0690 } // Chillo
 voxel "KVX/0692_CHAIN.KVX" { tile 0692 } // Dzierzan
 voxel "KVX/0693_LANTERN.KVX" { tile 693 } // warezeater
+voxel "KVX/0694_CHAIN_HOOK.KVX" { tile 0694 } // Dzierzan
 voxel "KVX/0696_SKELETON.KVX" { tile 0696 } // Dzierzan
 voxel "KVX/0698_CORPSE.KVX" { tile 0698 } // Chillo
 voxel "KVX/0712_JUG.KVX" { tile 712 } // warezeater
