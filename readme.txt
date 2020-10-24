@@ -84,6 +84,7 @@ Dzierzan:
  + Wine Glass (0521)
  + Clock (1165, 1166)
  + Fly (2410, 2415)
+ + Skeleton (0696)
 Chillo:
  + Kimble's Suit (0631)
  + Skull on Stake (1348)
