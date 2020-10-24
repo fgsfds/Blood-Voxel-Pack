@@ -45,13 +45,14 @@ CREDITS
 
 > Voxel creation
    fgsfds (https://twitter.com/fgsfds228)
-   Dzierzan
+   Dzierzan (https://twitter.com/Dzierzan23)
    Chillo (https://twitter.com/DanielWienerson)
    SomeThingEviL
    warezeater
 
 > Maphacks
    fgsfds
+   Dzierzan
 
 
 ============================================================================================
