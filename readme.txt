@@ -87,6 +87,10 @@ Dzierzan:
  + Skeleton (0696)
  + Chain hook (0694)
 Chillo:
+ + Wall Decorations (0164, 0165, 0167, 0227)
+ + Wall Face (0226, 0662, 0623)
+ + Lamp (0676, 0677)
+ + Wall Skull (1456)
  + Kimble's Suit (0631)
  + Skull on Stake (1348)
  + Demon Skull (0685)
