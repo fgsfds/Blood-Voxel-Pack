@@ -205,6 +205,7 @@ voxel "KVX/DECALS/0716_ART_MADONNA_A.KVX" { tile 0716 } // SomeThingEviL
 voxel "KVX/DECALS/0717_ART_MADONNA_B.KVX" { tile 0717 } // SomeThingEviL
 voxel "KVX/DECALS/0718_ART_MADONNA_C.KVX" { tile 0718 } // SomeThingEviL
 voxel "KVX/DECALS/0719_ART_MADONNA_D.KVX" { tile 0719 } // SomeThingEviL
+voxel "KVX/DECALS/0795_LAMP.KVX" { tile 0795 } // Dzierzan
 voxel "KVX/DECALS/0905_SIGN_TICKETS.KVX" { tile 905 }
 voxel "KVX/DECALS/1050_SOCKET.KVX" { tile 1050 }
 voxel "KVX/DECALS/1144_PAJAMAS.KVX" { tile 1144 } // Chillo
