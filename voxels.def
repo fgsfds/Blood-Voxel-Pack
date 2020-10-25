@@ -288,6 +288,7 @@ voxel "KVX/0759_BOTTLE1.KVX" { tile 759 }
 voxel "KVX/0799_REAPER.KVX" { tile 0799 } // Chillo
 voxel "KVX/0802_JAR1.KVX" { tile 802 }
 voxel "KVX/0803_GOBLET.KVX" { tile 803 } // Dzierzan
+voxel "KVX/0818_FLARES.KVX" { tile 818 } // Dzierzan
 voxel "KVX/0834_INVISIBL.KVX" { tile 834 }
 voxel "KVX/0852_DUCK.KVX" { tile 852 } // Dzierzan
 voxel "KVX/0853_FACE.KVX" { tile 853 } // Dzierzan
