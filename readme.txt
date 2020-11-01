@@ -88,7 +88,8 @@ Dzierzan:
  + Chain Hook (0694)
  + Chains (0692, 2579-2582)
  + Flares Box (0818)
- + Lamp (0795)
+ + Wall Lamp (0795)
+ + Lamps (944, 945)
 Chillo:
  + Wall Decorations (0164, 0165, 0167, 0227)
  + Wall Face (0226, 0662, 0623)

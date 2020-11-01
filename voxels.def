@@ -295,6 +295,8 @@ voxel "KVX/0834_INVISIBL.KVX" { tile 834 }
 voxel "KVX/0852_DUCK.KVX" { tile 852 } // Dzierzan
 voxel "KVX/0853_FACE.KVX" { tile 853 } // Dzierzan
 voxel "KVX/0906_CORPSE.KVX" { tile 0906 } // Chillo
+voxel "KVX/0944_LAMP_OFF.KVX" { tile 0944 } // Dzierzan
+voxel "KVX/0945_LAMP_ON.KVX" { tile 0945 } // Dzierzan
 voxel "KVX/0946_BULB_OFF.KVX" { tile 0946 }
 voxel "KVX/0947_BULB_ON.KVX" { tile 0947 }
 voxel "KVX/0961_POT1.KVX" { tile 0961 }
