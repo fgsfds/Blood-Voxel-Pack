@@ -70,7 +70,7 @@ Dzierzan:
  + Balloon (1115)
  + Bell (0382)
  + Goblet (0803)
- + Pillar (0534)
+ + Pillars (0534, 0535)
  + Empty Glass (0574)
  + Hellhound Eye Gib (1327)
  + Stalactite (0654)

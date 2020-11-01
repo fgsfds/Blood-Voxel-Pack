@@ -243,6 +243,7 @@ voxel "KVX/0513_ROPE.KVX" { tile 0513 }
 voxel "KVX/0520_SKULL_GOBLET.KVX" { tile 520 } // Dzierzan
 voxel "KVX/0521_WINE_GLASS.KVX" { tile 521 } // Dzierzan
 voxel "KVX/0534_PILLAR.KVX" { tile 534 } // Dzierzan
+voxel "KVX/0535_PILLAR.KVX" { tile 535 } // Dzierzan
 voxel "KVX/0537_VASE.KVX" { tile 0537 }
 voxel "KVX/0549_CEILINGCHAND2_OFF.KVX" { tile 0549 }
 voxel "KVX/0554_TORCH_OFF.KVX" { tile 0554 }
