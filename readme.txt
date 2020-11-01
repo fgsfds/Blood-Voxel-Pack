@@ -86,10 +86,10 @@ Dzierzan:
  + Fly (2410, 2415)
  + Skeleton (0696)
  + Chain Hook (0694)
- + Chains (0692, 2579-2582)
+ + Chains (0692, 0745-0750, 2579-2582)
  + Flares Box (0818)
  + Wall Lamp (0795)
- + Lamps (944, 945)
+ + Lamps (0944, 0945)
  + Keyhole (2538)
  + Rope (0112)
 Chillo:

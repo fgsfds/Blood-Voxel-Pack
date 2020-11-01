@@ -26,6 +26,12 @@ voxel "KVX/ANIM/0655_SAW1_A.KVX" { tile 655 }
 voxel "KVX/ANIM/0656_SAW1_B.KVX" { tile 656 }
 voxel "KVX/ANIM/0657_SAW1_C.KVX" { tile 657 }
 
+voxel "KVX/ANIM/0746_CHAIN_A.KVX" { tile 746 } // Dzierzan
+voxel "KVX/ANIM/0747_CHAIN_B.KVX" { tile 747 } // Dzierzan
+voxel "KVX/ANIM/0748_CHAIN_C.KVX" { tile 748 } // Dzierzan
+voxel "KVX/ANIM/0749_CHAIN_D.KVX" { tile 749 } // Dzierzan
+voxel "KVX/ANIM/0750_CHAIN_E.KVX" { tile 750 } // Dzierzan
+
 voxel "KVX/ANIM/0772_SAW2_A.KVX" { tile 772 }
 voxel "KVX/ANIM/0773_SAW2_B.KVX" { tile 773 }
 voxel "KVX/ANIM/0774_SAW2_C.KVX" { tile 774 }
@@ -286,6 +292,7 @@ voxel "KVX/0698_CORPSE.KVX" { tile 0698 } // Chillo
 voxel "KVX/0712_JUG.KVX" { tile 712 } // warezeater
 voxel "KVX/0738_COWSKULL.KVX" { tile 0738 } // Chillo
 voxel "KVX/0739_VASE.KVX" { tile 739 } // warezeater
+voxel "KVX/0745_CHAIN.KVX" { tile 745 } // Dzierzan
 voxel "KVX/0753_SHOWER.KVX" { tile 753 }
 voxel "KVX/0759_BOTTLE1.KVX" { tile 759 }
 voxel "KVX/0799_REAPER.KVX" { tile 0799 } // Chillo
