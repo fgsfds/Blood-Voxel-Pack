@@ -212,7 +212,7 @@ voxel "KVX/DECALS/1144_PAJAMAS.KVX" { tile 1144 } // Chillo
 voxel "KVX/DECALS/1165_CLOCK.KVX" { tile 1165 } // Dzierzan
 voxel "KVX/DECALS/1166_CLOCK_DAMAGED.KVX" { tile 1166 } // Dzierzan
 voxel "KVX/DECALS/1348_SKULL.KVX" { tile 1348 } // Chillo
-
+voxel "KVX/DECALS/2538_KEYHOLE.KVX" { tile 2538 } // Dzierzan
 
 //Gibs
 
