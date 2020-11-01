@@ -349,6 +349,7 @@ voxel "KVX/1721_WIRES.KVX" { tile 1721 }
 voxel "KVX/2028_BLOOD_DROP_A.KVX" { tile 2028 } // Dzierzan
 voxel "KVX/2029_BLOOD_DROP_B.KVX" { tile 2029 } // Dzierzan
 voxel "KVX/2159_ARROW.KVX" { tile 2159 }
+voxel "KVX/2273_CANDY_MACHINE.KVX" { tile 2273 } // Dzierzan
 voxel "KVX/2295_PAN1.KVX" { tile 2295 }
 voxel "KVX/2304_PAN2.KVX" { tile 2304 }
 voxel "KVX/2305_POT2.KVX" { tile 2305 }
