@@ -232,6 +232,7 @@ voxel "KVX/GIBS/1456_GIB.KVX" { tile 1456 } // Chillo
 voxel "KVX/0058_MTLBARS.KVX" { tile 0058 }
 voxel "KVX/0059_MTLBARS2.KVX" { tile 0059 }
 voxel "KVX/0073_SHIRT.KVX" { tile 0073 } // SomeThingEviL
+voxel "KVX/0104_METAL_BARS.KVX" { tile 0104 } // Dzierzan
 voxel "KVX/0112_ROPE.KVX" { tile 0112 } // Dzierzan
 voxel "KVX/0201_TOXICBARREL.KVX" { tile 201 }
 voxel "KVX/0256_WOODBRIDGE.KVX" { tile 0256 } // SomeThingEviL
