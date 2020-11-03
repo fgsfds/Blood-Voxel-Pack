@@ -281,6 +281,7 @@ voxel "KVX/0649_TABLE.KVX" { tile 0649 }
 voxel "KVX/0650_CANDLE.KVX" { tile 650 }
 voxel "KVX/0654_STALACTITE2.KVX" { tile 654 } // Dzierzan
 voxel "KVX/0659_WINDOW2.KVX" { tile 659 }
+voxel "KVX/0683_SKULL.KVX" { tile 683 } // Dzierzan
 voxel "KVX/0685_SKULL.KVX" { tile 0685 } // Chillo
 voxel "KVX/0688_SKELETON.KVX" { tile 0688 } // Chillo
 voxel "KVX/0689_SKELETON.KVX" { tile 0689 } // Chillo
