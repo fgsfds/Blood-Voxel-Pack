@@ -95,6 +95,7 @@ Dzierzan:
  + Candy Machine (2273)
  + Metal Bars (0104)
  + Skull (0683)
+ + Anvil (0579)
 Chillo:
  + Wall Decorations (0164, 0165, 0167, 0227)
  + Wall Face (0226, 0662, 0623)

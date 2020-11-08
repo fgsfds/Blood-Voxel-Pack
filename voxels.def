@@ -266,6 +266,7 @@ voxel "KVX/0570_TORCH_OFF.KVX" { tile 570 }
 voxel "KVX/0571_TORCH_ON.KVX" { tile 571 }
 voxel "KVX/0574_EMPTY_GLASS.KVX" { tile 574 } // Dzierzan
 voxel "KVX/0575_INLOVING.KVX" { tile 575 }
+voxel "KVX/0579_ANVIL.KVX" { tile 579 } // Dzierzan
 voxel "KVX/0588_RAILING3.KVX" { tile 0588 }
 voxel "KVX/0600_CANDLE.KVX" { tile 0600 }
 voxel "KVX/0604_JAR2.KVX" { tile 604 }
