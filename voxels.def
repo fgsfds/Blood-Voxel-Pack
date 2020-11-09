@@ -194,6 +194,7 @@ voxel "KVX/DECALS/0167_DECOR.KVX" { tile 0167 } // Chillo
 voxel "KVX/DECALS/0226_FACE.KVX" { tile 0226 } // Chillo
 voxel "KVX/DECALS/0227_DECOR.KVX" { tile 0227 } // Chillo
 voxel "KVX/DECALS/0249_FACE.KVX" { tile 0249 } // Chillo
+voxel "KVX/DECALS/0349_BOOK.KVX" { tile 349 } // Dzierzan
 voxel "KVX/DECALS/0382_BELL.KVX" { tile 382 } // Dzierzan
 voxel "KVX/DECALS/0431_BILLBOARD.KVX" { tile 431 }
 voxel "KVX/DECALS/0446_KRUEGER.KVX" { tile 446 } // Dzierzan
