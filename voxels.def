@@ -237,6 +237,8 @@ voxel "KVX/0073_SHIRT.KVX" { tile 0073 } // SomeThingEviL
 voxel "KVX/0104_METAL_BARS.KVX" { tile 0104 } // Dzierzan
 voxel "KVX/0112_ROPE.KVX" { tile 0112 } // Dzierzan
 voxel "KVX/0201_TOXICBARREL.KVX" { tile 201 }
+voxel "KVX/0246_POLE.KVX" { tile 0246 } // Dzierzan
+voxel "KVX/0247_POLE.KVX" { tile 0247 } // Dzierzan
 voxel "KVX/0256_WOODBRIDGE.KVX" { tile 0256 } // SomeThingEviL
 voxel "KVX/0257_SKULLSTAKE.KVX" { tile 0257 } // warezeater
 voxel "KVX/0258_ROPE.KVX" { tile 0258 } // SomeThingEviL
