@@ -264,8 +264,8 @@ voxel "KVX/0557_TASSEL.KVX" { tile 0557 } // Dzierzan
 voxel "KVX/0560_POST1.KVX" { tile 0560 }
 voxel "KVX/0561_POST2.KVX" { tile 0561 }
 voxel "KVX/0563_ZOMBARREL.KVX" { tile 563 }
-voxel "KVX/0564_SKLAMP.KVX" { tile 0564 } // Chillo
-voxel "KVX/0564_SKLAMP.KVX" { tile 0565 } // Chillo
+//voxel "KVX/0564_SKLAMP.KVX" { tile 0564 } // Chillo
+//voxel "KVX/0564_SKLAMP.KVX" { tile 0565 } // Chillo
 voxel "KVX/0570_TORCH_OFF.KVX" { tile 570 }
 voxel "KVX/0571_TORCH_ON.KVX" { tile 571 }
 voxel "KVX/0574_EMPTY_GLASS.KVX" { tile 574 } // Dzierzan
