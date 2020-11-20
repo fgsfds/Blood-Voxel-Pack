@@ -280,6 +280,7 @@ voxel "KVX/0607_SKULLSTAKE.KVX" { tile 607 }
 voxel "KVX/0616_JUG.KVX" { tile 616 } // warezeater
 voxel "KVX/0632_STALACTITE.KVX" { tile 632 } // Dzierzan
 voxel "KVX/0633_RIP.KVX" { tile 633 }
+voxel "KVX/0639_BOOK.KVX" { tile 0639 } // Dzierzan
 voxel "KVX/0640_LANTERN.KVX" { tile 640 }
 voxel "KVX/0641_CHAINLANTERN.KVX" { tile 0641 }
 voxel "KVX/0649_TABLE.KVX" { tile 0649 }

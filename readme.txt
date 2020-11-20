@@ -96,7 +96,7 @@ Dzierzan:
  + Metal Bars (0104)
  + Skull (0683)
  + Anvil (0579)
- + Books (0348, 0349)
+ + Books (0348, 0349, 0639)
  + Poles (0247, 0248)
 Chillo:
  + Wall Decorations (0164, 0165, 0167, 0227)
