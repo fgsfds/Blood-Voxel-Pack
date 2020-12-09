@@ -332,6 +332,7 @@ voxel "KVX/1010_PLANT2.KVX" { tile 1010 }
 voxel "KVX/1013_FLOWERS.KVX" { tile 1013 }
 voxel "KVX/1044_GATE.KVX" { tile 1044 }
 voxel "KVX/1061_COCOON.KVX" { tile 1061 } // Chillo
+voxel "KVX/1063_WATER_VASE.KVX" { tile 1063 } // Dzierzan
 voxel "KVX/1066_WEB1.KVX" { tile 1066 }
 voxel "KVX/1067_WEB2.KVX" { tile 1067 }
 voxel "KVX/1068_WEB3.KVX" { tile 1068 }
