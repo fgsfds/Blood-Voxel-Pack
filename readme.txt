@@ -99,6 +99,7 @@ Dzierzan:
  + Books (0348, 0349, 0639)
  + Poles (0247, 0248)
  + Metal piece (0511)
+ + Vase with water (1063)
 Chillo:
  + Wall Decorations (0164, 0165, 0167, 0227)
  + Wall Face (0226, 0662, 0623)
