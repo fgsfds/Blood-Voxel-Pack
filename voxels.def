@@ -284,6 +284,7 @@ voxel "KVX/0633_RIP.KVX" { tile 633 }
 voxel "KVX/0639_BOOK.KVX" { tile 0639 } // Dzierzan
 voxel "KVX/0640_LANTERN.KVX" { tile 640 }
 voxel "KVX/0641_CHAINLANTERN.KVX" { tile 0641 }
+voxel "KVX/0642_VASE.KVX" { tile 0642 } // Dzierzan
 voxel "KVX/0649_TABLE.KVX" { tile 0649 }
 voxel "KVX/0650_CANDLE.KVX" { tile 650 }
 voxel "KVX/0654_STALACTITE2.KVX" { tile 654 } // Dzierzan
