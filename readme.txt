@@ -101,6 +101,7 @@ Dzierzan:
  + Metal piece (0511)
  + Vase with water (1063)
  + Roman vase (0642)
+ + Skull emerging from the wall (0187-0189)
 Chillo:
  + Wall Decorations (0164, 0165, 0167, 0227)
  + Wall Face (0226, 0662, 0623)

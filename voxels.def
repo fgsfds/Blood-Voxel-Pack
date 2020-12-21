@@ -1,5 +1,9 @@
 //Animated
 
+voxel "KVX/ANIM/0187_WALL_SKULL_A.KVX" { tile 0187 }
+voxel "KVX/ANIM/0188_WALL_SKULL_B.KVX" { tile 0188 }
+voxel "KVX/ANIM/0189_WALL_SKULL_C.KVX" { tile 0189 }
+
 voxel "KVX/ANIM/0506_TORCH_A.KVX" { tile 0506 }
 voxel "KVX/ANIM/0507_TORCH_B.KVX" { tile 0507 }
 voxel "KVX/ANIM/0508_TORCH_C.KVX" { tile 0508 }
