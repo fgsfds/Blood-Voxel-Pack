@@ -121,6 +121,7 @@ Chillo:
  + Cocoon (1061)
 warezeater:
  + Skull on Stake (0257)
+ + Pot on and off (0550, 0551) [modifed by Dzierzan]
 
 
 Version 0.93 (21.05.2020)

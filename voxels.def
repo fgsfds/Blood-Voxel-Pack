@@ -263,6 +263,8 @@ voxel "KVX/0534_PILLAR.KVX" { tile 534 } // Dzierzan
 voxel "KVX/0535_PILLAR.KVX" { tile 535 } // Dzierzan
 voxel "KVX/0537_VASE.KVX" { tile 0537 }
 voxel "KVX/0549_CEILINGCHAND2_OFF.KVX" { tile 0549 }
+voxel "KVX/0550_POT_OFF.KVX" { tile 0550 } // warezeater & Dzierzan
+voxel "KVX/0551_POT_ON.KVX" { tile 0551 } // warezeater & Dzierzan
 voxel "KVX/0554_TORCH_OFF.KVX" { tile 0554 }
 voxel "KVX/0555_TORCH_ON.KVX" { tile 0555 }
 voxel "KVX/0557_TASSEL.KVX" { tile 0557 } // Dzierzan
