@@ -10,7 +10,11 @@ sprite 260 angoff 512
 sprite 261 angoff 512
 sprite 262 angoff 512
 sprite 338 angoff -515
+sprite 338 mdposxoff -100
+sprite 338 mdposyoff -100
 sprite 339 angoff -515
+sprite 339 mdposxoff 100
+sprite 339 mdposyoff -100
 sprite 340 angoff -1020
 sprite 371 angoff -512
 sprite 389 angoff 752
