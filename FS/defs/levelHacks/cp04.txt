@@ -1,5 +1,0 @@
-2808618128
-
-sprite 56 angoff 512
-sprite 89 novoxel
-sprite 485 angoff -768

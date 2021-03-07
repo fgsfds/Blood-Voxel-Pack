@@ -1,5 +1,0 @@
-1637615082
-
-sprite 24 mdxoff 80
-sprite 256 angoff 1024
-sprite 257 angoff 1024
