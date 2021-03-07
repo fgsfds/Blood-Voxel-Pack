@@ -4,8 +4,6 @@ Blood Voxel Pack
 
 Version:       0.94 WIP
 Release Date:  TBA
-Author:        fgsfds
-Link:          https://github.com/fgsfds/Blood-Voxel-Pack
 
 
 ============================================================================================
@@ -21,7 +19,7 @@ HOW TO USE
 ============================================================================================
 
 BuildGDX (1.15 or later) and NBlood (r11419 or later):
-- put blvoxels.zip into autoload folder located in a game directory
+- put voxels_blood_*.zip into autoload folder located in a game directory
 - make sure "enable autoload folder" checkbox is enabled
 
 
@@ -29,14 +27,14 @@ BuildGDX (1.15 or later) and NBlood (r11419 or later):
 LINKS
 ============================================================================================
 
-> Voxel pack thread:
-   https://forums.duke4.net/topic/9360-blood-voxel-pack/
-
 > BuildGDX port:
    https://m210.duke4.net/index.php/downloads/download/8-java/53-buildgdx
 
 > NBlood dev builds:
    https://lerppu.net/wannabethesis/nblood/
+   
+> GitHub repo:
+   https://github.com/fgsfds/Blood-Voxel-Pack
 
 
 ============================================================================================
