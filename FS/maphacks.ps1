@@ -6,13 +6,14 @@ Get-ChildItem "../maphacks" -Filter *.MHK -Recurse |
 ForEach-Object{
 	
 	(Get-Content $_.FullName) |	
-		Foreach-Object {
+		Foreach-Object
+    {
 		$_ -replace 'crc32 ', '' `
 		   -replace 'notmd', 'novoxel' `
 		   -replace 'mdposxoff', 'mdxoff' `
 		   -replace 'mdposyoff', 'mdyoff' `
 		   -replace 'mdposzoff', 'mdzoff' `
-		} | Out-File ("./defs/levelHacks/" + $_.Basename + ".txt")
+	} | Out-File ("./defs/levelHacks/" + $_.Basename + ".txt")
 }
 	
 Add-Content -Path ./defs/levelHacks/cp09.txt -Value 'sprite 803 x 29184'
