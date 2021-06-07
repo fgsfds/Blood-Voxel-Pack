@@ -52,9 +52,9 @@ voxel "KVX/ANIM/1052_SNAKE_B.KVX" { tile 1052 } // Dzierzan
 voxel "KVX/ANIM/1053_SNAKE_C.KVX" { tile 1053 } // Dzierzan
 voxel "KVX/ANIM/1054_SNAKE_D.KVX" { tile 1054 } // Dzierzan
 
-voxel "KVX/ANIM/1092_AIR_FRESHENER_A.KVX" { tile 1092 } // Dzierzan
-voxel "KVX/ANIM/1093_AIR_FRESHENER_B.KVX" { tile 1093 } // Dzierzan
-voxel "KVX/ANIM/1094_AIR_FRESHENER_C.KVX" { tile 1094 } // Dzierzan
+//voxel "KVX/ANIM/1092_AIR_FRESHENER_A.KVX" { tile 1092 } // Dzierzan
+//voxel "KVX/ANIM/1093_AIR_FRESHENER_B.KVX" { tile 1093 } // Dzierzan
+//voxel "KVX/ANIM/1094_AIR_FRESHENER_C.KVX" { tile 1094 } // Dzierzan
 
 voxel "KVX/ANIM/1148_BLOOD_A.KVX" { tile 1148 } // Dzierzan
 voxel "KVX/ANIM/1149_BLOOD_B.KVX" { tile 1149 } // Dzierzan
