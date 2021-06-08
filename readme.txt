@@ -62,6 +62,7 @@ Version 0.94 (WIP)
 fgsfds:
  > Maphacks support for BuildGDX
  + Web (1066-1069, 1087-1089, 2420-2423)
+ + Rotating Candlestick (0590-0591) [modifed by Dzierzan]
 Dzierzan:
  + Face Target (0853)
  + Duck Target (0852)
