@@ -15,6 +15,13 @@ voxel "KVX/ANIM/0585_CHAND2_B.KVX" { tile 585 }
 voxel "KVX/ANIM/0586_CHAND2_C.KVX" { tile 586 }
 voxel "KVX/ANIM/0587_CHAND2_D.KVX" { tile 587 }
 
+voxel "KVX/ANIM/0590_CHAND_A.KVX" { tile 590 rotate }
+voxel "KVX/ANIM/0591_CHAND_B.KVX" { tile 591 rotate }
+voxel "KVX/ANIM/0592_CHAND_C.KVX" { tile 592 rotate }
+voxel "KVX/ANIM/0593_CHAND_D.KVX" { tile 593 rotate }
+voxel "KVX/ANIM/0594_CHAND_E.KVX" { tile 594 rotate }
+voxel "KVX/ANIM/0595_CHAND_F.KVX" { tile 595 rotate }
+
 voxel "KVX/ANIM/0596_CCHAND_A.KVX" { tile 596 }
 voxel "KVX/ANIM/0597_CCHAND_B.KVX" { tile 597 }
 
