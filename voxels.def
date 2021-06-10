@@ -235,6 +235,8 @@ voxel "KVX/DECALS/0658_EXTINGUISHER.KVX" { tile 658 }
 voxel "KVX/DECALS/0659_WINDOW2.KVX" { tile 659 }
 voxel "KVX/DECALS/0676_LAMP_A.KVX" { tile 676 } // Chillo
 voxel "KVX/DECALS/0677_LAMP_B.KVX" { tile 677 } // Chillo
+voxel "KVX/DECALS/0710_MIRROR.KVX" { tile 710 } // Chillo
+voxel "KVX/DECALS/0711_MIRROR_DAMAGED.KVX" { tile 711 } // Chillo
 voxel "KVX/DECALS/0714_SHIELD.KVX" { tile 714 }
 voxel "KVX/DECALS/0716_ART_MADONNA_A.KVX" { tile 716 } // SomeThingEviL
 voxel "KVX/DECALS/0717_ART_MADONNA_B.KVX" { tile 717 } // SomeThingEviL
