@@ -396,7 +396,7 @@ voxel "KVX/1350_CHICKEN.KVX" { tile 1350 } // Chillo
 voxel "KVX/1351_BEEF.KVX" { tile 1351 } // Chillo
 voxel "KVX/1454_EYE_GIB.KVX" { tile 1454 } // Dzierzan
 voxel "KVX/1456_GIB.KVX" { tile 1456 } // Chillo
-voxel "KVX/1530_GARGOYLE.KVX" { tile 1530 } // Chillo
+//voxel "KVX/1530_GARGOYLE.KVX" { tile 1530 } // Chillo
 voxel "KVX/1538_POST.KVX" { tile 1538 } // Chillo
 voxel "KVX/1721_WIRES.KVX" { tile 1721 }
 voxel "KVX/2028_BLOOD_DROP_A.KVX" { tile 2028 } // Dzierzan
