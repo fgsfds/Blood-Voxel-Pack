@@ -1,0 +1,18 @@
+//Pickups
+
+voxel "KVX/PICKUPS/0517_HEALTHBOTTLE.KVX"		{ tile 517 } 		 // fgsfds
+voxel "KVX/PICKUPS/0548_AMMOTESLA.KVX" 			{ tile 548 } 		 // fgsfds
+voxel "KVX/PICKUPS/0558_TOMMY.KVX" 				{ tile 558 rotate }  // fgsfds
+voxel "KVX/PICKUPS/0619_AMMOSHOT.KVX" 			{ tile 619 } 		 // fgsfds
+voxel "KVX/PICKUPS/0783_FEATHER.KVX" 			{ tile 783 } 		 // fgsfds
+voxel "KVX/PICKUPS/0813_AMMOTOMMY.KVX" 			{ tile 813 } 		 // fgsfds
+voxel "KVX/PICKUPS/0822_POUCH.KVX" 				{ tile 822 } 		 // Dzierzan
+voxel "KVX/PICKUPS/0827_BOOTS.KVX" 				{ tile 827 } 		 // fgsfds
+voxel "KVX/PICKUPS/0830_SWIMSUIT.KVX" 			{ tile 830 } 		 // fgsfds
+voxel "KVX/PICKUPS/2558_KEY7.KVX" 				{ tile 2558 rotate } // fgsfds
+
+voxel "KVX/PICKUPS/2433_SEED_A.KVX" 			{ tile 2433 rotate } // fgsfds
+voxel "KVX/PICKUPS/2434_SEED_B.KVX" 			{ tile 2434 rotate } // fgsfds
+voxel "KVX/PICKUPS/2435_SEED_C.KVX" 			{ tile 2435 rotate } // fgsfds
+voxel "KVX/PICKUPS/2436_SEED_D.KVX" 			{ tile 2436 rotate } // fgsfds
+voxel "KVX/PICKUPS/2437_SEED_E.KVX" 			{ tile 2437 rotate } // fgsfds

@@ -11,7 +11,7 @@ ABOUT
 ============================================================================================
 
 This pack provides voxel replacements for sprites in Blood.
-It is meant to be used with BuildGDX or NBlood ports.
+It is meant to be used with BuildGDX, NBlood and Raze ports.
 
 
 ============================================================================================
@@ -22,6 +22,8 @@ BuildGDX (1.15 or later) and NBlood (r11419 or later):
 - put voxels_blood_*.zip into autoload folder located in a game directory
 - make sure "enable autoload folder" checkbox is enabled
 
+Raze:
+- Drag and drop "Blood-Voxel-Pack.zip" onto Raze.exe and select then Blood.
 
 ============================================================================================
 LINKS
@@ -32,6 +34,9 @@ LINKS
 
 > NBlood dev builds:
    https://lerppu.net/wannabethesis/nblood/
+
+> Raze port
+   https://github.com/coelckers/Raze/releases
    
 > GitHub repo:
    https://github.com/fgsfds/Blood-Voxel-Pack

@@ -1,0 +1,11 @@
+//Gibs
+
+voxel "KVX/GIBS/2155_GIB_A.KVX" 	{ tile 2155 } // Chillo
+voxel "KVX/GIBS/2156_GIB_B.KVX" 	{ tile 2156 } // Chillo
+voxel "KVX/GIBS/2157_GIB_C.KVX" 	{ tile 2157 } // Chillo
+voxel "KVX/GIBS/2158_GIB_D.KVX" 	{ tile 2158 } // Chillo
+voxel "KVX/GIBS/1267_HAND.KVX" 		{ tile 1267 } // Chillo
+voxel "KVX/GIBS/1268_GIB.KVX" 		{ tile 1268 } // Chillo
+voxel "KVX/GIBS/1269_GIB.KVX" 		{ tile 1269 } // Chillo
+voxel "KVX/GIBS/1454_EYE_GIB.KVX" 	{ tile 1454 } // Dzierzan
+voxel "KVX/GIBS/1456_GIB.KVX" 		{ tile 1456 } // Chillo

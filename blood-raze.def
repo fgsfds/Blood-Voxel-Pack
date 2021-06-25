@@ -1,2 +1,8 @@
-include voxels.def
+include DEF/decals.def
+include DEF/pickups.def
+include DEF/switches.def
+include DEF/props.def
+include DEF/trees.def
+include DEF/gibs.def
+include DEF/monsters.def
 include maphacks/maphacks.def
