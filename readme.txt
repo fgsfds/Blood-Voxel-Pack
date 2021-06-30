@@ -129,7 +129,7 @@ Chillo:
  + Jack (2447)
  + Skull Candle (0601-0603)
  + Gargoyle pedestal (1538)
- + Gargoyle statule (1530)
+ + Gargoyle statue (1530)
  + Ophelia (0370)
  + Statue (0577, 0536)
  + Stroller (0183)
