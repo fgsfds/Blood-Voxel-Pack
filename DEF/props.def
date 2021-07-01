@@ -250,6 +250,8 @@ voxel "KVX/PROPS/1069.KVX"	{ tile 1069 } 			  // WEB4					// fgsfds
 voxel "KVX/PROPS/1087.KVX"	{ tile 1087 } 			  // WEB_BRK_A 				// fgsfds
 voxel "KVX/PROPS/1088.KVX"	{ tile 1088 } 			  // WEB_BRK_B 				// fgsfds
 voxel "KVX/PROPS/1089.KVX"	{ tile 1089 } 			  // WEB_BRK_C 				// fgsfds
+voxel "KVX/PROPS/1090.KVX"	{ tile 1090 } 			  // BLADES_LEFT 			// Dzierzan
+voxel "KVX/PROPS/1091.KVX"	{ tile 1091 } 			  // BLADES_RIGHT 			// Dzierzan
 voxel "KVX/PROPS/1115.KVX"	{ tile 1115 } 			  // BALLOON 				// Dzierzan
 voxel "KVX/PROPS/1147.KVX"	{ tile 1147 } 			  // WATER_DROP				// Dzierzan
 voxel "KVX/PROPS/1160.KVX"	{ tile 1160 } 			  // BLOOD_DROP				// Dzierzan
