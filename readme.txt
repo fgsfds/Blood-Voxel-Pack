@@ -139,7 +139,14 @@ Chillo:
 warezeater:
  + Skull on Stake (0257)
  + Pot on and off (0550, 0551) [modifed by Dzierzan]
-
+SomeThingEvil:
+ + Freaks sign (0849)
+ + Anatomy painting (0611)
+ + Hospital sign (0151)
+ + Jojo sign (0981)
+ + Tickets sign (0943)
+ + Infirmary sign (0066)
+ + Welcome to hell sign (0974)
 
 Version 0.93 (21.05.2020)
 ---------------------------
