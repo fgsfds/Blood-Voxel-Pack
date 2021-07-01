@@ -43,6 +43,7 @@ voxel "KVX/DECALS/0716.KVX"	{ tile 716 }  // ART_MADONNA_A 			// SomeThingEviL
 voxel "KVX/DECALS/0717.KVX"	{ tile 717 }  // ART_MADONNA_B 			// SomeThingEviL
 voxel "KVX/DECALS/0718.KVX"	{ tile 718 }  // ART_MADONNA_C 			// SomeThingEviL
 voxel "KVX/DECALS/0719.KVX"	{ tile 719 }  // ART_MADONNA_D 			// SomeThingEviL
+voxel "KVX/DECALS/0751.KVX"	{ tile 751 }  // SIGN_MANAGER	 		// SomeThingEviL
 voxel "KVX/DECALS/0752.KVX"	{ tile 752 }  // SIGN_ADMISSION 		// SomeThingEviL
 voxel "KVX/DECALS/0761.KVX"	{ tile 761 }  // SIGN_EXIT		 		// SomeThingEviL
 voxel "KVX/DECALS/0795.KVX"	{ tile 795 }  // LAMP 					// Dzierzan
@@ -55,6 +56,7 @@ voxel "KVX/DECALS/0943.KVX"	{ tile 943 }  // SIGN_TICKETS			// SomeThingEviL
 voxel "KVX/DECALS/0974.KVX"	{ tile 974 }  // SIGN_WELCOMETOHELL		// SomeThingEviL
 voxel "KVX/DECALS/0981.KVX"	{ tile 981 }  // SIGN_JOJO				// SomeThingEviL
 voxel "KVX/DECALS/1050.KVX"	{ tile 1050 } // SOCKET 				// fgsfds
+voxel "KVX/DECALS/1062.KVX"	{ tile 1062 } // SIGN_MORGUE			// SomeThingEviL
 voxel "KVX/DECALS/1098.KVX"	{ tile 1098 } // GRATE					// fgsfds
 voxel "KVX/DECALS/1099.KVX"	{ tile 1099 } // GRATE_BRK 				// fgsfds
 voxel "KVX/DECALS/1144.KVX"	{ tile 1144 } // PAJAMAS 				// Chillo

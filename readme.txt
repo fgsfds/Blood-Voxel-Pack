@@ -154,6 +154,8 @@ SomeThingEvil:
  + No admittance sign (0823)
  + Exit sign (0761)
  + Radiology sign (2174)
+ + Morgue sign (1062)
+ + Manager sign (0751)
 
 Version 0.93 (21.05.2020)
 ---------------------------
