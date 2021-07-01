@@ -275,8 +275,8 @@ voxel "KVX/PROPS/2273.KVX"	{ tile 2273 } 			  // CANDY_MACHINE 			// Dzierzan
 voxel "KVX/PROPS/2295.KVX"	{ tile 2295 } 			  // PAN1 					// fgsfds
 voxel "KVX/PROPS/2304.KVX"	{ tile 2304 } 			  // PAN2 					// fgsfds
 voxel "KVX/PROPS/2305.KVX"	{ tile 2305 } 			  // POT2 					// fgsfds
-voxel "KVX/PROPS/2330.KVX"	{ tile 2330 } 			  // INNOCENT_CORPSE 		// Chillo
-voxel "KVX/PROPS/2333.KVX"	{ tile 2333 } 			  // INNOCENT_CORPSE 		// Chillo
+//voxel "KVX/PROPS/2330.KVX"	{ tile 2330 } 			  // INNOCENT_CORPSE 		// Chillo
+//voxel "KVX/PROPS/2333.KVX"	{ tile 2333 } 			  // INNOCENT_CORPSE 		// Chillo
 voxel "KVX/PROPS/2377.KVX"	{ tile 2377 } 			  // MANNEQUIN 				// fgsfds
 voxel "KVX/PROPS/2410.KVX"	{ tile0 2410 tile1 2414 } // FLY_A					// Dzierzan
 voxel "KVX/PROPS/2415.KVX"	{ tile0 2415 tile1 2419 } // FLY_B					// Dzierzan
