@@ -150,6 +150,7 @@ SomeThingEvil:
  + Danger signs (0933, 0942)
  + Welcome mat (2070, 2071)
  + Admission sign (0752)
+ + Employees must wash hand sign (1719)
 
 Version 0.93 (21.05.2020)
 ---------------------------
