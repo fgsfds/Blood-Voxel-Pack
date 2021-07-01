@@ -1,3 +1,3 @@
 // Monsters
 
-voxel "KVX/MONSTERS/1530_GARGOYLE.KVX" 				{ tile 1530 } // Chillo
+voxel "KVX/MONSTERS/1530.KVX"	{ tile 1530 } // GARGOYLE_STATUE 	// Chillo
