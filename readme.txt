@@ -153,6 +153,7 @@ SomeThingEvil:
  + Employees must wash hand sign (1719)
  + No admittance sign (0823)
  + Exit sign (0761)
+ + Radiology sign (2174)
 
 Version 0.93 (21.05.2020)
 ---------------------------
