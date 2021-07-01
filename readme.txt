@@ -148,6 +148,8 @@ SomeThingEvil:
  + Infirmary sign (0066)
  + Welcome to hell sign (0974)
  + Danger signs (0933, 0942)
+ + Welcome mat (2070, 2071)
+
 
 Version 0.93 (21.05.2020)
 ---------------------------
