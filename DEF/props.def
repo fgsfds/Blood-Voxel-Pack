@@ -63,6 +63,14 @@ voxel "KVX/ANIM/1052.KVX"	{ tile 1052 } 			  // SNAKE_B				// Dzierzan
 voxel "KVX/ANIM/1053.KVX"	{ tile 1053 } 			  // SNAKE_C 				// Dzierzan
 voxel "KVX/ANIM/1054.KVX"	{ tile 1054 } 			  // SNAKE_D 				// Dzierzan
 
+voxel "KVX/ANIM/1080.KVX"	{ tile 1080 } 			  // SWINGING_BLADE_A		// Dzierzan
+voxel "KVX/ANIM/1081.KVX"	{ tile 1081 } 			  // SWINGING_BLADE_B		// Dzierzan
+voxel "KVX/ANIM/1082.KVX"	{ tile 1082 } 			  // SWINGING_BLADE_C		// Dzierzan
+voxel "KVX/ANIM/1083.KVX"	{ tile 1083 } 			  // SWINGING_BLADE_D		// Dzierzan
+voxel "KVX/ANIM/1084.KVX"	{ tile 1084 } 			  // SWINGING_BLADE_E		// Dzierzan
+voxel "KVX/ANIM/1085.KVX"	{ tile 1085 } 			  // SWINGING_BLADE_F		// Dzierzan
+voxel "KVX/ANIM/1086.KVX"	{ tile 1086 } 			  // SWINGING_BLADE_G		// Dzierzan
+
 voxel "KVX/ANIM/1092.KVX"	{ tile 1092 }			  // AIR_FRESHENER_A 		// Dzierzan
 voxel "KVX/ANIM/1093.KVX"	{ tile 1093 }			  // AIR_FRESHENER_B		// Dzierzan
 voxel "KVX/ANIM/1094.KVX"	{ tile 1094 }			  // AIR_FRESHENER_C 		// Dzierzan
