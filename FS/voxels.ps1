@@ -1,7 +1,7 @@
 Copy-Item -Path "../KVX" -Destination "./KVX" -Recurse
 
 
-Get-ChildItem "./KVX" -Filter *.kvx |
+Get-ChildItem "./KVX/PROPS" -Filter *.kvx |
 ForEach-Object{
     java -jar ./kvxoff.jar $_.FullName c c c
 }
@@ -12,6 +12,21 @@ ForEach-Object{
 }
 
 Get-ChildItem "./KVX/PICKUPS" -Filter *.kvx |
+ForEach-Object{
+    java -jar ./kvxoff.jar $_.FullName c c c
+}
+
+Get-ChildItem "./KVX/TREES" -Filter *.kvx |
+ForEach-Object{
+    java -jar ./kvxoff.jar $_.FullName c c c
+}
+
+Get-ChildItem "./KVX/GIBS" -Filter *.kvx |
+ForEach-Object{
+    java -jar ./kvxoff.jar $_.FullName c c c
+}
+
+Get-ChildItem "./KVX/MONSTERS" -Filter *.kvx |
 ForEach-Object{
     java -jar ./kvxoff.jar $_.FullName c c c
 }
