@@ -142,7 +142,7 @@ warezeater:
 SomeThingEvil:
  + Freaks sign (0849)
  + Anatomy painting (0611)
- + Hospital sign (0151)
+ + Hospital sign (0151, 0695)
  + Jojo sign (0981)
  + Tickets sign (0943)
  + Infirmary sign (0066)

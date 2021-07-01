@@ -35,6 +35,7 @@ voxel "KVX/DECALS/0658.KVX"	{ tile 658 }  // EXTINGUISHER 			// fgsfds
 voxel "KVX/DECALS/0659.KVX"	{ tile 659 }  // WINDOW2 				// fgsfds
 voxel "KVX/DECALS/0676.KVX"	{ tile 676 }  // LAMP_A 				// Chillo
 voxel "KVX/DECALS/0677.KVX"	{ tile 677 }  // LAMP_B 				// Chillo
+voxel "KVX/DECALS/0695.KVX"	{ tile 695 }  // SIGN_HOSPITAL 			// SomeThingEviL
 voxel "KVX/DECALS/0710.KVX"	{ tile 710 }  // MIRROR 				// Chillo
 voxel "KVX/DECALS/0711.KVX" { tile 711 }  // MIRROR_DAMAGED			// Chillo
 voxel "KVX/DECALS/0714.KVX"	{ tile 714 }  // SHIELD 				// fgsfds
