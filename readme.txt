@@ -108,6 +108,7 @@ Dzierzan:
  + Skull emerging from the wall (0187-0189)
  + Blades (1090, 1091)
  + Swinging Blade (1080-1086)
+ + Keep out sign (0824)
 Chillo:
  + Wall Decorations (0164, 0165, 0167, 0227)
  + Wall Face (0226, 0662, 0623)

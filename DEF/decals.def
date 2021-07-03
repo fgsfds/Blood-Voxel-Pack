@@ -48,6 +48,7 @@ voxel "KVX/DECALS/0752.KVX"	{ tile 752 }  // SIGN_ADMISSION 		// SomeThingEviL
 voxel "KVX/DECALS/0761.KVX"	{ tile 761 }  // SIGN_EXIT		 		// SomeThingEviL
 voxel "KVX/DECALS/0795.KVX"	{ tile 795 }  // LAMP 					// Dzierzan
 voxel "KVX/DECALS/0823.KVX"	{ tile 823 }  // FREAKS					// SomeThingEviL
+voxel "KVX/DECALS/0824.KVX"	{ tile 824 }  // SIGN_KEEP_OUT 			// Dzierzan
 voxel "KVX/DECALS/0849.KVX"	{ tile 849 }  // FREAKS					// SomeThingEviL
 voxel "KVX/DECALS/0905.KVX"	{ tile 905 }  // SIGN_TICKETS 			// fgsfds
 voxel "KVX/DECALS/0933.KVX"	{ tile 933 }  // SIGN_DANGER			// SomeThingEviL
