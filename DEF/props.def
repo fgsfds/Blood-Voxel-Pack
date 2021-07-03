@@ -230,6 +230,7 @@ voxel "KVX/PROPS/0834.KVX"	{ tile 834 }  			  // INVISIBL				// fgsfds
 voxel "KVX/PROPS/0852.KVX"	{ tile 852 }  			  // DUCK 					// Dzierzan
 voxel "KVX/PROPS/0853.KVX"	{ tile 853 }  			  // FACE 					// Dzierzan
 voxel "KVX/PROPS/0906.KVX"	{ tile 906 }  			  // HANGING 				// Chillo
+voxel "KVX/PROPS/0924.KVX"	{ tile 924 }  			  // HANGING_BODY 			// Dzierzan
 voxel "KVX/PROPS/0944.KVX"	{ tile 944 }  			  // LAMP_OFF 				// Dzierzan
 voxel "KVX/PROPS/0945.KVX"	{ tile 945 }  			  // LAMP_ON 				// Dzierzan
 voxel "KVX/PROPS/0946.KVX"	{ tile 946 }  			  // BULB_OFF 				// fgsfds

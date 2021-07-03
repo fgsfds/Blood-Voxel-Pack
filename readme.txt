@@ -110,6 +110,7 @@ Dzierzan:
  + Swinging Blade (1080-1086)
  + Keep out sign (0824)
  + Under construction sign (0844)
+ + Hanging body (0924)
 Chillo:
  + Wall Decorations (0164, 0165, 0167, 0227)
  + Wall Face (0226, 0662, 0623)
