@@ -77,6 +77,7 @@ voxel "KVX/DECALS/1716.KVX"	{ tile 1716 } // POKER 						// fgsfds
 voxel "KVX/DECALS/1719.KVX"	{ tile 1719 } // SIGN_EMPLOYEES				// SomeThingEviL
 voxel "KVX/DECALS/2070.KVX"	{ tile 2070 } // WELCOME_MAT				// SomeThingEviL
 voxel "KVX/DECALS/2071.KVX"	{ tile 2071 } // WELCOME_MAT_BLOODY			// SomeThingEviL
+voxel "KVX/DECALS/2138.KVX"	{ tile 2138 } // CHALKBOARD 				// Dzierzan
 voxel "KVX/DECALS/2174.KVX"	{ tile 2174 } // RADIOLOGY_SIGN				// SomeThingEviL
 voxel "KVX/DECALS/2538.KVX"	{ tile 2538 } // KEYHOLE 					// Dzierzan
 voxel "KVX/DECALS/2540.KVX"	{ tile 2540 } // KEYSIGN1 					// fgsfds

@@ -111,6 +111,7 @@ Dzierzan:
  + Keep out sign (0824)
  + Under construction sign (0844)
  + Hanging body (0697, 0924)
+ + Chalkboard (2318)
 Chillo:
  + Wall Decorations (0164, 0165, 0167, 0227)
  + Wall Face (0226, 0662, 0623)
