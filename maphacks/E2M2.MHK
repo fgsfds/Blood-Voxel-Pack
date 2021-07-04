@@ -3,6 +3,8 @@ sprite 21 angoff 1024
 sprite 40 angoff -450
 sprite 41 angoff 250
 sprite 42 angoff -256
+sprite 68 angoff 256
+sprite 69 angoff -256
 sprite 70 angoff 256
 sprite 73 mdposxoff 50
 sprite 74 mdposyoff 50
