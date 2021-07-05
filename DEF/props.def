@@ -151,6 +151,7 @@ voxel "KVX/PROPS/0058.KVX"	{ tile 58 }   			  // MTLBARS 				// fgsfds
 voxel "KVX/PROPS/0059.KVX"	{ tile 59 }   			  // MTLBARS2 				// fgsfds
 voxel "KVX/PROPS/0104.KVX"	{ tile 104 }  			  // METAL_BARS 			// Dzierzan
 voxel "KVX/PROPS/0112.KVX"	{ tile 112 }  			  // ROPE 					// Dzierzan
+voxel "KVX/PROPS/0144.KVX"	{ tile 144 }  			  // FRAME 					// Dzierzan
 voxel "KVX/PROPS/0183.KVX"	{ tile 183 }  			  // CARRIAGE 				// Chillo
 voxel "KVX/PROPS/0201.KVX"	{ tile 201 }  			  // TOXICBARREL 			// fgsfds
 voxel "KVX/PROPS/0246.KVX"	{ tile 246 }  			  // POLE 					// Dzierzan
