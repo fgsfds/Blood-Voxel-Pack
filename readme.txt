@@ -144,6 +144,7 @@ Chillo:
  + Statue (0577, 0536)
  + Stroller (0183)
  + Wall texture (0142)
+ + Corpse (0895) [modifed by Dzierzan]
 warezeater:
  + Skull on Stake (0257)
  + Pot on and off (0550, 0551) [modifed by Dzierzan]

@@ -51,6 +51,7 @@ voxel "KVX/DECALS/0823.KVX"	{ tile 823 }  // FREAKS						// SomeThingEviL
 voxel "KVX/DECALS/0824.KVX"	{ tile 824 }  // SIGN_KEEP_OUT 				// Dzierzan
 voxel "KVX/DECALS/0844.KVX"	{ tile 849 }  // UNDER_CONSTRUCTION_SIGN	// Dzierzan
 voxel "KVX/DECALS/0849.KVX"	{ tile 849 }  // FREAKS						// SomeThingEviL
+voxel "KVX/DECALS/0895.KVX"	{ tile 895 }  // CORPSE						// Chillo & Dzierzan
 voxel "KVX/DECALS/0905.KVX"	{ tile 905 }  // SIGN_TICKETS 				// fgsfds
 voxel "KVX/DECALS/0933.KVX"	{ tile 933 }  // SIGN_DANGER				// SomeThingEviL
 voxel "KVX/DECALS/0942.KVX"	{ tile 942 }  // SIGN_DANGER2				// SomeThingEviL
