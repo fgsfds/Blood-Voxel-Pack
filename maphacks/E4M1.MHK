@@ -8,6 +8,7 @@ sprite 110 angoff -768
 sprite 115 angoff 512
 sprite 116 angoff 512
 sprite 117 angoff 512
+sprite 120 angoff -512
 sprite 122 angoff 512
 sprite 123 angoff 512
 sprite 124 angoff 512
@@ -32,4 +33,3 @@ sprite 416 angoff 512
 sprite 420 angoff 512
 sprite 424 angoff -256
 sprite 434 angoff 512
-
