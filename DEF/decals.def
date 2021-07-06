@@ -4,6 +4,7 @@ voxel "KVX/DECALS/0066.KVX"	{ tile 66 }   // SIGN_INFIRMARY				// SomeThingEviL
 voxel "KVX/DECALS/0073.KVX"	{ tile 73 }   // SHIRT 						// SomeThingEviL
 voxel "KVX/DECALS/0142.KVX"	{ tile 142 }  // HEARTH 					// Chillo
 voxel "KVX/DECALS/0151.KVX"	{ tile 151 }  // SIGN_HOSPITAL 				// SomeThingEviL
+voxel "KVX/DECALS/0163.KVX"	{ tile 163 }  // PAINTING 					// Dzierzan
 voxel "KVX/DECALS/0164.KVX"	{ tile 164 }  // DECOR 						// Chillo
 voxel "KVX/DECALS/0165.KVX"	{ tile 165 }  // DECOR 						// Chillo
 voxel "KVX/DECALS/0166.KVX"	{ tile 166 }  // KNOCKER 					// Chillo

@@ -116,6 +116,7 @@ Dzierzan:
  + Guillotine (0835)
  + Green weed (0927,0928)
  + Frame (0144)
+ + Painting (0163)
 Chillo:
  + Wall Decorations (0164, 0165, 0167, 0227)
  + Wall Face (0226, 0662, 0623)
