@@ -149,6 +149,8 @@ voxel "KVX/ANIM/3470.KVX"	{ tile 3470 } 			  // SPRAY_D 				// fgsfds
 
 voxel "KVX/PROPS/0058.KVX"	{ tile 58 }   			  // MTLBARS 				// fgsfds
 voxel "KVX/PROPS/0059.KVX"	{ tile 59 }   			  // MTLBARS2 				// fgsfds
+voxel "KVX/PROPS/0075.KVX"	{ tile 75 }  			  // BRAIN_IN_JAR 			// Dzierzan
+voxel "KVX/PROPS/0076.KVX"	{ tile 76 }  			  // BRAIN_IN_JAR2 			// Dzierzan
 voxel "KVX/PROPS/0104.KVX"	{ tile 104 }  			  // METAL_BARS 			// Dzierzan
 voxel "KVX/PROPS/0112.KVX"	{ tile 112 }  			  // ROPE 					// Dzierzan
 voxel "KVX/PROPS/0144.KVX"	{ tile 144 }  			  // FRAME 					// Dzierzan
