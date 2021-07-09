@@ -121,6 +121,7 @@ Dzierzan:
  + Skull (0807)
  + Pile of skulls (0684)
  + Map painting (0644)
+ + Morningside cemetery sign (1726)
 Chillo:
  + Wall Decorations (0164, 0165, 0167, 0227)
  + Wall Face (0226, 0662, 0623)
