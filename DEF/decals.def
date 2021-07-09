@@ -31,6 +31,7 @@ voxel "KVX/DECALS/0622.KVX"	{ tile 622 }  // FACE 						// Chillo
 voxel "KVX/DECALS/0623.KVX"	{ tile 623 }  // FACE 						// Chillo
 voxel "KVX/DECALS/0631.KVX"	{ tile 631 }  // KIMBLE 					// Chillo
 voxel "KVX/DECALS/0633.KVX"	{ tile 633 }  // RIP 						// fgsfds
+voxel "KVX/DECALS/0644.KVX"	{ tile 644 }  // MAP_PAINTING 				// Dzierzan
 voxel "KVX/DECALS/0648.KVX"	{ tile 648 }  // CORPSE 					// Chillo
 voxel "KVX/DECALS/0658.KVX"	{ tile 658 }  // EXTINGUISHER 				// fgsfds
 voxel "KVX/DECALS/0659.KVX"	{ tile 659 }  // WINDOW2 					// fgsfds

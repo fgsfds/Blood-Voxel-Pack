@@ -120,6 +120,7 @@ Dzierzan:
  + Brain in jar (0075, 0076)
  + Skull (0807)
  + Pile of skulls (0684)
+ + Map painting (0644)
 Chillo:
  + Wall Decorations (0164, 0165, 0167, 0227)
  + Wall Face (0226, 0662, 0623)
