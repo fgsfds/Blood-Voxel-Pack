@@ -124,6 +124,7 @@ Dzierzan:
  + Morningside cemetery sign (1726)
  + Test subjects sign (0016)
  + Scroll (0833)
+ + Axed skull (0686)
 Chillo:
  + Wall Decorations (0164, 0165, 0167, 0227)
  + Wall Face (0226, 0662, 0623)

@@ -212,6 +212,7 @@ voxel "KVX/PROPS/0654.KVX"	{ tile 654 }  			  // STALACTITE2 			// Dzierzan
 voxel "KVX/PROPS/0683.KVX"	{ tile 683 }  			  // SKULL 					// Dzierzan
 voxel "KVX/PROPS/0684.KVX"	{ tile 684 }  			  // PILE_OF_SKULLS 		// Dzierzan
 voxel "KVX/PROPS/0685.KVX"	{ tile 685 }  			  // SKULL 					// Chillo
+voxel "KVX/PROPS/0686.KVX"	{ tile 686 }  			  // AXED_SKULL 			// Dzierzan
 voxel "KVX/PROPS/0688.KVX"	{ tile 688 }  			  // SKELETON 				// Chillo
 voxel "KVX/PROPS/0689.KVX"	{ tile 689 }  			  // SKELETON 				// Chillo
 voxel "KVX/PROPS/0690.KVX"	{ tile 690 }  			  // CORPSE 				// Chillo
