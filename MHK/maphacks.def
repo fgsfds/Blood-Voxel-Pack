@@ -1,317 +1,317 @@
 mapinfo {
    mapfile  "E1M1.MAP"
    mapmd4   266F7E5D2DE3FA0FF391C5AB75D582C4
-   mhkfile  "maphacks/E1M1.MHK"
+   mhkfile  "MHK/E1M1.MHK"
 }
 
 mapinfo {
    mapfile  "E1M2.MAP"
    mapmd4   B829D92907FFDDEAE1A53556D74186E8
-   mhkfile  "maphacks/E1M2.MHK"
+   mhkfile  "MHK/E1M2.MHK"
 }
 
 mapinfo {
    mapfile  "E1M3.MAP"
    mapmd4   604A607B8F01DC4013AF5F4403D8F5EC
-   mhkfile  "maphacks/E1M3.MHK"
+   mhkfile  "MHK/E1M3.MHK"
 }
 
 mapinfo {
    mapfile  "E1M4.MAP"
    mapmd4   0D1F8D259E3D004BEBC773B510751236
-   mhkfile  "maphacks/E1M4.MHK"
+   mhkfile  "MHK/E1M4.MHK"
 }
 
 mapinfo {
    mapfile  "E1M5.MAP"
    mapmd4   17A4A2D8443A6A4A2B992AE0009DBB18
-   mhkfile  "maphacks/E1M5.MHK"
+   mhkfile  "MHK/E1M5.MHK"
 }
 
 mapinfo {
    mapfile  "E1M6.MAP"
    mapmd4   B9E8E408E4E81046ABDDFAB5525466FD
-   mhkfile  "maphacks/E1M6.MHK"
+   mhkfile  "MHK/E1M6.MHK"
 }
 
 /*mapinfo {
    mapfile  "E1M7.MAP"
    mapmd4   5255B83E4483C4EB9D1247F6DDD06706
-   mhkfile  "maphacks/E1M7.MHK"
+   mhkfile  "MHK/E1M7.MHK"
 }*/
 
 mapinfo {
    mapfile  "E1M8.MAP"
    mapmd4   BD68C28ACC6BF9F9ABB8AC4430E07D45
-   mhkfile  "maphacks/E1M8.MHK"
+   mhkfile  "MHK/E1M8.MHK"
 }
 
 mapinfo {
    mapfile  "E2M1.MAP"
    mapmd4   7ebf5901463b111bd039c08c3abecc74
-   mhkfile  "maphacks/E2M1.MHK"
+   mhkfile  "MHK/E2M1.MHK"
 }
 
 mapinfo {
    mapfile  "E2M2.MAP"
    mapmd4   d62a37db9c762045fd7c7764e0ce6289
-   mhkfile  "maphacks/E2M2.MHK"
+   mhkfile  "MHK/E2M2.MHK"
 }
 
 mapinfo {
    mapfile  "E2M3.MAP"
    mapmd4   927cd143f0d730bbc72054fb359d2ddb
-   mhkfile  "maphacks/E2M3.MHK"
+   mhkfile  "MHK/E2M3.MHK"
 }
 
 mapinfo {
    mapfile  "E2M4.MAP"
    mapmd4   d4f363ef18d69f876c41ed440274dce9
-   mhkfile  "maphacks/E2M4.MHK"
+   mhkfile  "MHK/E2M4.MHK"
 }
 
 mapinfo {
    mapfile  "E2M5.MAP"
    mapmd4   e1ab0745f466c96b39b4a5f8ff793faa
-   mhkfile  "maphacks/E2M5.MHK"
+   mhkfile  "MHK/E2M5.MHK"
 }
 
 mapinfo {
    mapfile  "E2M6.MAP"
    mapmd4   8f1ac3343cca7c26a4b60856073d874e
-   mhkfile  "maphacks/E2M6.MHK"
+   mhkfile  "MHK/E2M6.MHK"
 }
 
 mapinfo {
    mapfile  "E2M7.MAP"
    mapmd4   a0b1b4bcc8a5c6a0d41a0bc781048a9c
-   mhkfile  "maphacks/E2M7.MHK"
+   mhkfile  "MHK/E2M7.MHK"
 }
 
 /*mapinfo {
    mapfile  "E2M8.MAP"
    mapmd4   b58f1a05517a514b3070efaff92aa613
-   mhkfile  "maphacks/E2M8.MHK"
+   mhkfile  "MHK/E2M8.MHK"
 }*/
 
 /*mapinfo {
    mapfile  "E2M9.MAP"
    mapmd4   22c7f6376dbf8df2e08d27f893a814ca
-   mhkfile  "maphacks/E2M9.MHK"
+   mhkfile  "MHK/E2M9.MHK"
 }*/
 
 mapinfo {
    mapfile  "E3M1.MAP"
    mapmd4   a8f55dcc0499a957a7aaa9a9ad0bd694
-   mhkfile  "maphacks/E3M1.MHK"
+   mhkfile  "MHK/E3M1.MHK"
 }
 
 mapinfo {
    mapfile  "E3M2.MAP"
    mapmd4   8b427c3b0774504bcc46c37a99c277af
-   mhkfile  "maphacks/E3M2.MHK"
+   mhkfile  "MHK/E3M2.MHK"
 }
 
 mapinfo {
    mapfile  "E3M3.MAP"
    mapmd4   0aac0bd4b91e475249f1f213512e0675
-   mhkfile  "maphacks/E3M3.MHK"
+   mhkfile  "MHK/E3M3.MHK"
 }
 
 mapinfo {
    mapfile  "E3M4.MAP"
    mapmd4   0f835bc2e53e18e4a3b5e441950009fa
-   mhkfile  "maphacks/E3M4.MHK"
+   mhkfile  "MHK/E3M4.MHK"
 }
 
 mapinfo {
    mapfile  "E3M5.MAP"
    mapmd4   4bc554e9e4614465510252c947abb7ae
-   mhkfile  "maphacks/E3M5.MHK"
+   mhkfile  "MHK/E3M5.MHK"
 }
 
 mapinfo {
    mapfile  "E3M6.MAP"
    mapmd4   0c50402b795ac0a9ca2d87857a6f4114
-   mhkfile  "maphacks/E3M6.MHK"
+   mhkfile  "MHK/E3M6.MHK"
 }
 
 /*mapinfo {
    mapfile  "E3M7.MAP"
    mapmd4   6f8355ef1ce24adb5f3bd3c72a1e2b60
-   mhkfile  "maphacks/E3M7.MHK"
+   mhkfile  "MHK/E3M7.MHK"
 }*/
 
 mapinfo {
    mapfile  "E3M8.MAP"
    mapmd4   01fcc8b419e580e41a896b721dde34af
-   mhkfile  "maphacks/E3M8.MHK"
+   mhkfile  "MHK/E3M8.MHK"
 }
 
 mapinfo {
    mapfile  "E4M1.MAP"
    mapmd4   f6a8d3ec8083a4dfaceec192a2deb008
-   mhkfile  "maphacks/E4M1.MHK"
+   mhkfile  "MHK/E4M1.MHK"
 }
 
 mapinfo {
    mapfile  "E4M2.MAP"
    mapmd4   6ec1dce03dc3159e508c83b48980566d
-   mhkfile  "maphacks/E4M2.MHK"
+   mhkfile  "MHK/E4M2.MHK"
 }
 
 mapinfo {
    mapfile  "E4M3.MAP"
    mapmd4   951bd2e629e404ca4391f2447256830c
-   mhkfile  "maphacks/E4M3.MHK"
+   mhkfile  "MHK/E4M3.MHK"
 }
 
 mapinfo {
    mapfile  "E4M4.MAP"
    mapmd4   280aa78b0ab0ff860f1b968d8e3871b7
-   mhkfile  "maphacks/E4M4.MHK"
+   mhkfile  "MHK/E4M4.MHK"
 }
 
 mapinfo {
    mapfile  "E4M5.MAP"
    mapmd4   da36cfc0dec8e9bfb329d1abb6815d6e
-   mhkfile  "maphacks/E4M5.MHK"
+   mhkfile  "MHK/E4M5.MHK"
 }
 
 mapinfo {
    mapfile  "E4M6.MAP"
    mapmd4   455d665e99c428e8f9ddd3a13ad68aad
-   mhkfile  "maphacks/E4M6.MHK"
+   mhkfile  "MHK/E4M6.MHK"
 }
 
 mapinfo {
    mapfile  "E4M7.MAP"
    mapmd4   8f54bbe77ee404114a0802c49c1c630d
-   mhkfile  "maphacks/E4M7.MHK"
+   mhkfile  "MHK/E4M7.MHK"
 }
 
 mapinfo {
    mapfile  "E4M8.MAP"
    mapmd4   866ff05a49f7e77a2f18c0705376b766
-   mhkfile  "maphacks/E4M8.MHK"
+   mhkfile  "MHK/E4M8.MHK"
 }
 
 mapinfo {
    mapfile  "E4M9.MAP"
    mapmd4   658e9ac898081e923a6519229c24afea
-   mhkfile  "maphacks/E4M9.MHK"
+   mhkfile  "MHK/E4M9.MHK"
 }
 
 mapinfo {
    mapfile  "E6M1.MAP"
    mapmd4   ec42b96fc1cbcae174fae736ed42f4de
-   mhkfile  "maphacks/E6M1.MHK"
+   mhkfile  "MHK/E6M1.MHK"
 }
 
 mapinfo {
    mapfile  "E6M2.MAP"
    mapmd4   203fce16ef2131efb8e249c67d407f0c
-   mhkfile  "maphacks/E6M2.MHK"
+   mhkfile  "MHK/E6M2.MHK"
 }
 
 mapinfo {
    mapfile  "E6M3.MAP"
    mapmd4   9db1c31c6cf09f43681c4ad6017f187e
-   mhkfile  "maphacks/E6M3.MHK"
+   mhkfile  "MHK/E6M3.MHK"
 }
 
 mapinfo {
    mapfile  "E6M4.MAP"
    mapmd4   95e0906fde0fb88713bec38ecf412f85
-   mhkfile  "maphacks/E6M4.MHK"
+   mhkfile  "MHK/E6M4.MHK"
 }
 
 mapinfo {
    mapfile  "E6M5.MAP"
    mapmd4   5264b599f25ae1fe7509c3f2a10ddc91
-   mhkfile  "maphacks/E6M5.MHK"
+   mhkfile  "MHK/E6M5.MHK"
 }
 
 mapinfo {
    mapfile  "E6M6.MAP"
    mapmd4   e93de775a48978470db776b9b274637d
-   mhkfile  "maphacks/E6M6.MHK"
+   mhkfile  "MHK/E6M6.MHK"
 }
 
 mapinfo {
    mapfile  "E6M7.MAP"
    mapmd4   5f144f991a5a622e5792307196096e0b
-   mhkfile  "maphacks/E6M7.MHK"
+   mhkfile  "MHK/E6M7.MHK"
 }
 
 /*mapinfo {
    mapfile  "E6M8.MAP"
    mapmd4   b0a5c9c6d38d525958b55bedcf022e17
-   mhkfile  "maphacks/E6M8.MHK"
+   mhkfile  "MHK/E6M8.MHK"
 }*/
 
 mapinfo {
    mapfile  "E6M9.MAP"
    mapmd4   81effa30930f6703d96c593e4fa36cd9
-   mhkfile  "maphacks/E6M9.MHK"
+   mhkfile  "MHK/E6M9.MHK"
 }
 
 mapinfo {
    mapfile  "CP01.MAP"
    mapmd4   fd57a068c9b4d1160d4a4b656f415785
-   mhkfile  "maphacks/CP01.MHK"
+   mhkfile  "MHK/CP01.MHK"
 }
 
 mapinfo {
    mapfile  "CP02.MAP"
    mapmd4   ae277cdcca008b14408d14b77e6f4950
-   mhkfile  "maphacks/CP02.MHK"
+   mhkfile  "MHK/CP02.MHK"
 }
 
 mapinfo {
    mapfile  "CP03.MAP"
    mapmd4   9000cf5df65e5cdda15cebb5e9cc57f4
-   mhkfile  "maphacks/CP03.MHK"
+   mhkfile  "MHK/CP03.MHK"
 }
 
 mapinfo {
    mapfile  "CP04.MAP"
    mapmd4   2ca72c1a4ad703e0f3e04653b9d7b9f8
-   mhkfile  "maphacks/CP04.MHK"
+   mhkfile  "MHK/CP04.MHK"
 }
 
 mapinfo {
    mapfile  "CP05.MAP"
    mapmd4   d0eb9e789423fbf1ad03289d6b925793
-   mhkfile  "maphacks/CP05.MHK"
+   mhkfile  "MHK/CP05.MHK"
 }
 
 /*mapinfo {
    mapfile  "CP06.MAP"
    mapmd4   2104c488fbf1c7060b499079fd476a0d
-   mhkfile  "maphacks/CP06.MHK"
+   mhkfile  "MHK/CP06.MHK"
 }*/
 
 /*mapinfo {
    mapfile  "CP07.MAP"
    mapmd4   c3bfb6a6e7cded2e5fe16cea86632d79
-   mhkfile  "maphacks/CP07.MHK"
+   mhkfile  "MHK/CP07.MHK"
 }*/
 
 mapinfo {
    mapfile  "CP08.MAP"
    mapmd4   ffb887581ebfd60a81d778741f765833
-   mhkfile  "maphacks/CP08.MHK"
+   mhkfile  "MHK/CP08.MHK"
 }
 
 mapinfo {
    mapfile  "CP09.MAP"
    mapmd4   79b4a9b531e02bb5d593d07dc0590b5f
-   mhkfile  "maphacks/CP09.MHK"
+   mhkfile  "MHK/CP09.MHK"
 }
 
 mapinfo {
    mapfile  "CPSL.MAP"
    mapmd4   c864ac71f8ea612fcf5ddc1ae55c44aa
-   mhkfile  "maphacks/CPSL.MHK"
+   mhkfile  "MHK/CPSL.MHK"
 }
