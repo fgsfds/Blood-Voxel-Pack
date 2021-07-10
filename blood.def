@@ -6,4 +6,4 @@ include DEF/trees.def
 include DEF/gibs.def
 include DEF/monsters.def
 include DEF/custom.def
-include maphacks/maphacks.def
+include MHK/maphacks.def
