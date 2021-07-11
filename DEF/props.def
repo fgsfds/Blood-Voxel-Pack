@@ -257,6 +257,8 @@ voxel "KVX/PROPS/0970.KVX"	{ tile 970 }  			  // SPIKETRAP_3 			// Dzierzan
 voxel "KVX/PROPS/0971.KVX"	{ tile 971 }  			  // SPIKETRAP_4 			// Dzierzan
 voxel "KVX/PROPS/0972.KVX"	{ tile 972 }  			  // SPIKETRAP_5 			// Dzierzan
 voxel "KVX/PROPS/0973.KVX"	{ tile 973 }  			  // SPIKETRAP_6 			// Dzierzan
+voxel "KVX/PROPS/0975.KVX"	{ tile 975 }  			  // HANGING_BODY_A 		// Dzierzan
+voxel "KVX/PROPS/0976.KVX"	{ tile 976 }  			  // HANGING_BODY_B 		// Dzierzan
 voxel "KVX/PROPS/1009.KVX"	{ tile 1009 } 			  // PLANT1 				// fgsfds
 voxel "KVX/PROPS/1010.KVX"	{ tile 1010 } 			  // PLANT2 				// fgsfds
 voxel "KVX/PROPS/1013.KVX"	{ tile 1013 } 			  // FLOWERS 				// fgsfds

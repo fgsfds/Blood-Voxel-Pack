@@ -29,6 +29,8 @@ sprite 141 angoff 555
 sprite 142 angoff 475
 sprite 143 angoff 450
 sprite 144 angoff 600
+sprite 175 angoff 512
+sprite 175 mdposxoff 25
 sprite 296 angoff 512
 sprite 312 angoff 512
 sprite 387 angoff 256

@@ -110,7 +110,7 @@ Dzierzan:
  + Swinging Blade (1080-1086)
  + Keep out sign (0824)
  + Under construction sign (0844)
- + Hanging body (0697, 0924)
+ + Hanging body (0697, 0924, 0975, 0976)
  + Chalkboard (2318)
  + Skull on stake (0259)
  + Guillotine (0835)
