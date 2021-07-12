@@ -25,7 +25,7 @@ voxel "KVX/DECALS/0431.KVX"	{ tile 431 }  // BILLBOARD 					// fgsfds
 voxel "KVX/DECALS/0446.KVX"	{ tile 446 }  // KRUEGER 					// Dzierzan
 voxel "KVX/DECALS/0447.KVX"	{ tile 447 }  // VOORHEES					// Dzierzan
 voxel "KVX/DECALS/0577.KVX"	{ tile 577 }  // STATUE 					// Chillo
-voxel "KVX/DECALS/0611.KVX"	{ tile 617 }  // ART_ANATOMY				// SomeThingEviL
+voxel "KVX/DECALS/0611.KVX"	{ tile 611 }  // ART_ANATOMY				// SomeThingEviL
 voxel "KVX/DECALS/0617.KVX"	{ tile 617 }  // ART_MAN 					// SomeThingEviL
 voxel "KVX/DECALS/0621.KVX"	{ tile 621 }  // ART_EVILFACE 				// SomeThingEviL
 voxel "KVX/DECALS/0622.KVX"	{ tile 622 }  // FACE 						// Chillo
