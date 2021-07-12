@@ -1,6 +1,6 @@
 //Decals
 
-voxel "KVX/DECALS/0016.KVX"	{ tile 16 }   // SIGN_TEST_SUBJECTS			// Dzierzan
+voxel "KVX/DECALS/0019.KVX"	{ tile 19 }   // SIGN_TEST_SUBJECTS			// Dzierzan
 voxel "KVX/DECALS/0066.KVX"	{ tile 66 }   // SIGN_INFIRMARY				// SomeThingEviL
 voxel "KVX/DECALS/0073.KVX"	{ tile 73 }   // SHIRT 						// SomeThingEviL
 voxel "KVX/DECALS/0142.KVX"	{ tile 142 }  // HEARTH 					// Chillo

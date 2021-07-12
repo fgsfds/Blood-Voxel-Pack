@@ -127,7 +127,7 @@ Dzierzan:
  + Pile of skulls (0684)
  + Map painting (0644)
  + Morningside cemetery sign (1726)
- + Test subjects sign (0016)
+ + Test subjects sign (0019)
  + Scroll (0833)
  + Axed skull (0686)
 Chillo:
