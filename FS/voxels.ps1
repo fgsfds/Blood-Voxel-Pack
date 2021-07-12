@@ -125,7 +125,7 @@ Get-ChildItem "./KVX/ANIM" -Filter *.kvx |
         elseif ($_.BaseName -eq "0583") { Main $_.FullName 15 10 41 }
         elseif ($_.BaseName -eq "0854") { Main $_.FullName 13 5 22 }
         elseif ($_.BaseName -eq "0941") { Main $_.FullName 4.5 3.5 14 }
-        
+
         elseif ($_.BaseName -eq "1080") { Main $_.FullName 62.5 7.5 63.5 }
         elseif ($_.BaseName -eq "1081") { Main $_.FullName 61.5 7.5 63.5 }
         elseif ($_.BaseName -eq "1082") { Main $_.FullName 46 7.5 63.5 }
@@ -167,6 +167,7 @@ Get-ChildItem "./KVX/PICKUPS" -Filter *.kvx |
 Get-ChildItem "./KVX/PROPS" -Filter *.kvx |
     ForEach-Object {
         if ($_.BaseName -eq "0485") { Main $_.FullName c 0 c }
+        elseif ($_.BaseName -eq "0976") { Main $_.FullName 14 8.5 63 }
         elseif ($_.BaseName -eq "1067") { Main $_.FullName 32 0.5 64 }
         elseif ($_.BaseName -eq "1068") { Main $_.FullName 8 0.5 64 }
         else { Main $_.FullName c c c }
