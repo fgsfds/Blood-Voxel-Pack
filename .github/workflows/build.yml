@@ -15,6 +15,16 @@ jobs:
           
       - name: Making ZIP
         run: 7z a -m0=Copy -tzip voxels_blood_p${{ github.run_number }}.zip blood.def bloodgdx.def blood-raze.def license.txt readme.txt MHK KVX DEF
+      
+      - name: Generating FS files
+        run: |
+            cd FS
+            powershell .\def.ps1
+            powershell .\maphacks.ps1
+            powershell .\voxels.ps1
+          
+      - name: Making FS ZIP
+        run: 7z a -m0=Copy -tzip voxels_freshsupply_p${{ github.run_number }}.zip ./FS/defs ./FS/KVX ./FS/7za.exe ./FS/fs_install.bat license.txt readme.txt
           
       - name: Deleting older releases
         uses: bubkoo/delete-stale-releases@v1.0.6
@@ -31,7 +41,9 @@ jobs:
         uses: johnwbyrd/update-release@v1.0.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          files: voxels_blood_p${{ github.run_number }}.zip
+          files: |
+            voxels_blood_p${{ github.run_number }}.zip
+            voxels_freshsupply_p${{ github.run_number }}.zip
           release: p${{ github.run_number }}
           prerelease: true
           draft: false

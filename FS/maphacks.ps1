@@ -1,25 +1,24 @@
-New-Item -Path "./" -Name "defs" -ItemType "directory"
-New-Item -Path "./defs/" -Name "levelHacks" -ItemType "directory"
+New-Item -ItemType Directory -Force -Path "./defs/levelHacks"
 
-Get-ChildItem "../maphacks" -Filter *.MHK -Recurse |
+Get-ChildItem "../MHK" -Filter *.MHK -Recurse |
 
-ForEach-Object{
-	
-	(Get-Content $_.FullName) |	
-		Foreach-Object
-    {
-		$_ -replace 'crc32 ', '' `
-		   -replace 'notmd', 'novoxel' `
-		   -replace 'mdposxoff', 'mdxoff' `
-		   -replace 'mdposyoff', 'mdyoff' `
-		   -replace 'mdposzoff', 'mdzoff' `
-	} | Out-File ("./defs/levelHacks/" + $_.Basename + ".txt")
-}
-	
+	ForEach-Object {
+
+		(Get-Content $_.FullName) |
+
+			ForEach-Object {
+				$_ -replace 'crc32 ', '' `
+					-replace 'notmd', 'novoxel' `
+					-replace 'mdposxoff', 'mdxoff' `
+					-replace 'mdposyoff', 'mdyoff' `
+					-replace 'mdposzoff', 'mdzoff' `
+			} | Out-File -encoding utf8 ("./defs/levelHacks/" + $_.Basename + ".txt")
+		}
+
 Add-Content -Path ./defs/levelHacks/cp09.txt -Value 'sprite 803 x 29184'
 
 Add-Content -Path ./defs/levelHacks/e1m5.txt -Value 'xsectorid 244 124 1 0 // clear damage type'
-	
+
 Add-Content -Path ./defs/levelHacks/e2m1.txt -Value 'spriteid 373 x 52992
 spriteid 373 y -40192'
 

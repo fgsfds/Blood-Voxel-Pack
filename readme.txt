@@ -23,7 +23,11 @@ BuildGDX (1.15 or later) and NBlood (r11419 or later):
 - make sure "enable autoload folder" checkbox is enabled
 
 Raze:
-- Drag and drop "Blood-Voxel-Pack.zip" onto Raze.exe and select then Blood.
+- drag and drop voxels_blood_*.zip onto Raze.exe and select then Blood
+
+Fresh Supply:
+- unpack voxels_freshsupply_*.zip in the Fresh Supply folder
+- start fs_install.bat
 
 ============================================================================================
 LINKS
@@ -66,6 +70,7 @@ Version 0.94 (WIP)
 ---------------------------
 fgsfds:
  > Maphacks support for BuildGDX
+ > Restored Fresh Suppply support
  + Web (1066-1069, 1087-1089, 2420-2423)
  + Rotating Candlestick (0590-0591) [modifed by Dzierzan]
 Dzierzan:
