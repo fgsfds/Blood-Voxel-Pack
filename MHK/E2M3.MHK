@@ -3,6 +3,8 @@ sprite 4 angoff 256
 sprite 7 angoff 256
 sprite 27 angoff -512
 sprite 50 angoff 256
+sprite 259 angoff -512
+sprite 259 mdposyoff 100
 sprite 312 angoff 512
 sprite 343 angoff 512
 sprite 345 angoff 1024

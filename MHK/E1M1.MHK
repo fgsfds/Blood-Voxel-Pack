@@ -8,7 +8,7 @@ sprite 75 angoff -256
 sprite 76 angoff -768
 sprite 112 angoff 256
 sprite 113 angoff -256
-sprite 158 angoff 1025
+sprite 158 angoff -756
 sprite 239 angoff 1024
 sprite 299 angoff 768
 sprite 300 angoff 256
