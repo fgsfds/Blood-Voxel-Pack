@@ -21,7 +21,9 @@ voxel "KVX/DECALS/0349.KVX"	{ tile 349 }  // BOOK						// Dzierzan
 voxel "KVX/DECALS/0370.KVX"	{ tile 370 }  // OPHELIA 					// Chillo
 voxel "KVX/DECALS/0382.KVX"	{ tile 382 }  // BELL 						// Dzierzan
 voxel "KVX/DECALS/0389.KVX"	{ tile 389 }  // WINDOW1 					// fgsfds
+voxel "KVX/DECALS/0426.KVX"	{ tile 426 }  // SIGN_SYPHILIS 				// SomeThingEviL
 voxel "KVX/DECALS/0431.KVX"	{ tile 431 }  // BILLBOARD 					// fgsfds
+voxel "KVX/DECALS/0444.KVX"	{ tile 444 }  // SIGN_TAX_DOLLAR 			// SomeThingEviL
 voxel "KVX/DECALS/0446.KVX"	{ tile 446 }  // KRUEGER 					// Dzierzan
 voxel "KVX/DECALS/0447.KVX"	{ tile 447 }  // VOORHEES					// Dzierzan
 voxel "KVX/DECALS/0577.KVX"	{ tile 577 }  // STATUE 					// Chillo
@@ -68,6 +70,7 @@ voxel "KVX/DECALS/1099.KVX"	{ tile 1099 } // GRATE_BRK 					// fgsfds
 voxel "KVX/DECALS/1144.KVX"	{ tile 1144 } // PAJAMAS 					// Chillo
 voxel "KVX/DECALS/1165.KVX"	{ tile 1165 } // CLOCK 						// Dzierzan
 voxel "KVX/DECALS/1166.KVX"	{ tile 1166 } // CLOCK_DAMAGED 				// Dzierzan
+voxel "KVX/DECALS/1169.KVX"	{ tile 1169 } // SIGN_CREMATORIUM			// SomeThingEviL
 voxel "KVX/DECALS/1348.KVX"	{ tile 1348 } // SKULL 						// Chillo
 voxel "KVX/DECALS/1708.KVX"	{ tile 1708 } // PRUNERS 					// fgsfds
 voxel "KVX/DECALS/1709.KVX"	{ tile 1709 } // AXE 						// fgsfds

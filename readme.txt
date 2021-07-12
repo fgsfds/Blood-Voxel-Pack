@@ -179,6 +179,9 @@ SomeThingEvil:
  + Radiology sign (2174)
  + Morgue sign (1062)
  + Manager sign (0751)
+ + Crematorium sign (1169)
+ + Syphilis sign (0426)
+ + Tax dollar sign (0444)
 
 Version 0.93 (21.05.2020)
 ---------------------------
