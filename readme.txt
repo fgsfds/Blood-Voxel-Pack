@@ -190,6 +190,9 @@ SomeThingEvil:
  + Weekly specials sign (2376)
  + Bargain prices sign (2356)
  + K-Marche sign (0074)
+ + Emergency room sign (0353)
+ + East wing sign (0143)
+ + Westbound local sign (0359)
 
 Version 0.93 (21.05.2020)
 ---------------------------

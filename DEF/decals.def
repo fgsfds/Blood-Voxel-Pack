@@ -5,6 +5,7 @@ voxel "KVX/DECALS/0066.KVX"	{ tile 66 }   // SIGN_INFIRMARY				// SomeThingEviL
 voxel "KVX/DECALS/0073.KVX"	{ tile 73 }   // SHIRT 						// SomeThingEviL
 voxel "KVX/DECALS/0074.KVX"	{ tile 74 }   // SIGN_KMARCHE 				// SomeThingEviL
 voxel "KVX/DECALS/0142.KVX"	{ tile 142 }  // HEARTH 					// Chillo
+voxel "KVX/DECALS/0143.KVX"	{ tile 143 }  // SIGN_EAST_WING				// SomeThingEviL
 voxel "KVX/DECALS/0151.KVX"	{ tile 151 }  // SIGN_HOSPITAL 				// SomeThingEviL
 voxel "KVX/DECALS/0163.KVX"	{ tile 163 }  // PAINTING 					// Dzierzan
 voxel "KVX/DECALS/0164.KVX"	{ tile 164 }  // DECOR 						// Chillo
@@ -20,6 +21,8 @@ voxel "KVX/DECALS/0249.KVX"	{ tile 249 }  // FACE						// Chillo
 voxel "KVX/DECALS/0335.KVX"	{ tile 335 }  // SIGN_SPINECRUSHER			// SomeThingEviL
 voxel "KVX/DECALS/0348.KVX"	{ tile 348 }  // BOOK						// Dzierzan
 voxel "KVX/DECALS/0349.KVX"	{ tile 349 }  // BOOK						// Dzierzan
+voxel "KVX/DECALS/0353.KVX"	{ tile 353 }  // SIGN_EMERGENCYROOM			// SomeThingEviL
+voxel "KVX/DECALS/0359.KVX"	{ tile 359 }  // SIGN_WESTBOUND_LOCAL		// SomeThingEviL
 voxel "KVX/DECALS/0370.KVX"	{ tile 370 }  // OPHELIA 					// Chillo
 voxel "KVX/DECALS/0382.KVX"	{ tile 382 }  // BELL 						// Dzierzan
 voxel "KVX/DECALS/0389.KVX"	{ tile 389 }  // WINDOW1 					// fgsfds
