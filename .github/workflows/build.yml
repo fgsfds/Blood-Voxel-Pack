@@ -47,3 +47,7 @@ jobs:
           release: p${{ github.run_number }}
           prerelease: true
           draft: false
+          body: |
+            This is a pre-release version of the Blood Voxel Pack that includes all the latest additions and changes
+            Use voxels_blood_p${{ github.run_number }}.zip for BloodGDX, NBlood, and Raze
+            or voxels_freshsupply_p${{ github.run_number }} for Fresh Supply
