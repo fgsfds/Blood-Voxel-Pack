@@ -132,6 +132,7 @@ Dzierzan:
  + Axed skull (0686)
  + Sale sign (2357)
  + Carnival sign (1725)
+ + Wrapped body (1059)
 Chillo:
  + Wall Decorations (0164, 0165, 0167, 0227)
  + Wall Face (0226, 0662, 0623)

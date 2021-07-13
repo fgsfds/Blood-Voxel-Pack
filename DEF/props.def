@@ -263,6 +263,7 @@ voxel "KVX/PROPS/1009.KVX"	{ tile 1009 } 			  // PLANT1 				// fgsfds
 voxel "KVX/PROPS/1010.KVX"	{ tile 1010 } 			  // PLANT2 				// fgsfds
 voxel "KVX/PROPS/1013.KVX"	{ tile 1013 } 			  // FLOWERS 				// fgsfds
 voxel "KVX/PROPS/1044.KVX"	{ tile 1044 } 			  // GATE 					// fgsfds
+voxel "KVX/PROPS/1059.KVX"	{ tile 1059 } 			  // WRAPPED_BODY 			// Dzierzan
 voxel "KVX/PROPS/1061.KVX"	{ tile 1061 } 			  // COCOON 				// Chillo
 voxel "KVX/PROPS/1063.KVX"	{ tile 1063 } 			  // WATER_VASE 			// Dzierzan
 voxel "KVX/PROPS/1066.KVX"	{ tile 1066 } 			  // WEB1					// fgsfds
