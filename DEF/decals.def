@@ -26,6 +26,9 @@ voxel "KVX/DECALS/0359.KVX"	{ tile 359 }  // SIGN_WESTBOUND_LOCAL		// SomeThingE
 voxel "KVX/DECALS/0370.KVX"	{ tile 370 }  // OPHELIA 					// Chillo
 voxel "KVX/DECALS/0382.KVX"	{ tile 382 }  // BELL 						// Dzierzan
 voxel "KVX/DECALS/0389.KVX"	{ tile 389 }  // WINDOW1 					// fgsfds
+voxel "KVX/DECALS/0420.KVX"	{ tile 420 }  // SIGN_NORTHBOUND 			// SomeThingEviL
+voxel "KVX/DECALS/0423.KVX"	{ tile 423 }  // SIGN_LEPROSY				// SomeThingEviL
+voxel "KVX/DECALS/0425.KVX"	{ tile 425 }  // SIGN_SCABIES				// SomeThingEviL
 voxel "KVX/DECALS/0426.KVX"	{ tile 426 }  // SIGN_SYPHILIS 				// SomeThingEviL
 voxel "KVX/DECALS/0431.KVX"	{ tile 431 }  // BILLBOARD 					// fgsfds
 voxel "KVX/DECALS/0444.KVX"	{ tile 444 }  // SIGN_TAX_DOLLAR 			// SomeThingEviL
@@ -33,6 +36,7 @@ voxel "KVX/DECALS/0446.KVX"	{ tile 446 }  // KRUEGER 					// Dzierzan
 voxel "KVX/DECALS/0447.KVX"	{ tile 447 }  // VOORHEES					// Dzierzan
 voxel "KVX/DECALS/0577.KVX"	{ tile 577 }  // STATUE 					// Chillo
 voxel "KVX/DECALS/0611.KVX"	{ tile 611 }  // ART_ANATOMY				// SomeThingEviL
+voxel "KVX/DECALS/0614.KVX"	{ tile 614 }  // PAINTING_DEMON				// SomeThingEviL
 voxel "KVX/DECALS/0617.KVX"	{ tile 617 }  // ART_MAN 					// SomeThingEviL
 voxel "KVX/DECALS/0621.KVX"	{ tile 621 }  // ART_EVILFACE 				// SomeThingEviL
 voxel "KVX/DECALS/0622.KVX"	{ tile 622 }  // FACE 						// Chillo
@@ -57,6 +61,8 @@ voxel "KVX/DECALS/0740.KVX"	{ tile 740 }  // SIGN_PICKMANS	 			// SomeThingEviL
 voxel "KVX/DECALS/0751.KVX"	{ tile 751 }  // SIGN_MANAGER	 			// SomeThingEviL
 voxel "KVX/DECALS/0752.KVX"	{ tile 752 }  // SIGN_ADMISSION 			// SomeThingEviL
 voxel "KVX/DECALS/0761.KVX"	{ tile 761 }  // SIGN_EXIT		 			// SomeThingEviL
+voxel "KVX/DECALS/0789.KVX"	{ tile 789 }  // SIGN_IN_LOVING_MEMORY		// SomeThingEviL
+voxel "KVX/DECALS/0790.KVX"	{ tile 790 }  // SIGN_MOMMA					// SomeThingEviL
 voxel "KVX/DECALS/0795.KVX"	{ tile 795 }  // LAMP 						// Dzierzan
 voxel "KVX/DECALS/0823.KVX"	{ tile 823 }  // FREAKS						// SomeThingEviL
 voxel "KVX/DECALS/0824.KVX"	{ tile 824 }  // SIGN_KEEP_OUT 				// Dzierzan
@@ -68,6 +74,8 @@ voxel "KVX/DECALS/0932.KVX"	{ tile 932 }  // SIGN_SLOTH					// SomeThingEviL
 voxel "KVX/DECALS/0933.KVX"	{ tile 933 }  // SIGN_DANGER				// SomeThingEviL
 voxel "KVX/DECALS/0942.KVX"	{ tile 942 }  // SIGN_DANGER2				// SomeThingEviL
 voxel "KVX/DECALS/0943.KVX"	{ tile 943 }  // SIGN_TICKETS				// SomeThingEviL
+voxel "KVX/DECALS/0957.KVX"	{ tile 957 }  // SIGN_MEMBERS_ONLY			// SomeThingEviL
+voxel "KVX/DECALS/0958.KVX"	{ tile 958 }  // SIGN_BATH_HOUSE			// SomeThingEviL
 voxel "KVX/DECALS/0974.KVX"	{ tile 974 }  // SIGN_WELCOMETOHELL			// SomeThingEviL
 voxel "KVX/DECALS/0981.KVX"	{ tile 981 }  // SIGN_JOJO					// SomeThingEviL
 voxel "KVX/DECALS/1042.KVX"	{ tile 1042 } // ARROW						// SomeThingEviL

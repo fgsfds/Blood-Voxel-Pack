@@ -193,6 +193,14 @@ SomeThingEvil:
  + Emergency room sign (0353)
  + East wing sign (0143)
  + Westbound local sign (0359)
+ + Northbound express sign (0420)
+ + Leprosy ward sign (0423)
+ + Scabies ward sign (0425)
+ + Demon painting (0614)
+ + In loving memory sign (0789)
+ + I dismembered momma sign (0790)
+ + Members only sign (0957)
+ + Bath house sign (0958)
 
 Version 0.93 (21.05.2020)
 ---------------------------
