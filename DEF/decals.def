@@ -3,6 +3,7 @@
 voxel "KVX/DECALS/0019.KVX"	{ tile 19 }   // SIGN_TEST_SUBJECTS			// Dzierzan
 voxel "KVX/DECALS/0066.KVX"	{ tile 66 }   // SIGN_INFIRMARY				// SomeThingEviL
 voxel "KVX/DECALS/0073.KVX"	{ tile 73 }   // SHIRT 						// SomeThingEviL
+voxel "KVX/DECALS/0074.KVX"	{ tile 74 }   // SIGN_KMARCHE 				// SomeThingEviL
 voxel "KVX/DECALS/0142.KVX"	{ tile 142 }  // HEARTH 					// Chillo
 voxel "KVX/DECALS/0151.KVX"	{ tile 151 }  // SIGN_HOSPITAL 				// SomeThingEviL
 voxel "KVX/DECALS/0163.KVX"	{ tile 163 }  // PAINTING 					// Dzierzan
@@ -16,6 +17,7 @@ voxel "KVX/DECALS/0189.KVX"	{ tile 189 }  // WALL_SKULL_C				// Dzierzan
 voxel "KVX/DECALS/0226.KVX"	{ tile 226 }  // FACE 						// Chillo
 voxel "KVX/DECALS/0227.KVX"	{ tile 227 }  // DECOR 						// Chillo
 voxel "KVX/DECALS/0249.KVX"	{ tile 249 }  // FACE						// Chillo
+voxel "KVX/DECALS/0335.KVX"	{ tile 335 }  // SIGN_SPINECRUSHER			// SomeThingEviL
 voxel "KVX/DECALS/0348.KVX"	{ tile 348 }  // BOOK						// Dzierzan
 voxel "KVX/DECALS/0349.KVX"	{ tile 349 }  // BOOK						// Dzierzan
 voxel "KVX/DECALS/0370.KVX"	{ tile 370 }  // OPHELIA 					// Chillo
@@ -65,6 +67,8 @@ voxel "KVX/DECALS/0942.KVX"	{ tile 942 }  // SIGN_DANGER2				// SomeThingEviL
 voxel "KVX/DECALS/0943.KVX"	{ tile 943 }  // SIGN_TICKETS				// SomeThingEviL
 voxel "KVX/DECALS/0974.KVX"	{ tile 974 }  // SIGN_WELCOMETOHELL			// SomeThingEviL
 voxel "KVX/DECALS/0981.KVX"	{ tile 981 }  // SIGN_JOJO					// SomeThingEviL
+voxel "KVX/DECALS/1042.KVX"	{ tile 1042 } // ARROW						// SomeThingEviL
+voxel "KVX/DECALS/1043.KVX"	{ tile 1043 } // ARROW_UP					// SomeThingEviL
 voxel "KVX/DECALS/1050.KVX"	{ tile 1050 } // SOCKET 					// fgsfds
 voxel "KVX/DECALS/1062.KVX"	{ tile 1062 } // SIGN_MORGUE				// SomeThingEviL
 voxel "KVX/DECALS/1098.KVX"	{ tile 1098 } // GRATE						// fgsfds
@@ -89,7 +93,9 @@ voxel "KVX/DECALS/2070.KVX"	{ tile 2070 } // WELCOME_MAT				// SomeThingEviL
 voxel "KVX/DECALS/2071.KVX"	{ tile 2071 } // WELCOME_MAT_BLOODY			// SomeThingEviL
 voxel "KVX/DECALS/2174.KVX"	{ tile 2174 } // RADIOLOGY_SIGN				// SomeThingEviL
 voxel "KVX/DECALS/2318.KVX"	{ tile 2318 } // CHALKBOARD 				// Dzierzan
+voxel "KVX/DECALS/2356.KVX"	{ tile 2356 } // SIGN_BARGAIN_PRICES	 	// SomeThingEviL
 voxel "KVX/DECALS/2357.KVX"	{ tile 2357 } // SIGN_SALE	 				// Dzierzan
+voxel "KVX/DECALS/2376.KVX"	{ tile 2376 } // SIGN_WEEKLY_SPECIALS	 	// SomeThingEviL
 voxel "KVX/DECALS/2538.KVX"	{ tile 2538 } // KEYHOLE 					// Dzierzan
 voxel "KVX/DECALS/2540.KVX"	{ tile 2540 } // KEYSIGN1 					// fgsfds
 voxel "KVX/DECALS/2541.KVX"	{ tile 2541 } // KEYSIGN2 					// fgsfds

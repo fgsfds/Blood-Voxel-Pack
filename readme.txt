@@ -185,6 +185,11 @@ SomeThingEvil:
  + Tax dollar sign (0444)
  + Pickman's sign (0740)
  + Sloth sign (0932)
+ + Arrow signs (1042, 1043)
+ + Spine crusher sign (0335)
+ + Weekly specials sign (2376)
+ + Bargain prices sign (2356)
+ + K-Marche sign (0074)
 
 Version 0.93 (21.05.2020)
 ---------------------------
