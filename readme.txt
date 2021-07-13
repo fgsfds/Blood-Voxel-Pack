@@ -130,6 +130,7 @@ Dzierzan:
  + Test subjects sign (0019)
  + Scroll (0833)
  + Axed skull (0686)
+ + Sale sign (2357)
 Chillo:
  + Wall Decorations (0164, 0165, 0167, 0227)
  + Wall Face (0226, 0662, 0623)
@@ -182,6 +183,8 @@ SomeThingEvil:
  + Crematorium sign (1169)
  + Syphilis sign (0426)
  + Tax dollar sign (0444)
+ + Pickman's sign (0740)
+ + Sloth sign (0932)
 
 Version 0.93 (21.05.2020)
 ---------------------------
