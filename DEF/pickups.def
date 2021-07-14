@@ -9,6 +9,7 @@ voxel "KVX/PICKUPS/0813.KVX"	{ tile 813 } 		 //	AMMOTOMMY 			// fgsfds
 voxel "KVX/PICKUPS/0822.KVX"	{ tile 822 } 		 //	POUCH 				// Dzierzan
 voxel "KVX/PICKUPS/0827.KVX"	{ tile 827 } 		 //	BOOTS 				// fgsfds
 voxel "KVX/PICKUPS/0830.KVX"	{ tile 830 } 		 //	SWIMSUIT 			// fgsfds
+voxel "KVX/PICKUPS/0832.KVX"	{ tile 832 }  		 //	QUESTION_MARK 		// Dzierzan
 voxel "KVX/PICKUPS/0833.KVX"	{ tile 833 rotate }  //	SCROLL 				// Dzierzan
 
 voxel "KVX/PICKUPS/2428.KVX"	{ tile 2428 rotate } // REFLECTIVE_SHOTS_A 	// Dzierzan

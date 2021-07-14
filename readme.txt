@@ -135,6 +135,7 @@ Dzierzan:
  + Wrapped body (1059)
  + Vase (0707)
  + Reflective shots pickup (2428-2432)
+ + Question mark pickup (0832)
 Chillo:
  + Wall Decorations (0164, 0165, 0167, 0227)
  + Wall Face (0226, 0662, 0623)
