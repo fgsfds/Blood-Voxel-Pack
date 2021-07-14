@@ -223,6 +223,7 @@ voxel "KVX/PROPS/0694.KVX"	{ tile 694 }  			  // CHAIN_HOOK 			// Dzierzan
 voxel "KVX/PROPS/0696.KVX"	{ tile 696 }  			  // SKELETON 				// Dzierzan
 voxel "KVX/PROPS/0697.KVX"	{ tile 697 }  			  // HANGING_BODY 			// Dzierzan
 voxel "KVX/PROPS/0698.KVX"	{ tile 698 }  			  // CORPSE					// Chillo
+voxel "KVX/PROPS/0707.KVX"	{ tile 707 }  			  // VASE					// Dzierzan
 voxel "KVX/PROPS/0712.KVX"	{ tile 712 }  			  // JUG 					// warezeater
 voxel "KVX/PROPS/0738.KVX"	{ tile 738 }  			  // COWSKULL				// Chillo
 voxel "KVX/PROPS/0739.KVX"	{ tile 739 }  			  // VASE 					// warezeater
