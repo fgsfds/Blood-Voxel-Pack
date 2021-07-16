@@ -223,6 +223,7 @@ voxel "KVX/PROPS/0694.KVX"	{ tile 694 }  			  // CHAIN_HOOK 			// Dzierzan
 voxel "KVX/PROPS/0696.KVX"	{ tile 696 }  			  // SKELETON 				// Dzierzan
 voxel "KVX/PROPS/0697.KVX"	{ tile 697 }  			  // HANGING_BODY 			// Dzierzan
 voxel "KVX/PROPS/0698.KVX"	{ tile 698 }  			  // CORPSE					// Chillo
+voxel "KVX/PROPS/0707.KVX"	{ tile 707 }  			  // VASE					// Dzierzan
 voxel "KVX/PROPS/0712.KVX"	{ tile 712 }  			  // JUG 					// warezeater
 voxel "KVX/PROPS/0738.KVX"	{ tile 738 }  			  // COWSKULL				// Chillo
 voxel "KVX/PROPS/0739.KVX"	{ tile 739 }  			  // VASE 					// warezeater
@@ -263,6 +264,7 @@ voxel "KVX/PROPS/1009.KVX"	{ tile 1009 } 			  // PLANT1 				// fgsfds
 voxel "KVX/PROPS/1010.KVX"	{ tile 1010 } 			  // PLANT2 				// fgsfds
 voxel "KVX/PROPS/1013.KVX"	{ tile 1013 } 			  // FLOWERS 				// fgsfds
 voxel "KVX/PROPS/1044.KVX"	{ tile 1044 } 			  // GATE 					// fgsfds
+voxel "KVX/PROPS/1059.KVX"	{ tile 1059 } 			  // WRAPPED_BODY 			// Dzierzan
 voxel "KVX/PROPS/1061.KVX"	{ tile 1061 } 			  // COCOON 				// Chillo
 voxel "KVX/PROPS/1063.KVX"	{ tile 1063 } 			  // WATER_VASE 			// Dzierzan
 voxel "KVX/PROPS/1066.KVX"	{ tile 1066 } 			  // WEB1					// fgsfds

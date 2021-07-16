@@ -1,19 +1,27 @@
 //Pickups
 
-voxel "KVX/PICKUPS/0517.KVX"	{ tile 517 } 		 //	HEALTHBOTTLE	// fgsfds
-voxel "KVX/PICKUPS/0548.KVX"	{ tile 548 } 		 //	AMMOTESLA 		// fgsfds
-voxel "KVX/PICKUPS/0558.KVX"	{ tile 558 rotate }  //	TOMMY 			// fgsfds
-voxel "KVX/PICKUPS/0619.KVX"	{ tile 619 } 		 //	AMMOSHOT 		// fgsfds
-voxel "KVX/PICKUPS/0783.KVX"	{ tile 783 } 		 //	FEATHER 		// fgsfds
-voxel "KVX/PICKUPS/0813.KVX"	{ tile 813 } 		 //	AMMOTOMMY 		// fgsfds
-voxel "KVX/PICKUPS/0822.KVX"	{ tile 822 } 		 //	POUCH 			// Dzierzan
-voxel "KVX/PICKUPS/0827.KVX"	{ tile 827 } 		 //	BOOTS 			// fgsfds
-voxel "KVX/PICKUPS/0830.KVX"	{ tile 830 } 		 //	SWIMSUIT 		// fgsfds
-voxel "KVX/PICKUPS/0833.KVX"	{ tile 833 rotate }  //	SCROLL 			// Dzierzan
-voxel "KVX/PICKUPS/2558.KVX"	{ tile 2558 rotate } //	KEY7 			// fgsfds
+voxel "KVX/PICKUPS/0517.KVX"	{ tile 517 } 		 //	HEALTHBOTTLE		// fgsfds
+voxel "KVX/PICKUPS/0548.KVX"	{ tile 548 } 		 //	AMMOTESLA 			// fgsfds
+voxel "KVX/PICKUPS/0558.KVX"	{ tile 558 rotate }  //	TOMMY 				// fgsfds
+voxel "KVX/PICKUPS/0619.KVX"	{ tile 619 } 		 //	AMMOSHOT 			// fgsfds
+voxel "KVX/PICKUPS/0783.KVX"	{ tile 783 } 		 //	FEATHER 			// fgsfds
+voxel "KVX/PICKUPS/0813.KVX"	{ tile 813 } 		 //	AMMOTOMMY 			// fgsfds
+voxel "KVX/PICKUPS/0822.KVX"	{ tile 822 } 		 //	POUCH 				// Dzierzan
+voxel "KVX/PICKUPS/0827.KVX"	{ tile 827 } 		 //	BOOTS 				// fgsfds
+voxel "KVX/PICKUPS/0830.KVX"	{ tile 830 } 		 //	SWIMSUIT 			// fgsfds
+voxel "KVX/PICKUPS/0832.KVX"	{ tile 832 }  		 //	QUESTION_MARK 		// Dzierzan
+voxel "KVX/PICKUPS/0833.KVX"	{ tile 833 rotate }  //	SCROLL 				// Dzierzan
 
-voxel "KVX/PICKUPS/2433.KVX"	{ tile 2433 rotate } //	SEED_A 			// fgsfds
-voxel "KVX/PICKUPS/2434.KVX"	{ tile 2434 rotate } //	SEED_B 			// fgsfds
-voxel "KVX/PICKUPS/2435.KVX"	{ tile 2435 rotate } //	SEED_C 			// fgsfds
-voxel "KVX/PICKUPS/2436.KVX"	{ tile 2436 rotate } //	SEED_D 			// fgsfds
-voxel "KVX/PICKUPS/2437.KVX"	{ tile 2437 rotate } //	SEED_E 			// fgsfds
+voxel "KVX/PICKUPS/2428.KVX"	{ tile 2428 rotate } // REFLECTIVE_SHOTS_A 	// Dzierzan
+voxel "KVX/PICKUPS/2429.KVX"	{ tile 2429 rotate } // REFLECTIVE_SHOTS_B 	// Dzierzan
+voxel "KVX/PICKUPS/2430.KVX"	{ tile 2430 rotate } // REFLECTIVE_SHOTS_C 	// Dzierzan
+voxel "KVX/PICKUPS/2431.KVX"	{ tile 2431 rotate } // REFLECTIVE_SHOTS_D 	// Dzierzan
+voxel "KVX/PICKUPS/2432.KVX"	{ tile 2432 rotate } // REFLECTIVE_SHOTS_E	// Dzierzan
+
+voxel "KVX/PICKUPS/2558.KVX"	{ tile 2558 rotate } //	KEY7 				// fgsfds
+
+voxel "KVX/PICKUPS/2433.KVX"	{ tile 2433 rotate } //	SEED_A 				// fgsfds
+voxel "KVX/PICKUPS/2434.KVX"	{ tile 2434 rotate } //	SEED_B 				// fgsfds
+voxel "KVX/PICKUPS/2435.KVX"	{ tile 2435 rotate } //	SEED_C 				// fgsfds
+voxel "KVX/PICKUPS/2436.KVX"	{ tile 2436 rotate } //	SEED_D 				// fgsfds
+voxel "KVX/PICKUPS/2437.KVX"	{ tile 2437 rotate } //	SEED_E 				// fgsfds
