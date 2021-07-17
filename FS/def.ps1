@@ -13,7 +13,10 @@ Get-ChildItem "../DEF" -Filter *.def |
             if ($a[0].StartsWith("/")) { $comm = "//" }
 
             # voxels disabled specifically for FS
-            if ($a[1] -match 0795 -or
+            if ($a[1] -match 0541 -or
+                $a[1] -match 0544 -or
+                $a[1] -match 0547 -or
+                $a[1] -match 0795 -or
                 $a[1] -match 1066 -or
                 $a[1] -match 1067 -or
                 $a[1] -match 1068 -or
