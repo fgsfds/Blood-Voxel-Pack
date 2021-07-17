@@ -8,6 +8,7 @@ sprite 12 angoff 515
 sprite 17 angoff 256
 sprite 20 angoff -256
 sprite 23 angoff -256
+sprite 43 angoff 1024
 sprite 59 angoff 515
 sprite 60 angoff 515
 sprite 62 angoff 512
