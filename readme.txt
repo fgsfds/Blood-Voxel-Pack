@@ -139,6 +139,7 @@ Dzierzan:
  + Tree trunk (0609)
  + Piece of metal (0510)
  + Punch o meter sign (0402)
+ + Knight armour (0715)
 Chillo:
  + Wall Decorations (0164, 0165, 0167, 0227)
  + Wall Face (0226, 0662, 0623)
