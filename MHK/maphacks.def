@@ -34,11 +34,11 @@ mapinfo {
    mhkfile  "MHK/E1M6.MHK"
 }
 
-/*mapinfo {
+mapinfo {
    mapfile  "E1M7.MAP"
    mapmd4   5255B83E4483C4EB9D1247F6DDD06706
    mhkfile  "MHK/E1M7.MHK"
-}*/
+}
 
 mapinfo {
    mapfile  "E1M8.MAP"
@@ -88,17 +88,17 @@ mapinfo {
    mhkfile  "MHK/E2M7.MHK"
 }
 
-/*mapinfo {
+mapinfo {
    mapfile  "E2M8.MAP"
    mapmd4   b58f1a05517a514b3070efaff92aa613
    mhkfile  "MHK/E2M8.MHK"
-}*/
+}
 
-/*mapinfo {
+mapinfo {
    mapfile  "E2M9.MAP"
    mapmd4   22c7f6376dbf8df2e08d27f893a814ca
    mhkfile  "MHK/E2M9.MHK"
-}*/
+}
 
 mapinfo {
    mapfile  "E3M1.MAP"
@@ -136,11 +136,11 @@ mapinfo {
    mhkfile  "MHK/E3M6.MHK"
 }
 
-/*mapinfo {
+mapinfo {
    mapfile  "E3M7.MAP"
    mapmd4   6f8355ef1ce24adb5f3bd3c72a1e2b60
    mhkfile  "MHK/E3M7.MHK"
-}*/
+}
 
 mapinfo {
    mapfile  "E3M8.MAP"
@@ -244,11 +244,11 @@ mapinfo {
    mhkfile  "MHK/E6M7.MHK"
 }
 
-/*mapinfo {
+mapinfo {
    mapfile  "E6M8.MAP"
    mapmd4   b0a5c9c6d38d525958b55bedcf022e17
    mhkfile  "MHK/E6M8.MHK"
-}*/
+}
 
 mapinfo {
    mapfile  "E6M9.MAP"
@@ -286,17 +286,17 @@ mapinfo {
    mhkfile  "MHK/CP05.MHK"
 }
 
-/*mapinfo {
+mapinfo {
    mapfile  "CP06.MAP"
    mapmd4   2104c488fbf1c7060b499079fd476a0d
    mhkfile  "MHK/CP06.MHK"
-}*/
+}
 
-/*mapinfo {
+mapinfo {
    mapfile  "CP07.MAP"
    mapmd4   c3bfb6a6e7cded2e5fe16cea86632d79
    mhkfile  "MHK/CP07.MHK"
-}*/
+}
 
 mapinfo {
    mapfile  "CP08.MAP"
