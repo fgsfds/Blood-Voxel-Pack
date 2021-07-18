@@ -120,7 +120,7 @@ Rename-Item -Path "./KVX/ANIM/0747_t.KVX" -NewName "0749.KVX"
 
 Get-ChildItem "./KVX/ANIM" -Filter *.kvx |
     ForEach-Object {
-        if ($_.BaseName -eq "0508") { Main $_.FullName 6 6 24.5 }
+        if ($_.BaseName -eq "0508") { Main $_.FullName 6 5 24.5 }
         elseif ($_.BaseName -eq "0509") { Main $_.FullName 6 6 25.5 }
         elseif ($_.BaseName -eq "0583") { Main $_.FullName 15 10 41 }
         elseif ($_.BaseName -eq "0854") { Main $_.FullName 13 5 22 }
