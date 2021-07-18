@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v2
           
       - name: Making ZIP
-        run: 7z a -m0=Copy -tzip voxels_blood_p${{ github.run_number }}.zip blood.def bloodgdx.def blood-raze.def license.txt readme.txt MHK KVX DEF
+        run: 7z a -m0=Copy -tzip voxels_blood_p${{ github.run_number }}.zip blood.def bloodgdx.def blood-raze.def license.txt readme.txt MODELS.INI MHK KVX DEF
       
       - name: Generating FS files
         run: |
