@@ -18,6 +18,7 @@ voxel "KVX/DECALS/0189.KVX"	{ tile 189 }  // WALL_SKULL_C				// Dzierzan
 voxel "KVX/DECALS/0226.KVX"	{ tile 226 }  // FACE 						// Chillo
 voxel "KVX/DECALS/0227.KVX"	{ tile 227 }  // DECOR 						// Chillo
 voxel "KVX/DECALS/0249.KVX"	{ tile 249 }  // FACE						// Chillo
+voxel "KVX/DECALS/0328.KVX"	{ tile 328 }  // SIGN_RED_CROSS				// Dzierzan
 voxel "KVX/DECALS/0335.KVX"	{ tile 335 }  // SIGN_SPINECRUSHER			// SomeThingEviL
 voxel "KVX/DECALS/0348.KVX"	{ tile 348 }  // BOOK						// Dzierzan
 voxel "KVX/DECALS/0349.KVX"	{ tile 349 }  // BOOK						// Dzierzan
