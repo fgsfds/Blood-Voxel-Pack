@@ -22,7 +22,7 @@ BuildGDX (1.15 or later) and NBlood (r11419 or later):
 - put voxels_blood_*.zip into autoload folder located in a game directory
 - make sure "enable autoload folder" checkbox is enabled
 
-Raze:
+Raze (1.1.3 or later):
 - drag and drop voxels_blood_*.zip onto Raze.exe and select then Blood
 
 Fresh Supply:
@@ -56,6 +56,7 @@ CREDITS
    Chillo (https://twitter.com/DanielWienerson)
    SomeThingEviL
    warezeater
+   Victorious_Games
 
 > Maphacks
    fgsfds
@@ -212,6 +213,8 @@ SomeThingEvil:
  + I dismembered momma sign (0790)
  + Members only sign (0957)
  + Bath house sign (0958)
+Victorious_Games
+ > Voxels offsets for FS
 
 Version 0.93 (21.05.2020)
 ---------------------------
