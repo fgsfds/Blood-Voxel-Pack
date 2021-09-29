@@ -70,6 +70,9 @@ CHANGELOG
 
 Version 0.95 (??.??.????)
 
+Dzierzan:
+ + Updated wine glass (0521)
+
 Chillo:
  + Beheaded head (0680, 0681)
  + Hatch (0262)
@@ -83,6 +86,7 @@ Chillo:
  + Train wheels (0708)
  + Innocent corpse (2334)
  + Stone shield (0578)
+ + Heads on stake (0687)
 
 Version 0.94 (18.07.2021)
 ---------------------------
