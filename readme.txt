@@ -56,16 +56,33 @@ CREDITS
    Chillo (https://twitter.com/DanielWienerson)
    SomeThingEviL
    warezeater
-   Victorious_Games
 
 > Maphacks
    fgsfds
    Dzierzan
 
+>Special thanks
+  Victorious_Games
 
 ============================================================================================
 CHANGELOG
 ============================================================================================
+
+Version 0.95 (??.??.????)
+
+Chillo:
+ + Beheaded head (0680, 0681)
+ + Hatch (0262)
+ + Wall stone face (0634)
+ + Wall runes (0637)
+ + Trees (0542, 0543, 3360)
+ + Plant (0536)
+ + Torch statue (0572, 0573) [To be improved]
+ + Stone object (0679)
+ + Ripped leg (0682)
+ + Train wheels (0708)
+ + Innocent corpse (2334)
+ + Stone shield (0578)
 
 Version 0.94 (18.07.2021)
 ---------------------------

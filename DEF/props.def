@@ -37,6 +37,9 @@ voxel "KVX/ANIM/0655.KVX"	{ tile 655 } 			  // SAW1_A					// fgsfds
 voxel "KVX/ANIM/0656.KVX"	{ tile 656 } 			  // SAW1_B					// fgsfds
 voxel "KVX/ANIM/0657.KVX"	{ tile 657 } 			  // SAW1_C					// fgsfds
 
+voxel "KVX/ANIM/0680.KVX"	{ tile 680 }  			  // HEAD_A 				// Chillo
+voxel "KVX/ANIM/0681.KVX"	{ tile 681 }  			  // HEAD_B					// Chillo
+
 voxel "KVX/ANIM/0746.KVX"	{ tile 746 } 			  // CHAIN_A 				// Dzierzan
 voxel "KVX/ANIM/0747.KVX"	{ tile 747 } 			  // CHAIN_B 				// Dzierzan
 voxel "KVX/ANIM/0748.KVX"	{ tile 748 } 			  // CHAIN_C 				// Dzierzan
@@ -178,6 +181,7 @@ voxel "KVX/PROPS/0534.KVX"	{ tile 534 }  			  // PILLAR 				// Dzierzan
 voxel "KVX/PROPS/0535.KVX"	{ tile 535 }  			  // PILLAR 				// Dzierzan
 voxel "KVX/PROPS/0536.KVX"	{ tile 536 }  			  // STATUE 				// Chillo
 voxel "KVX/PROPS/0537.KVX"	{ tile 537 }  			  // VASE 					// fgsfds
+voxel "KVX/PROPS/0546.KVX"	{ tile 546 }  			  // PLANT 					// Chillo
 voxel "KVX/PROPS/0549.KVX"	{ tile 549 }  			  // CEILINGCHAND2_OFF		// fgsfds
 voxel "KVX/PROPS/0550.KVX"	{ tile 550 }  			  // POT_OFF				// warezeater & Dzierzan
 voxel "KVX/PROPS/0551.KVX"	{ tile 551 }  			  // POT_ON 				// warezeater & Dzierzan
@@ -191,6 +195,8 @@ voxel "KVX/PROPS/0564.KVX"	{ tile 564 }  			  // SKLAMP_OFF 			// Chillo & Dzier
 voxel "KVX/PROPS/0565.KVX"	{ tile 565 }  			  // SKLAMP_ON 				// Chillo & Dzierzan
 voxel "KVX/PROPS/0570.KVX"	{ tile 570 }  			  // TORCH_OFF 				// fgsfds
 voxel "KVX/PROPS/0571.KVX"	{ tile 571 }  			  // TORCH_ON				// fgsfds
+voxel "KVX/PROPS/0572.KVX"	{ tile 572 }  			  // STATUE_OFF				// Chillo
+voxel "KVX/PROPS/0573.KVX"	{ tile 573 }  			  // STATUE_ON				// Chillo
 voxel "KVX/PROPS/0574.KVX"	{ tile 574 }  			  // EMPTY_GLASS 			// Dzierzan
 voxel "KVX/PROPS/0575.KVX"	{ tile 575 }  			  // INLOVING 				// fgsfds
 voxel "KVX/PROPS/0579.KVX"	{ tile 579 }  			  // ANVIL					// Dzierzan
@@ -209,7 +215,9 @@ voxel "KVX/PROPS/0642.KVX"	{ tile 642 }  			  // VASE 					// Dzierzan
 voxel "KVX/PROPS/0649.KVX"	{ tile 649 }  			  // TABLE 					// fgsfds
 voxel "KVX/PROPS/0650.KVX"	{ tile 650 }  			  // CANDLE 				// fgsfds
 voxel "KVX/PROPS/0654.KVX"	{ tile 654 }  			  // STALACTITE2 			// Dzierzan
+voxel "KVX/PROPS/0679.KVX"	{ tile 679 }  			  // STONE_OBJECT 			// Chillo
 voxel "KVX/PROPS/0683.KVX"	{ tile 683 }  			  // SKULL 					// Dzierzan
+voxel "KVX/PROPS/0682.KVX"	{ tile 682 }  			  // LEG 					// Chillo
 voxel "KVX/PROPS/0684.KVX"	{ tile 684 }  			  // PILE_OF_SKULLS 		// Dzierzan
 voxel "KVX/PROPS/0685.KVX"	{ tile 685 }  			  // SKULL 					// Chillo
 voxel "KVX/PROPS/0686.KVX"	{ tile 686 }  			  // AXED_SKULL 			// Dzierzan
@@ -224,6 +232,7 @@ voxel "KVX/PROPS/0696.KVX"	{ tile 696 }  			  // SKELETON 				// Dzierzan
 voxel "KVX/PROPS/0697.KVX"	{ tile 697 }  			  // HANGING_BODY 			// Dzierzan
 voxel "KVX/PROPS/0698.KVX"	{ tile 698 }  			  // CORPSE					// Chillo
 voxel "KVX/PROPS/0707.KVX"	{ tile 707 }  			  // VASE					// Dzierzan
+voxel "KVX/PROPS/0708.KVX"	{ tile 708 }  			  // TRAIN_WHEELS			// Chillo
 voxel "KVX/PROPS/0715.KVX"	{ tile 715 }  			  // KNIGHT_ARMOUR			// Dzierzan
 voxel "KVX/PROPS/0712.KVX"	{ tile 712 }  			  // JUG 					// warezeater
 voxel "KVX/PROPS/0738.KVX"	{ tile 738 }  			  // COWSKULL				// Chillo
@@ -294,6 +303,7 @@ voxel "KVX/PROPS/2304.KVX"	{ tile 2304 } 			  // PAN2 					// fgsfds
 voxel "KVX/PROPS/2305.KVX"	{ tile 2305 } 			  // POT2 					// fgsfds
 //voxel "KVX/PROPS/2330.KVX"	{ tile 2330 } 			  // INNOCENT_CORPSE 		// Chillo
 //voxel "KVX/PROPS/2333.KVX"	{ tile 2333 } 			  // INNOCENT_CORPSE 		// Chillo
+//voxel "KVX/PROPS/2334.KVX"	{ tile 2334 } 			  // INNOCENT_CORPSE 		// Chillo
 voxel "KVX/PROPS/2377.KVX"	{ tile 2377 } 			  // MANNEQUIN 				// fgsfds
 voxel "KVX/PROPS/2410.KVX"	{ tile0 2410 tile1 2414 } // FLY_A					// Dzierzan
 voxel "KVX/PROPS/2415.KVX"	{ tile0 2415 tile1 2419 } // FLY_B					// Dzierzan

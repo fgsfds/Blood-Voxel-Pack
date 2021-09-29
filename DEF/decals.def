@@ -18,6 +18,7 @@ voxel "KVX/DECALS/0189.KVX"	{ tile 189 }  // WALL_SKULL_C				// Dzierzan
 voxel "KVX/DECALS/0226.KVX"	{ tile 226 }  // FACE 						// Chillo
 voxel "KVX/DECALS/0227.KVX"	{ tile 227 }  // DECOR 						// Chillo
 voxel "KVX/DECALS/0249.KVX"	{ tile 249 }  // FACE						// Chillo
+voxel "KVX/DECALS/0262.KVX"	{ tile 262 }  // HATCH						// Chillo
 voxel "KVX/DECALS/0269.KVX"	{ tile 269 }  // PAINTING_BEAST				// Dzierzan
 voxel "KVX/DECALS/0328.KVX"	{ tile 328 }  // SIGN_RED_CROSS				// Dzierzan
 voxel "KVX/DECALS/0335.KVX"	{ tile 335 }  // SIGN_SPINECRUSHER			// SomeThingEviL
@@ -39,6 +40,7 @@ voxel "KVX/DECALS/0446.KVX"	{ tile 446 }  // KRUEGER 					// Dzierzan
 voxel "KVX/DECALS/0447.KVX"	{ tile 447 }  // VOORHEES					// Dzierzan
 voxel "KVX/DECALS/0510.KVX"	{ tile 510 }  // METAL						// Dzierzan
 voxel "KVX/DECALS/0577.KVX"	{ tile 577 }  // STATUE 					// Chillo
+voxel "KVX/DECALS/0578.KVX"	{ tile 578 }  // STONE_SHIELD 				// Chillo
 voxel "KVX/DECALS/0611.KVX"	{ tile 611 }  // ART_ANATOMY				// SomeThingEviL
 voxel "KVX/DECALS/0614.KVX"	{ tile 614 }  // PAINTING_DEMON				// SomeThingEviL
 voxel "KVX/DECALS/0617.KVX"	{ tile 617 }  // ART_MAN 					// SomeThingEviL
@@ -47,6 +49,8 @@ voxel "KVX/DECALS/0622.KVX"	{ tile 622 }  // FACE 						// Chillo
 voxel "KVX/DECALS/0623.KVX"	{ tile 623 }  // FACE 						// Chillo
 voxel "KVX/DECALS/0631.KVX"	{ tile 631 }  // KIMBLE 					// Chillo
 voxel "KVX/DECALS/0633.KVX"	{ tile 633 }  // RIP 						// fgsfds
+voxel "KVX/DECALS/0634.KVX"	{ tile 634 }  // FACE						// Chillo
+voxel "KVX/DECALS/0637.KVX"	{ tile 637 }  // RUNES						// Chillo
 voxel "KVX/DECALS/0644.KVX"	{ tile 644 }  // MAP_PAINTING 				// Dzierzan
 voxel "KVX/DECALS/0648.KVX"	{ tile 648 }  // CORPSE 					// Chillo
 voxel "KVX/DECALS/0658.KVX"	{ tile 658 }  // EXTINGUISHER 				// fgsfds
