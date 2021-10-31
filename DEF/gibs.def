@@ -9,3 +9,5 @@ voxel "KVX/GIBS/1268.KVX"	{ tile 1268 } // GIB		// Chillo
 voxel "KVX/GIBS/1269.KVX"	{ tile 1269 } // GIB		// Chillo
 voxel "KVX/GIBS/1454.KVX"	{ tile 1454 } // EYE_GIB	// Dzierzan
 voxel "KVX/GIBS/1456.KVX"	{ tile 1456 } // GIB 		// Chillo
+voxel "KVX/GIBS/2404.KVX"   { tile 2404 } // MIME_HEAD 	// Chillo
+voxel "KVX/GIBS/2405.KVX"   { tile 2405 } // MIME_HAND 	// Chillo

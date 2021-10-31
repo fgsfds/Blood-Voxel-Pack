@@ -88,6 +88,8 @@ Chillo:
  + Innocent corpse (2334)
  + Stone shield (0578)
  + Heads on stake (0687)
+ + Mime (2400-2403)
+ + Mime gibs (2404, 2405)
 
 Version 0.94 (18.07.2021)
 ---------------------------

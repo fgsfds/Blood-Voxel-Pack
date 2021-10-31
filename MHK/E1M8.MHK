@@ -30,3 +30,6 @@ sprite 689 angoff 250
 sprite 690 angoff 500
 sprite 691 angoff -250
 sprite 706 angoff -450
+sprite 835 angoff 850
+sprite 836 angoff 256
+sprite 836 angoff -256
