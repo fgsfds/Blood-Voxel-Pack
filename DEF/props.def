@@ -175,6 +175,7 @@ voxel "KVX/PROPS/0076.KVX"	{ tile 76 }  			  // BRAIN_IN_JAR2 			// Dzierzan
 voxel "KVX/PROPS/0104.KVX"	{ tile 104 }  			  // METAL_BARS 			// Dzierzan
 voxel "KVX/PROPS/0112.KVX"	{ tile 112 }  			  // ROPE 					// Dzierzan
 voxel "KVX/PROPS/0144.KVX"	{ tile 144 }  			  // FRAME 					// Dzierzan
+voxel "KVX/PROPS/0155.KVX"	{ tile 155 }  			  // BARS 					// Dzierzan
 voxel "KVX/PROPS/0183.KVX"	{ tile 183 }  			  // CARRIAGE 				// Chillo
 voxel "KVX/PROPS/0201.KVX"	{ tile 201 }  			  // TOXICBARREL 			// fgsfds
 voxel "KVX/PROPS/0246.KVX"	{ tile 246 }  			  // POLE 					// Dzierzan

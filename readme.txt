@@ -79,6 +79,7 @@ Dzierzan:
  + Pub & Grille sign (0741)
  + Miskatonic Station sign (0646)
  + Miguel's Guns and Ammo sign (2341)
+ + Metal bars (0155)
 Chillo:
  + Beheaded head (0680, 0681)
  + Hatch (0262)
