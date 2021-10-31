@@ -90,6 +90,14 @@ voxel "KVX/ANIM/1264.KVX"	{ tile 1264 } 			  // WATER_C 				// Dzierzan
 voxel "KVX/ANIM/1265.KVX"	{ tile 1265 } 			  // WATER_D 				// Dzierzan
 voxel "KVX/ANIM/1266.KVX"	{ tile 1266 } 			  // WATER_E 				// Dzierzan
 
+voxel "KVX/ANIM/1463.KVX"	{ tile 1463 } 			  // BONE_A 				// Chillo
+voxel "KVX/ANIM/1464.KVX"	{ tile 1464 } 			  // BONE_B 				// Chillo
+voxel "KVX/ANIM/1465.KVX"	{ tile 1465 } 			  // BONE_C 				// Chillo
+voxel "KVX/ANIM/1466.KVX"	{ tile 1466 } 			  // BONE_D 				// Chillo
+voxel "KVX/ANIM/1467.KVX"	{ tile 1467 } 			  // BONE_E 				// Chillo
+voxel "KVX/ANIM/1468.KVX"	{ tile 1468 } 			  // BONE_E 				// Chillo
+voxel "KVX/ANIM/1469.KVX"	{ tile 1469 } 			  // BONE_E 				// Chillo
+
 voxel "KVX/ANIM/1701.KVX"	{ tile 1701 } 			  // LANTERN_A 				// fgsfds
 voxel "KVX/ANIM/1702.KVX"	{ tile 1702 } 			  // LANTERN_B 				// fgsfds
 voxel "KVX/ANIM/1703.KVX"	{ tile 1703 } 			  // LANTERN_C 				// fgsfds
