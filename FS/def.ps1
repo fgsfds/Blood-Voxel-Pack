@@ -27,7 +27,11 @@ Get-ChildItem "../DEF" -Filter *.def |
                 $a[1] -match 2420 -or
                 $a[1] -match 2421 -or
                 $a[1] -match 2422 -or
-                $a[1] -match 2423 ) { $comm = "//" }
+                $a[1] -match 2423 -or
+                $a[1] -match 2579 -or
+                $a[1] -match 2580 -or
+                $a[1] -match 2581 -or
+                $a[1] -match 2482 ) { $comm = "//" }
 
             if ($a[0].StartsWith("v") -or $a[0].StartsWith("//v")) {
 
