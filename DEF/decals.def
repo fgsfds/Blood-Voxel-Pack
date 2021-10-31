@@ -112,6 +112,7 @@ voxel "KVX/DECALS/1726.KVX"	{ tile 1726 } // SIGN_MORNINGSIDE			// Dzierzan
 voxel "KVX/DECALS/2070.KVX"	{ tile 2070 } // WELCOME_MAT				// SomeThingEviL
 voxel "KVX/DECALS/2071.KVX"	{ tile 2071 } // WELCOME_MAT_BLOODY			// SomeThingEviL
 voxel "KVX/DECALS/2174.KVX"	{ tile 2174 } // RADIOLOGY_SIGN				// SomeThingEviL
+voxel "KVX/DECALS/2129.KVX"	{ tile 2129 } // CUESTA_SIGN				// Dzierzan
 voxel "KVX/DECALS/2318.KVX"	{ tile 2318 } // CHALKBOARD 				// Dzierzan
 voxel "KVX/DECALS/2356.KVX"	{ tile 2356 } // SIGN_BARGAIN_PRICES	 	// SomeThingEviL
 voxel "KVX/DECALS/2357.KVX"	{ tile 2357 } // SIGN_SALE	 				// Dzierzan
