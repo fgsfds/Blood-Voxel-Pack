@@ -102,6 +102,24 @@ voxel "KVX/ANIM/1722.KVX"	{ tile 1722 } 			  // WIRES_A 				// fgsfds
 voxel "KVX/ANIM/1723.KVX"	{ tile 1723 } 			  // WIRES_B 				// fgsfds
 voxel "KVX/ANIM/1724.KVX"	{ tile 1724 } 			  // WIRES_C 				// fgsfds
 
+voxel "KVX/ANIM/2138.KVX"   { tile 2138 } 			  // CLEAVER_A 				// Chillo
+voxel "KVX/ANIM/2139.KVX"   { tile 2139 } 			  // CLEAVER_B 				// Chillo
+voxel "KVX/ANIM/2140.KVX"   { tile 2140 } 			  // CLEAVER_C 				// Chillo
+voxel "KVX/ANIM/2141.KVX"   { tile 2141 } 			  // CLEAVER_D 				// Chillo
+voxel "KVX/ANIM/2142.KVX"   { tile 2142 } 			  // CLEAVER_E 				// Chillo
+voxel "KVX/ANIM/2143.KVX"   { tile 2143 } 			  // CLEAVER_F 				// Chillo
+voxel "KVX/ANIM/2144.KVX"   { tile 2144 } 			  // CLEAVER_G				// Chillo
+voxel "KVX/ANIM/2145.KVX"   { tile 2145 } 			  // CLEAVER_H				// Chillo
+
+voxel "KVX/ANIM/2146.KVX"   { tile 2146 } 			  // CLEAVER_A 				// Chillo
+voxel "KVX/ANIM/2147.KVX"   { tile 2147 } 			  // CLEAVER_B 				// Chillo
+voxel "KVX/ANIM/2148.KVX"   { tile 2148 } 			  // CLEAVER_C 				// Chillo
+voxel "KVX/ANIM/2149.KVX"   { tile 2149 } 			  // CLEAVER_D 				// Chillo
+voxel "KVX/ANIM/2150.KVX"   { tile 2150 } 			  // CLEAVER_E 				// Chillo
+voxel "KVX/ANIM/2151.KVX"   { tile 2151 } 			  // CLEAVER_F 				// Chillo
+voxel "KVX/ANIM/2152.KVX"   { tile 2152 } 			  // CLEAVER_G				// Chillo
+voxel "KVX/ANIM/2153.KVX"   { tile 2153 } 			  // CLEAVER_H				// Chillo
+
 voxel "KVX/ANIM/2274.KVX"	{ tile 2274 rotate }	  // RESPAWN_R 				// fgsfds
 voxel "KVX/ANIM/2275.KVX"	{ tile 2275 rotate }	  // RESPAWN 				// fgsfds
 voxel "KVX/ANIM/2276.KVX"	{ tile 2276 rotate }	  // RESPAWN_O 				// fgsfds
