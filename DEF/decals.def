@@ -66,6 +66,7 @@ voxel "KVX/DECALS/0717.KVX"	{ tile 717 }  // ART_MADONNA_B 				// SomeThingEviL
 voxel "KVX/DECALS/0718.KVX"	{ tile 718 }  // ART_MADONNA_C 				// SomeThingEviL
 voxel "KVX/DECALS/0719.KVX"	{ tile 719 }  // ART_MADONNA_D 				// SomeThingEviL
 voxel "KVX/DECALS/0740.KVX"	{ tile 740 }  // SIGN_PICKMANS	 			// SomeThingEviL
+voxel "KVX/DECALS/0741.KVX"	{ tile 741 }  // SIGN_PUB		 			// Dzierzan
 voxel "KVX/DECALS/0751.KVX"	{ tile 751 }  // SIGN_MANAGER	 			// SomeThingEviL
 voxel "KVX/DECALS/0752.KVX"	{ tile 752 }  // SIGN_ADMISSION 			// SomeThingEviL
 voxel "KVX/DECALS/0761.KVX"	{ tile 761 }  // SIGN_EXIT		 			// SomeThingEviL
