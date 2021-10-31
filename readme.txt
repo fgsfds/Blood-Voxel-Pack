@@ -75,6 +75,7 @@ Dzierzan:
  > Updated wine glass (0521)
  > Updated empty glass (0574)
  + Cuesta Verde Mall sign (2129)
+ + Ichabod's Halloween supply (2340)
 Chillo:
  + Beheaded head (0680, 0681)
  + Hatch (0262)
