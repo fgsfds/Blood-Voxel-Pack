@@ -320,6 +320,7 @@ voxel "KVX/PROPS/1160.KVX"	{ tile 1160 } 			  // BLOOD_DROP				// Dzierzan
 voxel "KVX/PROPS/1327.KVX"	{ tile 1327 } 			  // HELLHOUND_EYE_GIB 		// Dzierzan
 voxel "KVX/PROPS/1350.KVX"	{ tile 1350 } 			  // CHICKEN 				// Chillo
 voxel "KVX/PROPS/1351.KVX"	{ tile 1351 } 			  // BEEF 					// Chillo
+voxel "KVX/PROPS/1531.KVX"	{ tile 1531 } 			  // BONE 					// Dzierzan
 voxel "KVX/PROPS/1538.KVX"	{ tile 1538 } 			  // POST 					// Chillo
 voxel "KVX/PROPS/1721.KVX"	{ tile 1721 } 			  // WIRES 					// fgsfds
 voxel "KVX/PROPS/2028.KVX"	{ tile 2028 } 			  // BLOOD_DROP_A 			// Dzierzan
