@@ -90,6 +90,7 @@ Dzierzan:
  + The house of horrors sign (0653)
  + Metal gate (1060)
  + Hand gib (1455)
+ + Gas mask pickup (0831)
 Chillo:
  + Beheaded head (0680, 0681)
  + Hatch (0262)
