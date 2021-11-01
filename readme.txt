@@ -88,6 +88,7 @@ Dzierzan:
  + One-Millionth shopper off/on sign (2012, 2013)
  + Voodoo bone (2444)
  + The house of horrors sign (0653)
+ + Metal gate (1060)
 Chillo:
  + Beheaded head (0680, 0681)
  + Hatch (0262)
