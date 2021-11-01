@@ -344,6 +344,7 @@ voxel "KVX/PROPS/2420.KVX"	{ tile 2420 } 			  // WEB_FIRE_A 			// fgsfds
 voxel "KVX/PROPS/2421.KVX"	{ tile 2421 } 			  // WEB_FIRE_B 			// fgsfds
 voxel "KVX/PROPS/2422.KVX"	{ tile 2422 } 			  // WEB_FIRE_C 			// fgsfds
 voxel "KVX/PROPS/2423.KVX"	{ tile 2423 } 			  // WEB_FIRE_D 			// fgsfds
+voxel "KVX/PROPS/2444.KVX"	{ tile 2444 } 			  // VOODOO_BONE 			// Dzierzan
 voxel "KVX/PROPS/2447.KVX"	{ tile 2447 } 			  // JACK 					// Chillo
 voxel "KVX/PROPS/2464.KVX"	{ tile 2464 } 			  // EJECTSHELL 			// fgsfds
 voxel "KVX/PROPS/2465.KVX"	{ tile 2465 } 			  // EJECTTOMMY 			// fgsfds

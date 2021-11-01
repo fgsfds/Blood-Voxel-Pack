@@ -86,6 +86,7 @@ Dzierzan:
  + Buy me toys sign (1146)
  + The house of horrors sign (1041)
  + One-Millionth shopper off/on sign (2012, 2013)
+ + Voodoo bone (2444)
 Chillo:
  + Beheaded head (0680, 0681)
  + Hatch (0262)
