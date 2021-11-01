@@ -95,6 +95,8 @@ voxel "KVX/DECALS/1062.KVX"	{ tile 1062 } // SIGN_MORGUE				// SomeThingEviL
 voxel "KVX/DECALS/1098.KVX"	{ tile 1098 } // GRATE						// fgsfds
 voxel "KVX/DECALS/1099.KVX"	{ tile 1099 } // GRATE_BRK 					// fgsfds
 voxel "KVX/DECALS/1144.KVX"	{ tile 1144 } // PAJAMAS 					// Chillo
+voxel "KVX/DECALS/1145.KVX"	{ tile 1145 } // SIGN_IGORS					// Dzierzan
+voxel "KVX/DECALS/1146.KVX"	{ tile 1146 } // SIGN_TOYS 					// Dzierzan
 voxel "KVX/DECALS/1165.KVX"	{ tile 1165 } // CLOCK 						// Dzierzan
 voxel "KVX/DECALS/1166.KVX"	{ tile 1166 } // CLOCK_DAMAGED 				// Dzierzan
 voxel "KVX/DECALS/1169.KVX"	{ tile 1169 } // SIGN_CREMATORIUM			// SomeThingEviL

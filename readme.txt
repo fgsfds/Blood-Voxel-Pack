@@ -81,6 +81,8 @@ Dzierzan:
  + Miguel's Guns and Ammo sign (2341)
  + Metal bars (0155)
  + Bone (1531)
+ + Igor's lab supply outlet sign (1145)
+ + Buy me toys sign (1146)
 Chillo:
  + Beheaded head (0680, 0681)
  + Hatch (0262)
