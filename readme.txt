@@ -74,6 +74,7 @@ Dzierzan:
  > Updated a lot of decals so their backs are no longer pitch-black.
  > Updated wine glass (0521)
  > Updated empty glass (0574)
+ > Updated ladder to have less dark sides (0334)
  + Cuesta Verde Mall sign (2129)
  + Ichabod's Halloween supply sign (2340)
  + Pub & Grille sign (0741)
