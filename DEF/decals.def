@@ -54,6 +54,7 @@ voxel "KVX/DECALS/0637.KVX"	{ tile 637 }  // RUNES						// Chillo
 voxel "KVX/DECALS/0644.KVX"	{ tile 644 }  // MAP_PAINTING 				// Dzierzan
 voxel "KVX/DECALS/0646.KVX"	{ tile 646 }  // MISKATONIC_SIGN 			// Dzierzan
 voxel "KVX/DECALS/0648.KVX"	{ tile 648 }  // CORPSE 					// Chillo
+voxel "KVX/DECALS/0653.KVX"	{ tile 653 }  // SIGN_HOUSEOFHORRORS 		// Dzierzan
 voxel "KVX/DECALS/0658.KVX"	{ tile 658 }  // EXTINGUISHER 				// fgsfds
 voxel "KVX/DECALS/0659.KVX"	{ tile 659 }  // WINDOW2 					// fgsfds
 voxel "KVX/DECALS/0676.KVX"	{ tile 676 }  // LAMP_A 					// Chillo
