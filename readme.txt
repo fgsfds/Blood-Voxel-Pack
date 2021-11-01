@@ -89,6 +89,7 @@ Dzierzan:
  + Voodoo bone (2444)
  + The house of horrors sign (0653)
  + Metal gate (1060)
+ + Hand gib (1455)
 Chillo:
  + Beheaded head (0680, 0681)
  + Hatch (0262)
