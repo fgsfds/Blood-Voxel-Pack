@@ -91,7 +91,7 @@ Chillo:
  + Wall runes (0637)
  + Trees (0542, 0543, 3360)
  + Plant (0536)
- + Torch statue (0572, 0573) [To be improved]
+ + Torch statue (0572, 0573) [modifed by Dzierzan]
  + Stone object (0679)
  + Ripped leg (0682)
  + Train wheels (0708)
