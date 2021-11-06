@@ -91,6 +91,7 @@ Dzierzan:
  + Metal gate (1060)
  + Hand gib (1455)
  + Gas mask pickup (0831)
+ + Metal decal (0248)
 Chillo:
  + Beheaded head (0680, 0681)
  + Hatch (0262)
