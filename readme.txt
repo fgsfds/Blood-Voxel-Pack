@@ -95,6 +95,7 @@ Dzierzan:
  + Plaza sign (2317)
  + Happy-Go-Pukey sign (1259)
  + Window bar (0502)
+ + The River Ride of Terror sign (0930)
 Chillo:
  + Beheaded head (0680, 0681)
  + Hatch (0262)
