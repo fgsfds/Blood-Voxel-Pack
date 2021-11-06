@@ -135,6 +135,11 @@ voxel "KVX/ANIM/2275.KVX"	{ tile 2277 rotate }	  // RESPAWN				// fgsfds
 voxel "KVX/ANIM/2278.KVX"	{ tile 2278 rotate }	  // RESPAWN_G 				// fgsfds
 voxel "KVX/ANIM/2275.KVX"	{ tile 2279 rotate }	  // RESPAWN 				// fgsfds
 
+voxel "KVX/ANIM/2400.KVX"  { tile 2400 }		      // MIME_A 				// Chillo
+voxel "KVX/ANIM/2401.KVX"  { tile 2401 }		      // MIME_B 				// Chillo
+voxel "KVX/ANIM/2402.KVX"  { tile 2402 }		      // MIME_C 				// Chillo
+voxel "KVX/ANIM/2403.KVX"  { tile 2403 }		      // MIME_D 				// Chillo
+
 voxel "KVX/ANIM/2479.KVX"	{ tile 2479 } 			  // JACOB_A 				// fgsfds
 voxel "KVX/ANIM/2480.KVX"	{ tile 2480 } 			  // JACOB_B 				// fgsfds
 voxel "KVX/ANIM/2481.KVX"	{ tile 2481 } 			  // JACOB_C 				// fgsfds
@@ -335,10 +340,6 @@ voxel "KVX/PROPS/2305.KVX"	{ tile 2305 } 			  // POT2 					// fgsfds
 //voxel "KVX/PROPS/2333.KVX"	{ tile 2333 } 			  // INNOCENT_CORPSE 		// Chillo
 //voxel "KVX/PROPS/2334.KVX"	{ tile 2334 } 			  // INNOCENT_CORPSE 		// Chillo
 voxel "KVX/PROPS/2377.KVX"	{ tile 2377 } 			  // MANNEQUIN 				// fgsfds
-voxel "KVX/PROPS/2400.KVX"  { tile 2400 }		      // MIME_A 				// Chillo
-voxel "KVX/PROPS/2401.KVX"  { tile 2401 }		      // MIME_B 				// Chillo
-voxel "KVX/PROPS/2402.KVX"  { tile 2402 }		      // MIME_C 				// Chillo
-voxel "KVX/PROPS/2403.KVX"  { tile 2403 }		      // MIME_D 				// Chillo
 voxel "KVX/PROPS/2410.KVX"	{ tile0 2410 tile1 2414 } // FLY_A					// Dzierzan
 voxel "KVX/PROPS/2415.KVX"	{ tile0 2415 tile1 2419 } // FLY_B					// Dzierzan
 voxel "KVX/PROPS/2420.KVX"	{ tile 2420 } 			  // WEB_FIRE_A 			// fgsfds
