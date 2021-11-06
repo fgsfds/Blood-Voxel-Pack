@@ -352,4 +352,4 @@ voxel "KVX/PROPS/2464.KVX"	{ tile 2464 } 			  // EJECTSHELL 			// fgsfds
 voxel "KVX/PROPS/2465.KVX"	{ tile 2465 } 			  // EJECTTOMMY 			// fgsfds
 voxel "KVX/PROPS/2472.KVX"	{ tile 2472 } 			  // TCOIL 					// fgsfds
 voxel "KVX/PROPS/2493.KVX"	{ tile 2493 } 			  // LANTERN_SNOW			// fgsfds
-voxel "KVX/PROPS/2579.KVX"	{ tile 2579 } 			  // CHAIN 					// fgsfds
+voxel "KVX/PROPS/2579.KVX"	{ tile 2579 } 			  // CHAIN 					// Dzierzan
