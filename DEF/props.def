@@ -238,6 +238,7 @@ voxel "KVX/PROPS/0604.KVX"	{ tile 604 }  			  // JAR2 					// fgsfds
 voxel "KVX/PROPS/0605.KVX"	{ tile 605 }  			  // BOTTLE4 				// fgsfds
 voxel "KVX/PROPS/0606.KVX"	{ tile 606 }  			  // BOTTLE5 				// fgsfds
 voxel "KVX/PROPS/0607.KVX"	{ tile 607 }  			  // SKULLSTAKE 			// fgsfds
+voxel "KVX/PROPS/0608.KVX"	{ tile 608 }  			  // GRASS		 			// Chillo & Dzierzan
 voxel "KVX/PROPS/0616.KVX"	{ tile 616 }  			  // JUG 					// warezeater
 voxel "KVX/PROPS/0632.KVX"	{ tile 632 }  			  // STALACTITE 			// Dzierzan
 voxel "KVX/PROPS/0639.KVX"	{ tile 639 }  			  // BOOK 					// Dzierzan
