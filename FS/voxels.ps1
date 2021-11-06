@@ -136,6 +136,7 @@ Get-ChildItem "./KVX/ANIM" -Filter *.kvx |
 
         elseif ($_.BaseName -eq "2402") { Main $_.FullName 27.5 20.5 52.5 }
         elseif ($_.BaseName -eq "2403") { Main $_.FullName 27.5 20 52.5 }
+        elseif ($_.BaseName -eq "2404") { Main $_.FullName 27.5 20.5 52.5 }
 
         elseif ($_.BaseName -eq "2488") { Main $_.FullName 22 20 60.5 }
         elseif ($_.BaseName -eq "2489") { Main $_.FullName 22 20 64.5 }
