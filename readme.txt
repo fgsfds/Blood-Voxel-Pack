@@ -94,6 +94,7 @@ Dzierzan:
  + Metal decal (0248)
  + Plaza sign (2317)
  + Happy-Go-Pukey sign (1259)
+ + Window bar (0502)
 Chillo:
  + Beheaded head (0680, 0681)
  + Hatch (0262)
