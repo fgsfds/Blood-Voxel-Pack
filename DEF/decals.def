@@ -15,6 +15,7 @@ voxel "KVX/DECALS/0167.KVX"	{ tile 167 }  // DECOR 						// Chillo
 voxel "KVX/DECALS/0187.KVX"	{ tile 187 }  // WALL_SKULL_A				// Dzierzan
 voxel "KVX/DECALS/0188.KVX"	{ tile 188 }  // WALL_SKULL_B				// Dzierzan
 voxel "KVX/DECALS/0189.KVX"	{ tile 189 }  // WALL_SKULL_C				// Dzierzan
+voxel "KVX/DECALS/0225.KVX"	{ tile 225 }  // SIGN_PANDEMONIUM			// Dzierzan
 voxel "KVX/DECALS/0226.KVX"	{ tile 226 }  // FACE 						// Chillo
 voxel "KVX/DECALS/0227.KVX"	{ tile 227 }  // DECOR 						// Chillo
 voxel "KVX/DECALS/0248.KVX"	{ tile 248 }  // METAL						// Dzierzan
