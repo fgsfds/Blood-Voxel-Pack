@@ -2,8 +2,8 @@
 Blood Voxel Pack
 ============================================================================================
 
-Version:       0.95
-Release Date:  06.11.2021
+Version:       0.96
+Release Date:  20.12.2023
 
 
 ============================================================================================
@@ -51,7 +51,7 @@ CREDITS
 ============================================================================================
 
 > Voxel creation
-   fgsfds (https://twitter.com/fgsfds228)
+   fgsfds (https://github.com/fgsfds)
    Dzierzan (https://twitter.com/Dzierzan23)
    Chillo (https://twitter.com/DanielWienerson)
    SomeThingEviL
@@ -61,14 +61,20 @@ CREDITS
    fgsfds
    Dzierzan
 
->Special thanks
-  Victorious_Games
+> Special thanks
+   Victorious_Games
 
 ============================================================================================
 CHANGELOG
 ============================================================================================
 
-Version 0.95 (06.11.2015)
+Version 0.96 (20.12.2021)
+---------------------------
+Dzierzan:
+ + Added decal (0225)
+ > Updated a bunch of voxels
+
+Version 0.95 (06.11.2021)
 ---------------------------
 Dzierzan:
  > Updated a lot of decals so their backs are no longer pitch-black.
