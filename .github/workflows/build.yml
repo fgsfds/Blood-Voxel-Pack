@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [ master ]
+    branches: [ "master" ]
 
   workflow_dispatch:
 
@@ -28,27 +28,22 @@ jobs:
         run: 7z a -m0=Copy -tzip voxels_freshsupply_p${{ github.run_number }}.zip ./FS/defs ./FS/KVX ./FS/7za.exe ./FS/fs_install.bat license.txt readme.txt
           
       - name: Deleting older releases
-        uses: bubkoo/delete-stale-releases@v1.0.6
+        uses: nikhilbadyal/ghaction-rm-releases@v0.0.5
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          keep_latest_count: 0
-          delete_tags: true
-          exclude: v*
-          include: p*
-          include_draft: false
-          include_prerelease: true
+          RELEASE_PATTERN: 'preview_*'
           
       - name: Creating new release
-        uses: johnwbyrd/update-release@v1.0.0
+        uses: ncipollo/release-action@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          files: |
+          artifacts: |
             voxels_blood_p${{ github.run_number }}.zip
             voxels_freshsupply_p${{ github.run_number }}.zip
-          release: p${{ github.run_number }}
+          name: preview_${{ github.run_number }}
+          tag: preview_${{ github.run_number }}
           prerelease: true
-          draft: false
           body: |
             This is a pre-release version of the Blood Voxel Pack that includes all the latest additions and changes
             Use voxels_blood_p${{ github.run_number }}.zip for BloodGDX, NBlood, and Raze
             or voxels_freshsupply_p${{ github.run_number }} for Fresh Supply
+            
