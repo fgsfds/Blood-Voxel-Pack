@@ -37,7 +37,7 @@ LINKS
    https://m210.duke4.net/index.php/downloads/download/8-java/53-buildgdx
 
 > NBlood dev builds:
-   https://lerppu.net/wannabethesis/nblood/
+   https://github.com/nukeykt/NBlood/releases
 
 > Raze port
    https://github.com/coelckers/Raze/releases
