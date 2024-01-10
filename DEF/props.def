@@ -277,6 +277,7 @@ voxel "KVX/PROPS/0759.KVX"	{ tile 759 }  			  // BOTTLE1				// fgsfds
 voxel "KVX/PROPS/0799.KVX"	{ tile 799 }  			  // REAPER 				// Chillo
 voxel "KVX/PROPS/0802.KVX"	{ tile 802 }  			  // JAR1 					// fgsfds
 voxel "KVX/PROPS/0803.KVX"	{ tile 803 }  			  // GOBLET 				// Dzierzan
+voxel "KVX/PROPS/0805.KVX"	{ tile 805 }  			  // ROCK	 				// Dzierzan
 voxel "KVX/PROPS/0807.KVX"	{ tile 807 }  			  // SKULL 					// Dzierzan
 voxel "KVX/PROPS/0818.KVX"	{ tile 818 }  			  // FLARES 				// Dzierzan
 voxel "KVX/PROPS/0834.KVX"	{ tile 834 }  			  // INVISIBL				// fgsfds
