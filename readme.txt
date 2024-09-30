@@ -56,6 +56,7 @@ CREDITS
    Chillo (https://twitter.com/DanielWienerson)
    SomeThingEviL
    warezeater
+   BloodyTom (https://www.moddb.com/members/bloodytom)
 
 > Maphacks
    fgsfds
