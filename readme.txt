@@ -69,6 +69,22 @@ CREDITS
 CHANGELOG
 ============================================================================================
 
+Version 0.97 (??.??.20??)
+
+Dzierzan:
+ > Updated voxel key door markers.
+ > Adjusted pivots for 0634
+ + Stone face (0635, 0636)
+ + Stone (0805)
+ + Bush (0599)
+BloodyTom:
+ + Tree (0797) [Polished by Dzierzan]
+
+Version 0.96.1 (30.12.2023)
+---------------------------
+Dzierzan:
+ > Adjusted pivots for 1348
+
 Version 0.96 (20.12.2021)
 ---------------------------
 Dzierzan:
