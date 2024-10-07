@@ -6,6 +6,9 @@ on:
 
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: windows-latest
@@ -26,6 +29,16 @@ jobs:
           
       - name: Making FS ZIP
         run: 7z a -m0=Copy -tzip voxels_freshsupply_p${{ github.run_number }}.zip ./FS/defs ./FS/KVX ./FS/7za.exe ./FS/fs_install.bat license.txt readme.txt
+      
+      - name: Replace version in addon.json
+        uses: richardrigutins/replace-in-files@v2
+        with:
+          files: 'addon.json'
+          search-text: '$version'
+          replacement-text: 'p${{ github.run_number }}'
+          
+      - name: Making BuildLauncher ZIP
+        run: 7z a -m0=Copy -tzip blood-voxel-pack_p${{ github.run_number }}.zip blood_voxels.def addon.json preview.png license.txt readme.txt MHK KVX DEF
           
       - name: Deleting older releases
         uses: nikhilbadyal/ghaction-rm-releases@v0.0.5
@@ -39,11 +52,13 @@ jobs:
           artifacts: |
             voxels_blood_p${{ github.run_number }}.zip
             voxels_freshsupply_p${{ github.run_number }}.zip
+            blood-voxel-pack_p${{ github.run_number }}.zip
           name: preview_${{ github.run_number }}
           tag: preview_${{ github.run_number }}
           prerelease: true
           body: |
             This is a pre-release version of the Blood Voxel Pack that includes all the latest additions and changes
-            Use voxels_blood_p${{ github.run_number }}.zip for BloodGDX, NBlood, and Raze
-            or voxels_freshsupply_p${{ github.run_number }} for Fresh Supply
+            Use `voxels_blood_p${{ github.run_number }}.zip` for BloodGDX, NBlood, and Raze,
+            `voxels_freshsupply_p${{ github.run_number }}` for Fresh Supply,
+            or `blood-voxel-pack_p${{ github.run_number }}.zip` for [BuildLauncher](https://github.com/fgsfds/BuildLauncher)
             

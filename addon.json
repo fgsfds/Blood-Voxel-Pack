@@ -1,0 +1,20 @@
+{
+  "id": "blood-voxel-pack",
+  "type": "Mod",
+  "game": {
+    "name": "Blood"
+  },
+  "title": "Voxel Pack",
+  "version": "$version",
+  "def_modules": [
+    "blood_voxels.def"
+  ],
+  "incompatibles": {
+    "addons": [
+      {
+        "id": "blood-coagulated"
+      }
+    ]
+  },
+  "description": "https://github.com/fgsfds/Blood-Voxel-Pack/\r\n\r\nVoxel replacements for sprites in Blood"
+}

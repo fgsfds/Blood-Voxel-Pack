@@ -1,9 +1,1 @@
-include DEF/decals.def
-include DEF/pickups.def
-include DEF/switches.def
-include DEF/props.def
-include DEF/trees.def
-include DEF/gibs.def
-include DEF/monsters.def
-include DEF/custom.def
-include MHK/maphacks.def
+include blood_voxels.def
