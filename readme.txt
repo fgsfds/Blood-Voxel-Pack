@@ -2,7 +2,7 @@
 Blood Voxel Pack
 ============================================================================================
 
-Version:       0.96
+Version:       0.96.1
 Release Date:  30.12.2023
 
 
@@ -77,7 +77,7 @@ Dzierzan:
  + Stone face (0635, 0636)
  + Stone (0805)
  + Bush (0599)
-+ Raven (0828)
+ + Raven (0828)
 BloodyTom:
  + Tree (0797) [Polished by Dzierzan]
 
