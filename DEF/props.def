@@ -281,6 +281,7 @@ voxel "KVX/PROPS/0803.KVX"	{ tile 803 }  			  // GOBLET 				// Dzierzan
 voxel "KVX/PROPS/0805.KVX"	{ tile 805 }  			  // ROCK	 				// Dzierzan
 voxel "KVX/PROPS/0807.KVX"	{ tile 807 }  			  // SKULL 					// Dzierzan
 voxel "KVX/PROPS/0818.KVX"	{ tile 818 }  			  // FLARES 				// Dzierzan
+voxel "KVX/PROPS/0828.KVX"	{ tile 828 }  			  // RAVEN 					// Dzierzan
 voxel "KVX/PROPS/0834.KVX"	{ tile 834 }  			  // INVISIBL				// fgsfds
 voxel "KVX/PROPS/0835.KVX"	{ tile 835 }  			  // GUILLOTINE				// Dzierzan
 voxel "KVX/PROPS/0852.KVX"	{ tile 852 }  			  // DUCK 					// Dzierzan
