@@ -75,7 +75,7 @@ Dzierzan:
  > Updated voxel key door markers.
  > Adjusted pivots for 0634
  + Stone face (0635, 0636)
- + Stone (0805)
+ + Stones (0805, 0804, 0808, 2494)
  + Bush (0599)
  + Raven (0828)
 BloodyTom:
