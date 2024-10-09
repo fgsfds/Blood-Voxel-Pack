@@ -79,6 +79,7 @@ Dzierzan:
  + Stones (0805, 0804, 0808, 2494)
  + Bush (0599)
  + Raven (0828)
+ + Wooden bars (0116)
 BloodyTom:
  + Tree (0797) [Polished by Dzierzan]
 fgsfds:
