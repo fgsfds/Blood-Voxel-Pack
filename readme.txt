@@ -74,6 +74,7 @@ Version 0.97 (??.??.20??)
 Dzierzan:
  > Updated voxel key door markers.
  > Adjusted pivots for 0634
+ > Updated metal bars (0104)
  + Stone face (0635, 0636)
  + Stones (0805, 0804, 0808, 2494)
  + Bush (0599)
