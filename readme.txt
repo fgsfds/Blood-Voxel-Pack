@@ -80,6 +80,8 @@ Dzierzan:
  + Raven (0828)
 BloodyTom:
  + Tree (0797) [Polished by Dzierzan]
+fgsfds:
+ + Wooden Cross (0703)
 
 Version 0.96.1 (30.12.2023)
 ---------------------------
