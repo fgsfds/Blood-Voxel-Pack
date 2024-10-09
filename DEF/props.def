@@ -187,6 +187,7 @@ voxel "KVX/PROPS/0075.KVX"	{ tile 75 }  			  // BRAIN_IN_JAR 			// Dzierzan
 voxel "KVX/PROPS/0076.KVX"	{ tile 76 }  			  // BRAIN_IN_JAR2 			// Dzierzan
 voxel "KVX/PROPS/0104.KVX"	{ tile 104 }  			  // METAL_BARS 			// Dzierzan
 voxel "KVX/PROPS/0112.KVX"	{ tile 112 }  			  // ROPE 					// Dzierzan
+voxel "KVX/PROPS/0116.KVX"	{ tile 116 }  			  // WOODEN_BARS 			// Dzierzan
 voxel "KVX/PROPS/0144.KVX"	{ tile 144 }  			  // FRAME 					// Dzierzan
 voxel "KVX/PROPS/0155.KVX"	{ tile 155 }  			  // BARS 					// Dzierzan
 voxel "KVX/PROPS/0183.KVX"	{ tile 183 }  			  // CARRIAGE 				// Chillo
@@ -199,6 +200,7 @@ voxel "KVX/PROPS/0258.KVX"	{ tile 258 }  			  // ROPE 					// SomeThingEviL
 voxel "KVX/PROPS/0259.KVX"	{ tile 259 }  			  // SKULLSTAKE2 			// Dzierzan
 voxel "KVX/PROPS/0284.KVX"	{ tile 284 }  			  // STOOL 					// fgsfds
 voxel "KVX/PROPS/0334.KVX"	{ tile 334 }  			  // LADDER					// Dzierzan
+voxel "KVX/PROPS/0339.KVX"	{ tile 339 }  			  // STONE RAILING			// Dzierzan
 voxel "KVX/PROPS/0350.KVX"	{ tile 350 }  			  // RAILING 				// fgsfds
 voxel "KVX/PROPS/0351.KVX"	{ tile 351 }  			  // RAILING2 				// fgsfds
 voxel "KVX/PROPS/0468.KVX"	{ tile 468 }  			  // HANGING_LAMP_OFF 		// Dzierzan

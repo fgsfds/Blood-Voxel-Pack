@@ -2,7 +2,7 @@
 
 voxel "KVX/PICKUPS/0517.KVX"	{ tile 517 } 		 //	HEALTHBOTTLE		// fgsfds
 voxel "KVX/PICKUPS/0548.KVX"	{ tile 548 } 		 //	AMMOTESLA 			// fgsfds
-voxel "KVX/PICKUPS/0558.KVX"	{ tile 558 rotate }  //	TOMMY 				// fgsfds
+voxel "KVX/PICKUPS/0558.KVX"	{ tile 558 }  		 //	TOMMY 				// fgsfds
 voxel "KVX/PICKUPS/0619.KVX"	{ tile 619 } 		 //	AMMOSHOT 			// fgsfds
 voxel "KVX/PICKUPS/0783.KVX"	{ tile 783 } 		 //	FEATHER 			// fgsfds
 voxel "KVX/PICKUPS/0813.KVX"	{ tile 813 } 		 //	AMMOTOMMY 			// fgsfds

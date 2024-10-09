@@ -74,10 +74,13 @@ Version 0.97 (??.??.20??)
 Dzierzan:
  > Updated voxel key door markers.
  > Adjusted pivots for 0634
+ > Updated metal bars (0104)
  + Stone face (0635, 0636)
  + Stones (0805, 0804, 0808, 2494)
  + Bush (0599)
  + Raven (0828)
+ + Wooden bars (0116)
+ + Stone railing (0339)
 BloodyTom:
  + Tree (0797) [Polished by Dzierzan]
 fgsfds:
