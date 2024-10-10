@@ -27,7 +27,7 @@ voxel "KVX/DECALS/0335.KVX"	{ tile 335 }  // SIGN_SPINECRUSHER			// SomeThingEvi
 voxel "KVX/DECALS/0348.KVX"	{ tile 348 }  // BOOK						// Dzierzan
 voxel "KVX/DECALS/0349.KVX"	{ tile 349 }  // BOOK						// Dzierzan
 voxel "KVX/DECALS/0353.KVX"	{ tile 353 }  // SIGN_EMERGENCYROOM			// SomeThingEviL
-voxel "KVX/DECALS/0359.KVX"	{ tile 359 }  // SIGN_WESTBOUND_LOCAL		// SomeThingEviL
+voxel "KVX/DECALS/0359.KVX"	{ tile 359 }  // SIGN_WESTBOUND_LOCAL		// SomeThingEviL & Dzierzan
 voxel "KVX/DECALS/0370.KVX"	{ tile 370 }  // OPHELIA 					// Chillo
 voxel "KVX/DECALS/0382.KVX"	{ tile 382 }  // BELL 						// Dzierzan
 voxel "KVX/DECALS/0389.KVX"	{ tile 389 }  // WINDOW1 					// fgsfds
