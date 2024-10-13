@@ -76,6 +76,7 @@ Dzierzan:
  > Adjusted pivots for 0634
  > Updated metal bars (0104)
  > Updated Westbound Local sign (0359)
+ > Updated Punch-O-Meter sign (0409)
  + Stone face (0635, 0636)
  + Stones (0805, 0804, 0808, 2494)
  + Bush (0599)
