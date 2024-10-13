@@ -85,6 +85,7 @@ Dzierzan:
  + Wooden bars (0116)
  + Stone railing (0339)
  + Feather (0783)
+ + Pile of rocks (0806)
 BloodyTom:
  + Tree (0797) [Polished by Dzierzan]
 fgsfds:
