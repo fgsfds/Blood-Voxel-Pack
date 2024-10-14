@@ -32,9 +32,11 @@ sprite 233 angoff -256
 sprite 235 angoff 256
 sprite 242 angoff -600
 sprite 253 angoff 800
+sprite 256 angoff 1100
 sprite 260 angoff 512
 sprite 261 angoff 512
 sprite 268 angoff 1024
+sprite 269 angoff 1000
 sprite 302 angoff -256
 sprite 303 angoff 1200
 sprite 307 angoff 256
