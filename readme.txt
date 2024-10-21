@@ -79,6 +79,7 @@ Dzierzan:
  > Updated Punch-O-Meter sign (0402)
  > Updated mirror (0710, 0711)
  > Updated pouch (0822)
+ > Updated danger signs (0933, 0942)
  + Stone face (0635, 0636)
  + Stones (0805, 0804, 0808, 2494)
  + Bush (0599)
