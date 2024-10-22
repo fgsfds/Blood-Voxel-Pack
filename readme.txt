@@ -91,6 +91,7 @@ Dzierzan:
  + Stone railing (0339)
  + Feather (0783)
  + Pile of rocks (0806)
+ + Gates (1064, 1065)
 BloodyTom:
  + Tree (0797) [Polished by Dzierzan]
 fgsfds:

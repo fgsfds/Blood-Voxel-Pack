@@ -321,6 +321,8 @@ voxel "KVX/PROPS/1059.KVX"	{ tile 1059 } 			  // WRAPPED_BODY 			// Dzierzan
 voxel "KVX/PROPS/1060.KVX"	{ tile 1060 } 			  // METAL_GATE 			// Dzierzan
 voxel "KVX/PROPS/1061.KVX"	{ tile 1061 } 			  // COCOON 				// Chillo
 voxel "KVX/PROPS/1063.KVX"	{ tile 1063 } 			  // WATER_VASE 			// Dzierzan
+voxel "KVX/PROPS/1064.KVX"	{ tile 1064 } 			  // GATE 					// Dzierzan
+voxel "KVX/PROPS/1065.KVX"	{ tile 1065 } 			  // GATE_KEY 				// Dzierzan
 voxel "KVX/PROPS/1066.KVX"	{ tile 1066 } 			  // WEB1					// fgsfds
 voxel "KVX/PROPS/1067.KVX"	{ tile 1067 } 			  // WEB2					// fgsfds
 voxel "KVX/PROPS/1068.KVX"	{ tile 1068 } 			  // WEB3					// fgsfds
