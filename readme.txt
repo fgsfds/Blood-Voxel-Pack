@@ -75,14 +75,9 @@ Dzierzan:
  > Updated voxel key door markers.
  > Adjusted pivots for 0634
  > Updated metal bars (0104)
- > Updated Westbound Local sign (0359)
- > Updated Punch-O-Meter sign (0402)
  > Updated mirror (0710, 0711)
  > Updated pouch (0822)
- > Updated danger signs (0933, 0942)
- > Updated under construction sign (0844)
- > Updated members only sign (0957)
- > Updated no admittance sign (0823)
+ > Updated decals (0933, 0942, 0359, 0402, 0844, 0957, 0823, 0151)
  + Stone face (0635, 0636)
  + Stones (0805, 0804, 0808, 2494)
  + Bush (0599)
