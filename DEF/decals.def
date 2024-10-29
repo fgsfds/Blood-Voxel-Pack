@@ -1,5 +1,6 @@
 //Decals
 
+voxel "KVX/DECALS/0014.KVX"	{ tile 14 }   // SIGN_BRAIN_STORAGE			// Dzierzan
 voxel "KVX/DECALS/0019.KVX"	{ tile 19 }   // SIGN_TEST_SUBJECTS			// Dzierzan
 voxel "KVX/DECALS/0066.KVX"	{ tile 66 }   // SIGN_INFIRMARY				// SomeThingEviL
 voxel "KVX/DECALS/0073.KVX"	{ tile 73 }   // SHIRT 						// SomeThingEviL
