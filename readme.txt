@@ -89,6 +89,7 @@ Dzierzan:
  + Gates (1064, 1065)
  + Brain storage sign (0014)
  + Metal bars (0331, 0332, 0463, 0464, 0465, 0466, 1055, 1056)
+ + Metal fence (0330)
 BloodyTom:
  + Tree (0797) [Polished by Dzierzan]
 fgsfds:

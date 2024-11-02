@@ -199,6 +199,7 @@ voxel "KVX/PROPS/0257.KVX"	{ tile 257 }  			  // SKULLSTAKE 			// warezeater
 voxel "KVX/PROPS/0258.KVX"	{ tile 258 }  			  // ROPE 					// SomeThingEviL
 voxel "KVX/PROPS/0259.KVX"	{ tile 259 }  			  // SKULLSTAKE2 			// Dzierzan
 voxel "KVX/PROPS/0284.KVX"	{ tile 284 }  			  // STOOL 					// fgsfds
+voxel "KVX/PROPS/0330.KVX"	{ tile 330 }  			  // METAL_FENCE 			// Dzierzan
 voxel "KVX/PROPS/0331.KVX"	{ tile 331 }  			  // METAL_BARS 			// Dzierzan
 voxel "KVX/PROPS/0332.KVX"	{ tile 332 }  			  // METAL_BARS 			// Dzierzan
 voxel "KVX/PROPS/0334.KVX"	{ tile 334 }  			  // LADDER					// Dzierzan
