@@ -73,12 +73,12 @@ Version 0.97 (??.??.20??)
 ---------------------------
 Dzierzan:
  > Updated voxel key door markers.
- > Adjusted pivots for 0634, 0249, 0622, 0623
+ > Adjusted pivots for 0634, 0635, 0636, 0249, 0622, 0623
  > Updated metal bars (0104)
  > Updated mirror (0710, 0711)
  > Updated pouch (0822)
  > Updated decals (0933, 0942, 0359, 0402, 0844, 0957, 0823, 0151, 0353, 0444, 0740, 0943, 0981, 2357, 2538, 2318, 0695)
- > Updated tree 0798 and adjusted its pivots.
+ > Updated tree (0798) and adjusted its pivots.
  + Stone face (0635, 0636)
  + Stones (0805, 0804, 0808, 2494)
  + Bush (0599)
