@@ -199,10 +199,16 @@ voxel "KVX/PROPS/0257.KVX"	{ tile 257 }  			  // SKULLSTAKE 			// warezeater
 voxel "KVX/PROPS/0258.KVX"	{ tile 258 }  			  // ROPE 					// SomeThingEviL
 voxel "KVX/PROPS/0259.KVX"	{ tile 259 }  			  // SKULLSTAKE2 			// Dzierzan
 voxel "KVX/PROPS/0284.KVX"	{ tile 284 }  			  // STOOL 					// fgsfds
+voxel "KVX/PROPS/0331.KVX"	{ tile 331 }  			  // METAL_BARS 			// Dzierzan
+voxel "KVX/PROPS/0332.KVX"	{ tile 332 }  			  // METAL_BARS 			// Dzierzan
 voxel "KVX/PROPS/0334.KVX"	{ tile 334 }  			  // LADDER					// Dzierzan
 voxel "KVX/PROPS/0339.KVX"	{ tile 339 }  			  // STONE RAILING			// Dzierzan
 voxel "KVX/PROPS/0350.KVX"	{ tile 350 }  			  // RAILING 				// fgsfds
 voxel "KVX/PROPS/0351.KVX"	{ tile 351 }  			  // RAILING2 				// fgsfds
+voxel "KVX/PROPS/0463.KVX"	{ tile 463 }  			  // METAL_BARS 			// Dzierzan
+voxel "KVX/PROPS/0464.KVX"	{ tile 464 }  			  // METAL_BARS 			// Dzierzan
+voxel "KVX/PROPS/0465.KVX"	{ tile 465 }  			  // METAL_BARS 			// Dzierzan
+voxel "KVX/PROPS/0466.KVX"	{ tile 466 }  			  // METAL_BARS 			// Dzierzan
 voxel "KVX/PROPS/0468.KVX"	{ tile 468 }  			  // HANGING_LAMP_OFF 		// Dzierzan
 voxel "KVX/PROPS/0469.KVX"	{ tile 469 }  			  // HANGING_LAMP_ON 		// Dzierzan
 voxel "KVX/PROPS/0485.KVX"	{ tile 485 }  			  // FAUCET 				// fgsfds
@@ -317,6 +323,8 @@ voxel "KVX/PROPS/1009.KVX"	{ tile 1009 } 			  // PLANT1 				// fgsfds
 voxel "KVX/PROPS/1010.KVX"	{ tile 1010 } 			  // PLANT2 				// fgsfds
 voxel "KVX/PROPS/1013.KVX"	{ tile 1013 } 			  // FLOWERS 				// fgsfds
 voxel "KVX/PROPS/1044.KVX"	{ tile 1044 } 			  // GATE 					// fgsfds
+voxel "KVX/PROPS/1055.KVX"	{ tile 1055 }  			  // METAL_BARS 			// Dzierzan
+voxel "KVX/PROPS/1056.KVX"	{ tile 1056 }  			  // METAL_BARS 			// Dzierzan
 voxel "KVX/PROPS/1059.KVX"	{ tile 1059 } 			  // WRAPPED_BODY 			// Dzierzan
 voxel "KVX/PROPS/1060.KVX"	{ tile 1060 } 			  // METAL_GATE 			// Dzierzan
 voxel "KVX/PROPS/1061.KVX"	{ tile 1061 } 			  // COCOON 				// Chillo
