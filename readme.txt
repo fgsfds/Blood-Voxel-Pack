@@ -93,6 +93,7 @@ Dzierzan:
  + Metal fence (0330)
  + Icicles (2497, 2498)
  + Voodoo doll (0525)
+ + Statue decal (0576) [Based on Chillo's 0577]
 BloodyTom:
  + Tree (0797) [Polished by Dzierzan]
 fgsfds:
