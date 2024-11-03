@@ -43,7 +43,7 @@ voxel "KVX/DECALS/0446.KVX"	{ tile 446 }  // KRUEGER 					// Dzierzan
 voxel "KVX/DECALS/0447.KVX"	{ tile 447 }  // VOORHEES					// Dzierzan
 voxel "KVX/DECALS/0502.KVX"	{ tile 502 }  // WINDOW_BARS				// Dzierzan
 voxel "KVX/DECALS/0510.KVX"	{ tile 510 }  // METAL						// Dzierzan
-voxel "KVX/DECALS/0577.KVX"	{ tile 577 }  // STATUE 					// Chillo
+voxel "KVX/DECALS/0577.KVX"	{ tile 577 }  // STATUE 					// Chillo & Dzierzan
 voxel "KVX/DECALS/0578.KVX"	{ tile 578 }  // STONE_SHIELD 				// Chillo
 voxel "KVX/DECALS/0611.KVX"	{ tile 611 }  // ART_ANATOMY				// SomeThingEviL
 voxel "KVX/DECALS/0614.KVX"	{ tile 614 }  // PAINTING_DEMON				// SomeThingEviL
