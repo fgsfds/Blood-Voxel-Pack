@@ -94,6 +94,7 @@ Dzierzan:
  + Icicles (2497, 2498)
  + Voodoo doll (0525)
  + Statue decal (0576) [Based on Chillo's 0577]
+ + Banner decal (0850)
 BloodyTom:
  + Tree (0797) [Polished by Dzierzan]
 fgsfds:
