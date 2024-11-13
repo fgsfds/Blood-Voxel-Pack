@@ -204,6 +204,7 @@ voxel "KVX/PROPS/0331.KVX"	{ tile 331 }  			  // METAL_BARS 			// Dzierzan
 voxel "KVX/PROPS/0332.KVX"	{ tile 332 }  			  // METAL_BARS 			// Dzierzan
 voxel "KVX/PROPS/0333.KVX"	{ tile 333 }  			  // RAILING 				// fgsfds
 voxel "KVX/PROPS/0334.KVX"	{ tile 334 }  			  // LADDER					// Dzierzan
+voxel "KVX/PROPS/0338.KVX"	{ tile 338 }  			  // BONE_LADDER			// Dzierzan
 voxel "KVX/PROPS/0339.KVX"	{ tile 339 }  			  // STONE RAILING			// Dzierzan
 voxel "KVX/PROPS/0350.KVX"	{ tile 350 }  			  // RAILING 				// fgsfds
 voxel "KVX/PROPS/0351.KVX"	{ tile 351 }  			  // RAILING2 				// fgsfds

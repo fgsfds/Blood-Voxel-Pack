@@ -96,6 +96,7 @@ Dzierzan:
  + Statue decal (0576) [Based on Chillo's 0577]
  + Banner decal (0850)
  + Gib (0467)
+ + Bone ladder (0338)
 BloodyTom:
  + Tree (0797) [Polished by Dzierzan]
 fgsfds:
