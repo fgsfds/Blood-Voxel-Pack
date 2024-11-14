@@ -79,6 +79,7 @@ Dzierzan:
  > Updated pouch (0822)
  > Updated decals (0933, 0942, 0359, 0402, 0844, 0957, 0823, 0151, 0353, 0444, 0740, 0943, 0981, 2357, 2538, 2318, 0695, 0577, 0614, 0644, 0752, 0789, 0790)
  > Updated tree (0798) and adjusted its pivots.
+ > Updated face ball (0853)
  + Stone face (0635, 0636)
  + Stones (0805, 0804, 0808, 2494)
  + Bush (0599)
