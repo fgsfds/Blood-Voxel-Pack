@@ -54,10 +54,10 @@ voxel "KVX/DECALS/0622.KVX"	{ tile 622 }  // FACE 						// Chillo
 voxel "KVX/DECALS/0623.KVX"	{ tile 623 }  // FACE 						// Chillo
 voxel "KVX/DECALS/0631.KVX"	{ tile 631 }  // KIMBLE 					// Chillo
 voxel "KVX/DECALS/0633.KVX"	{ tile 633 }  // RIP 						// fgsfds
-voxel "KVX/DECALS/0634.KVX"	{ tile 634 }  // FACE						// Chillo && Dzierzan
-voxel "KVX/DECALS/0635.KVX"	{ tile 635 }  // FACE						// Chillo && Dzierzan
-voxel "KVX/DECALS/0636.KVX"	{ tile 636 }  // FACE						// Chillo && Dzierzan
-voxel "KVX/DECALS/0637.KVX"	{ tile 637 }  // RUNES						// Chillo
+voxel "KVX/DECALS/0634.KVX"	{ tile 634 }  // FACE						// Chillo & Dzierzan
+voxel "KVX/DECALS/0635.KVX"	{ tile 635 }  // FACE						// Chillo & Dzierzan
+voxel "KVX/DECALS/0636.KVX"	{ tile 636 }  // FACE						// Chillo & Dzierzan
+voxel "KVX/DECALS/0637.KVX"	{ tile 637 }  // RUNES						// Chillo & Dzierzan
 voxel "KVX/DECALS/0644.KVX"	{ tile 644 }  // MAP_PAINTING 				// Dzierzan
 voxel "KVX/DECALS/0646.KVX"	{ tile 646 }  // MISKATONIC_SIGN 			// Dzierzan
 voxel "KVX/DECALS/0648.KVX"	{ tile 648 }  // CORPSE 					// Chillo
