@@ -29,6 +29,11 @@ Fresh Supply:
 - unpack voxels_freshsupply_*.zip in the Fresh Supply folder
 - start fs_install.bat
 
+BuildLauncher:
+- put voxels_blood_*.zip into Data\Addons\Blood\Mods folder
+- or download straight from the launcher
+
+
 ============================================================================================
 LINKS
 ============================================================================================
@@ -41,6 +46,9 @@ LINKS
 
 > Raze port
    https://github.com/coelckers/Raze/releases
+
+> BuildLauncher
+   https://github.com/fgsfds/BuildLauncher
    
 > GitHub repo:
    https://github.com/fgsfds/Blood-Voxel-Pack
@@ -64,6 +72,7 @@ CREDITS
 
 > Special thanks
    Victorious_Games
+
 
 ============================================================================================
 CHANGELOG
@@ -102,17 +111,21 @@ BloodyTom:
  + Tree (0797) [Polished by Dzierzan]
 fgsfds:
  + Wooden Cross (0703)
+ + Seaweed (0664-0667)
+
 
 Version 0.96.1 (30.12.2023)
 ---------------------------
 Dzierzan:
  > Adjusted pivots for 1348
 
+
 Version 0.96 (20.12.2021)
 ---------------------------
 Dzierzan:
  + Added decal (0225)
  > Updated a bunch of voxels
+
 
 Version 0.95 (06.11.2021)
 ---------------------------
@@ -161,6 +174,7 @@ Chillo:
  + Mime gibs (2404, 2405)
  + Cleaver (2138-2153)
  + Bone projectile (1463-1469)
+
 
 Version 0.94 (18.07.2021)
 ---------------------------
@@ -310,6 +324,7 @@ SomeThingEvil:
  + Bath house sign (0958)
 Victorious_Games
  > Voxels offsets for FS
+
 
 Version 0.93 (21.05.2020)
 ---------------------------
