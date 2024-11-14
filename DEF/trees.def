@@ -7,7 +7,5 @@ voxel "KVX/TREES/0543.KVX"	{ tile 543 }  // TREE			// Chillo
 // voxel "KVX/TREES/0544.KVX"	{ tile 544 }  // TREE			// Chillo
 voxel "KVX/TREES/0545.KVX"	{ tile 545 }  // TREE			// Chillo
 // voxel "KVX/TREES/0547.KVX"	{ tile 547 }  // TREE			// Chillo
-voxel "KVX/TREES/0609.KVX"	{ tile 609 }  // TREE_TRUNK		// Dzierzan
 voxel "KVX/TREES/0797.KVX"	{ tile 797 }  // TREE			// BloodyTom & Dzierzan
-voxel "KVX/TREES/0798.KVX"	{ tile 798 }  // TREE			// Chillo
 voxel "KVX/TREES/3360.KVX"	{ tile 3360 } // Burnt tree		// Chillo
