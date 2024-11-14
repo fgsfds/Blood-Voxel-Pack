@@ -108,6 +108,7 @@ Dzierzan:
  + Banner decal (0850)
  + Gib (0467)
  + Bone ladder (0338)
+ + Wood blockade (1142, 1143)
 BloodyTom:
  + Tree (0797) [Polished by Dzierzan]
 fgsfds:

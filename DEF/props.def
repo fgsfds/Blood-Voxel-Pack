@@ -37,10 +37,10 @@ voxel "KVX/ANIM/0655.KVX"	{ tile 655 } 			  // SAW1_A					// fgsfds
 voxel "KVX/ANIM/0656.KVX"	{ tile 656 } 			  // SAW1_B					// fgsfds
 voxel "KVX/ANIM/0657.KVX"	{ tile 657 } 			  // SAW1_C					// fgsfds
 
-voxel "KVX/ANIM/0664.KVX"	{ tile 664 } 			  // SEAWEED2_A		// fgsfds
-voxel "KVX/ANIM/0665.KVX"	{ tile 665 } 			  // SEAWEED2_B		// fgsfds
-voxel "KVX/ANIM/0666.KVX"	{ tile 666 } 			  // SEAWEED2_C		// fgsfds
-voxel "KVX/ANIM/0667.KVX"	{ tile 667 } 			  // SEAWEED2_D		// fgsfds
+voxel "KVX/ANIM/0664.KVX"	{ tile 664 } 			  // SEAWEED2_A				// fgsfds
+voxel "KVX/ANIM/0665.KVX"	{ tile 665 } 			  // SEAWEED2_B				// fgsfds
+voxel "KVX/ANIM/0666.KVX"	{ tile 666 } 			  // SEAWEED2_C				// fgsfds
+voxel "KVX/ANIM/0667.KVX"	{ tile 667 } 			  // SEAWEED2_D				// fgsfds
 
 voxel "KVX/ANIM/0680.KVX"	{ tile 680 }  			  // HEAD_A 				// Chillo
 voxel "KVX/ANIM/0681.KVX"	{ tile 681 }  			  // HEAD_B					// Chillo
@@ -349,6 +349,8 @@ voxel "KVX/PROPS/1089.KVX"	{ tile 1089 } 			  // WEB_BRK_C 				// fgsfds
 voxel "KVX/PROPS/1090.KVX"	{ tile 1090 } 			  // BLADES_LEFT 			// Dzierzan
 voxel "KVX/PROPS/1091.KVX"	{ tile 1091 } 			  // BLADES_RIGHT 			// Dzierzan
 voxel "KVX/PROPS/1115.KVX"	{ tile 1115 } 			  // BALLOON 				// Dzierzan
+voxel "KVX/PROPS/1142.KVX"	{ tile 1142 } 			  // WOOD_BLOCKADE			// Dzierzan
+voxel "KVX/PROPS/1143.KVX"	{ tile 1143 } 			  // WOOD_BLOCKADE_DAMAGED	// Dzierzan
 voxel "KVX/PROPS/1147.KVX"	{ tile 1147 } 			  // WATER_DROP				// Dzierzan
 voxel "KVX/PROPS/1160.KVX"	{ tile 1160 } 			  // BLOOD_DROP				// Dzierzan
 voxel "KVX/PROPS/1327.KVX"	{ tile 1327 } 			  // HELLHOUND_EYE_GIB 		// Dzierzan
