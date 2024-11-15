@@ -256,7 +256,7 @@ voxel "KVX/PROPS/0605.KVX"	{ tile 605 }  			  // BOTTLE4 				// fgsfds
 voxel "KVX/PROPS/0606.KVX"	{ tile 606 }  			  // BOTTLE5 				// fgsfds
 voxel "KVX/PROPS/0607.KVX"	{ tile 607 }  			  // SKULLSTAKE 			// fgsfds
 voxel "KVX/PROPS/0608.KVX"	{ tile 608 }  			  // GRASS		 			// Chillo & Dzierzan
-voxel "KVX/TREES/0609.KVX"	{ tile 609 }  			  // TREE_TRUNK				// Dzierzan
+voxel "KVX/PROPS/0609.KVX"	{ tile 609 }  			  // TREE_TRUNK				// Dzierzan
 voxel "KVX/PROPS/0616.KVX"	{ tile 616 }  			  // JUG 					// warezeater
 voxel "KVX/PROPS/0632.KVX"	{ tile 632 }  			  // STALACTITE 			// Dzierzan
 voxel "KVX/PROPS/0639.KVX"	{ tile 639 }  			  // BOOK 					// Dzierzan
@@ -293,7 +293,7 @@ voxel "KVX/PROPS/0739.KVX"	{ tile 739 }  			  // VASE 					// warezeater
 voxel "KVX/PROPS/0745.KVX"	{ tile 745 }  			  // CHAIN 					// Dzierzan
 voxel "KVX/PROPS/0753.KVX"	{ tile 753 }  			  // SHOWER 				// fgsfds
 voxel "KVX/PROPS/0759.KVX"	{ tile 759 }  			  // BOTTLE1				// fgsfds
-voxel "KVX/TREES/0798.KVX"	{ tile 798 }			  // TREE					// Chillo
+voxel "KVX/PROPS/0798.KVX"	{ tile 798 }			  // TREE					// Chillo
 voxel "KVX/PROPS/0799.KVX"	{ tile 799 }  			  // REAPER 				// Chillo
 voxel "KVX/PROPS/0802.KVX"	{ tile 802 }  			  // JAR1 					// fgsfds
 voxel "KVX/PROPS/0803.KVX"	{ tile 803 }  			  // GOBLET 				// Dzierzan
