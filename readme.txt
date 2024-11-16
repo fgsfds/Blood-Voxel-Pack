@@ -81,6 +81,7 @@ CHANGELOG
 Version 0.97 (??.??.20??)
 ---------------------------
 Dzierzan:
+ > Updated maphacks
  > Updated voxel key door markers.
  > Adjusted pivots for 0634, 0635, 0636, 0249, 0622, 0623
  > Updated metal bars (0104)

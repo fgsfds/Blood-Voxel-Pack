@@ -35,6 +35,11 @@ sprite 341 angoff 1024
 sprite 342 angoff 512
 sprite 358 angoff 515
 sprite 359 angoff -515
+sprite 401 angoff -350
+sprite 403 angoff 450
+sprite 405 angoff 150
+sprite 406 angoff 250
+sprite 407 angoff 350
 sprite 514 angoff 256
 sprite 579 angoff 512
 sprite 604 angoff 515

@@ -5,6 +5,9 @@ sprite 73 angoff 256
 sprite 74 angoff -256
 sprite 164 angoff 515
 sprite 212 angoff 256
+sprite 227 angoff -350
+sprite 229 angoff 275
+sprite 231 angoff -250
 sprite 259 angoff 512
 sprite 260 angoff 512
 sprite 261 angoff 512
