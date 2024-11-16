@@ -7,6 +7,10 @@ sprite 99 angoff -768
 sprite 180 angoff -510
 sprite 210 angoff 1024
 sprite 211 angoff 1024
+sprite 279 angoff -250
+sprite 281 angoff 512
+sprite 282 angoff -250
+sprite 283 angoff 250
 sprite 372 angoff 1024
 sprite 373 angoff 1024
 sprite 439 angoff 256
@@ -20,3 +24,4 @@ sprite 481 angoff -512
 sprite 482 angoff 256
 sprite 483 angoff -256
 sprite 438 mdposzoff 1400
+sprite 509 angoff 250
