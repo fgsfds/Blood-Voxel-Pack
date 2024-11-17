@@ -110,8 +110,7 @@ Dzierzan:
  + Gib (0467)
  + Bone ladder (0338)
  + Wood blockade (1142, 1143)
- + Fruits painting (0613)
- + Painting (0610)
+ + Paintings (0610, 0612, 0613)
 BloodyTom:
  + Tree (0797) [Polished by Dzierzan]
 fgsfds:

@@ -48,6 +48,7 @@ voxel "KVX/DECALS/0577.KVX"	{ tile 577 }  // STATUE 					// Chillo & Dzierzan
 voxel "KVX/DECALS/0578.KVX"	{ tile 578 }  // STONE_SHIELD 				// Chillo
 voxel "KVX/DECALS/0610.KVX"	{ tile 610 }  // PAINTING					// Dzierzan
 voxel "KVX/DECALS/0611.KVX"	{ tile 611 }  // ART_ANATOMY				// SomeThingEviL
+voxel "KVX/DECALS/0612.KVX"	{ tile 612 }  // PAINTING					// Dzierzan
 voxel "KVX/DECALS/0613.KVX"	{ tile 613 }  // PAINTING_FRUITS			// Dzierzan
 voxel "KVX/DECALS/0614.KVX"	{ tile 614 }  // PAINTING_DEMON				// SomeThingEviL
 voxel "KVX/DECALS/0617.KVX"	{ tile 617 }  // ART_MAN 					// SomeThingEviL
