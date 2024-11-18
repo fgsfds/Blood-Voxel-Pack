@@ -12,8 +12,11 @@ Get-ChildItem "../DEF" -Filter *.def |
             # commented out voxels
             if ($a[0].StartsWith("/")) { $comm = "//" }
 
-            # voxels disabled specifically for FS
-            if ($a[1] -match 0541 -or
+            # voxels disabled specifically for Fresh Supply
+            if ($a[1] -match 0187 -or
+                $a[1] -match 0188 -or
+                $a[1] -match 0189 -or
+                $a[1] -match 0541 -or
                 $a[1] -match 0544 -or
                 $a[1] -match 0547 -or
                 $a[1] -match 0599 -or
