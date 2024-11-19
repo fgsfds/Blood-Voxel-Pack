@@ -122,6 +122,7 @@ Dzierzan:
  + Bone ladder (0338)
  + Wood blockade (1142, 1143)
  + Paintings (0610, 0612, 0613)
+ + Slicer trap (0916)
 BloodyTom:
  + Tree (0797) [Polished by Dzierzan]
 fgsfds:
