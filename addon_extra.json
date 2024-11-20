@@ -1,0 +1,34 @@
+{
+  "id": "blood-voxel-pack-extra",
+  "type": "Mod",
+  "game": {
+    "name": "Blood"
+  },
+  "title": "Voxel Pack Extras",
+  "version": "$version",
+  "def_modules": [
+    "blood_voxels_extra.def"
+  ],
+  "dependencies": {
+    "addons": [
+      {
+        "id": "blood-voxel-pack"
+      }
+    ]
+  },
+
+  "incompatibles": {
+    "addons": [
+      {
+        "id": "blood-coagulated"
+      },
+      {
+        "id": "blood-willard"
+      },
+      {
+        "id": "blood-frmeat2"
+      }
+    ]
+  },
+  "description": "https://github.com/fgsfds/Blood-Voxel-Pack/\r\n\r\nAdditional voxel replacements for sprites in Blood for high-performant PCs"
+}

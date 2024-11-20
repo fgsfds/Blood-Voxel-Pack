@@ -1,0 +1,5 @@
+//Extra Trees
+
+voxel "KVX/TREES/0541.KVX"	{ tile 541 }  // TREE			// Chillo
+voxel "KVX/TREES/0544.KVX"	{ tile 544 }  // TREE			// Chillo
+voxel "KVX/TREES/0547.KVX"	{ tile 547 }  // TREE			// Chillo

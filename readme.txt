@@ -33,17 +33,21 @@ BuildLauncher:
 - put voxels_blood_*.zip into Data\Addons\Blood\Mods folder
 - or download straight from the launcher
 
+
 ============================================================================================
 KNOWN ISSUES
 ============================================================================================
 
 - Complex voxels such as trees are not rendered properly in BuildGDX port (ver 1.17)
+
 - Tree voxels are very demanding and for that reason they were disabled. While they should
 work fine in original Blood levels, the game might run super slow in certain custom maps due
-to their abundance. They can be turned on in ../DEF/trees.def by removing leading "//" and
+to their abundance. They can be turned on in "blood_voxels.def" by removing leading "//" and
 saving the file.
+
 - In Raze port, voxels have incorrect offsets when overriding already existing voxels (replacing
 Monolith's original voxels): https://github.com/ZDoom/Raze/issues/1114
+
 
 ============================================================================================
 LINKS

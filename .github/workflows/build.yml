@@ -18,7 +18,7 @@ jobs:
       - uses: actions/checkout@v2
           
       - name: Making ZIP
-        run: 7z a -m0=Copy -tzip voxels_blood_p${{ github.run_number }}.zip blood.def bloodgdx.def blood-raze.def license.txt readme.txt MODELS.INI MHK KVX DEF
+        run: 7z a -m0=Copy -tzip voxels_blood_p${{ github.run_number }}.zip blood.def bloodgdx.def blood-raze.def blood_voxels.def blood_voxels_extra.def license.txt readme.txt MODELS.INI MHK KVX DEF
       
       - name: Generating FS files
         run: |
@@ -30,15 +30,15 @@ jobs:
       - name: Making FS ZIP
         run: 7z a -m0=Copy -tzip voxels_freshsupply_p${{ github.run_number }}.zip ./FS/defs ./FS/KVX ./FS/7za.exe ./FS/fs_install.bat license.txt readme.txt
       
-      - name: Replace version in addon.json
+      - name: Replacing version in addon.json
         uses: richardrigutins/replace-in-files@v2
         with:
-          files: 'addon.json'
+          files: 'addon*.json'
           search-text: '$version'
           replacement-text: 'p${{ github.run_number }}'
           
       - name: Making BuildLauncher ZIP
-        run: 7z a -m0=Copy -tzip blood-voxel-pack_p${{ github.run_number }}.zip blood_voxels.def addon.json preview.png license.txt readme.txt MHK KVX DEF
+        run: 7z a -m0=Copy -tzip blood-voxel-pack_p${{ github.run_number }}.zip blood_voxels.def blood_voxels_extra.def addon.json addon_extra.json preview.png license.txt readme.txt MHK KVX DEF
           
       - name: Deleting older releases
         uses: nikhilbadyal/ghaction-rm-releases@v0.0.5

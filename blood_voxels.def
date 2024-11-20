@@ -7,3 +7,5 @@ include DEF/gibs.def
 include DEF/monsters.def
 include DEF/custom.def
 include MHK/maphacks.def
+
+//include blood_voxels_extra.def
