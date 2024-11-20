@@ -127,6 +127,7 @@ Dzierzan:
  + Wood blockade (1142, 1143)
  + Paintings (0610, 0612, 0613)
  + Slicer trap (0916)
+ + Assisted Suicide Ward decal (0133)
 BloodyTom:
  + Tree (0797) [Polished by Dzierzan]
 fgsfds:
