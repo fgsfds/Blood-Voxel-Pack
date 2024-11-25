@@ -366,6 +366,7 @@ voxel "KVX/PROPS/1538.KVX"	{ tile 1538 } 			  // POST 					// Chillo
 voxel "KVX/PROPS/1721.KVX"	{ tile 1721 } 			  // WIRES 					// fgsfds
 voxel "KVX/PROPS/2028.KVX"	{ tile 2028 } 			  // BLOOD_DROP_A 			// Dzierzan
 voxel "KVX/PROPS/2029.KVX"	{ tile 2029 } 			  // BLOOD_DROP_B 			// Dzierzan
+voxel "KVX/PROPS/2136.KVX"	{ tile 2136 } 			  // PIKE 					// Dzierzan
 voxel "KVX/PROPS/2159.KVX"	{ tile 2159 } 			  // ARROW 					// fgsfds
 voxel "KVX/PROPS/2273.KVX"	{ tile 2273 } 			  // CANDY_MACHINE 			// Dzierzan
 voxel "KVX/PROPS/2295.KVX"	{ tile 2295 } 			  // PAN1 					// fgsfds
