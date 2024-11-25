@@ -130,6 +130,8 @@ Dzierzan:
  + Slicer trap (0916)
  + Assisted Suicide Ward decal (0133)
  + Side barrel (3490)
+ + Barrel (0925)
+ + TNT barrel (0907)
 BloodyTom:
  + Tree (0797) [Polished by Dzierzan]
 fgsfds:

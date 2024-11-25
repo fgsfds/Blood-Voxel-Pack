@@ -309,8 +309,10 @@ voxel "KVX/PROPS/0835.KVX"	{ tile 835 }  			  // GUILLOTINE				// Dzierzan
 voxel "KVX/PROPS/0852.KVX"	{ tile 852 }  			  // DUCK 					// Dzierzan
 voxel "KVX/PROPS/0853.KVX"	{ tile 853 }  			  // FACE 					// Dzierzan
 voxel "KVX/PROPS/0906.KVX"	{ tile 906 }  			  // HANGING 				// Chillo
+voxel "KVX/PROPS/0907.KVX"	{ tile 907 }  			  // TNT_BARREL 			// Dzierzan
 voxel "KVX/PROPS/0916.KVX"	{ tile 916 rotate }  	  // SLICER 				// Dzierzan
 voxel "KVX/PROPS/0924.KVX"	{ tile 924 }  			  // HANGING_BODY 			// Dzierzan
+voxel "KVX/PROPS/0925.KVX"	{ tile 925 }  			  // BARREL 				// Dzierzan
 voxel "KVX/PROPS/0927.KVX"	{ tile 927 }  			  // GREEN_WEED1 			// Dzierzan
 voxel "KVX/PROPS/0928.KVX"	{ tile 928 }  			  // GREEN_WEED2 			// Dzierzan
 voxel "KVX/PROPS/0944.KVX"	{ tile 944 }  			  // LAMP_OFF 				// Dzierzan
