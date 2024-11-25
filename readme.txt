@@ -98,7 +98,7 @@ Version 0.97 (??.??.202?)
 Dzierzan:
  > Updated maphacks
  > Updated voxel key door markers (2540-2545)
- > Adjusted pivots for 0634, 0249, 0622, 0623
+ > Adjusted pivots for 0634, 0249, 0622, 0623, 0818
  > Updated metal bars (0104)
  > Updated mirror (0710, 0711)
  > Updated pouch (0822)
