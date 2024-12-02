@@ -73,7 +73,7 @@ voxel "KVX/DECALS/0677.KVX"	{ tile 677 }  // LAMP_B 					// Chillo
 voxel "KVX/DECALS/0695.KVX"	{ tile 695 }  // SIGN_HOSPITAL 				// SomeThingEviL
 voxel "KVX/DECALS/0710.KVX"	{ tile 710 }  // MIRROR 					// Chillo & Dzierzan
 voxel "KVX/DECALS/0711.KVX" { tile 711 }  // MIRROR_DAMAGED				// Chillo & Dzierzan
-voxel "KVX/DECALS/0714.KVX"	{ tile 714 }  // SHIELD 					// fgsfds
+voxel "KVX/DECALS/0714.KVX"	{ tile 714 }  // SHIELD 					// fgsfds & Dzierzan
 voxel "KVX/DECALS/0716.KVX"	{ tile 716 }  // ART_MADONNA_A 				// SomeThingEviL
 voxel "KVX/DECALS/0717.KVX"	{ tile 717 }  // ART_MADONNA_B 				// SomeThingEviL
 voxel "KVX/DECALS/0718.KVX"	{ tile 718 }  // ART_MADONNA_C 				// SomeThingEviL
