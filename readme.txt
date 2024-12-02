@@ -133,6 +133,7 @@ Dzierzan:
  + Barrel (0925)
  + TNT barrel (0907)
  + Pike (2136)
+ + Padlock (0948)
 BloodyTom:
  + Tree (0797) [Polished by Dzierzan]
 fgsfds:

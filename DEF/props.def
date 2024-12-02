@@ -319,6 +319,7 @@ voxel "KVX/PROPS/0944.KVX"	{ tile 944 }  			  // LAMP_OFF 				// Dzierzan
 voxel "KVX/PROPS/0945.KVX"	{ tile 945 }  			  // LAMP_ON 				// Dzierzan
 voxel "KVX/PROPS/0946.KVX"	{ tile 946 }  			  // BULB_OFF 				// fgsfds
 voxel "KVX/PROPS/0947.KVX"	{ tile 947 }  			  // BULB_ON 				// fgsfds
+voxel "KVX/PROPS/0948.KVX"	{ tile 948 }  			  // PADLOCK_1 				// Dzierzan
 voxel "KVX/PROPS/0961.KVX"	{ tile 961 }  			  // POT1 					// fgsfds
 voxel "KVX/PROPS/0962.KVX"	{ tile 962 }  			  // IVPOLE1 				// fgsfds
 voxel "KVX/PROPS/0963.KVX"	{ tile 963 }  			  // IVPOLE2 				// fgsfds
