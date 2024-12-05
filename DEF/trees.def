@@ -5,3 +5,4 @@ voxel "KVX/TREES/0542.KVX"	{ tile 542 }  // TREE			// Chillo
 voxel "KVX/TREES/0543.KVX"	{ tile 543 }  // TREE			// Chillo
 voxel "KVX/TREES/0545.KVX"	{ tile 545 }  // TREE			// Chillo
 voxel "KVX/TREES/3360.KVX"	{ tile 3360 } // BURNT_TREE		// Chillo
+voxel "KVX/TREES/3369.KVX"	{ tile 3369 } // BURNT_TREE		// Dzierzan
