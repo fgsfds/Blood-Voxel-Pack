@@ -107,6 +107,7 @@ Dzierzan:
  > Updated face ball (0853)
  > Updated eye gib (1454)
  > Updated skullstake (0259)
+ > Updated stone statues (0572, 0573)
  + Stone face (0635, 0636)
  + Stones (0805, 0804, 0808, 2494)
  + Bush (0599)
