@@ -7,6 +7,7 @@ voxel "KVX/GIBS/1269.KVX"	{ tile 1269 } // GIB		// Chillo
 voxel "KVX/GIBS/1454.KVX"	{ tile 1454 } // EYE_GIB	// Dzierzan
 voxel "KVX/GIBS/1455.KVX"	{ tile 1455 } // HAND_GIB	// Dzierzan
 voxel "KVX/GIBS/1456.KVX"	{ tile 1456 } // GIB 		// Chillo
+voxel "KVX/GIBS/2154.KVX"	{ tile 2154 } // GIB 	 	// Dzierzan
 voxel "KVX/GIBS/2155.KVX"	{ tile 2155 } // GIB_A  	// Chillo
 voxel "KVX/GIBS/2156.KVX"	{ tile 2156 } // GIB_B  	// Chillo
 voxel "KVX/GIBS/2157.KVX"	{ tile 2157 } // GIB_C  	// Chillo

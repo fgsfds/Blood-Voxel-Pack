@@ -125,7 +125,7 @@ Dzierzan:
  + Voodoo doll (0525)
  + Statue decal (0576) [Based on Chillo's 0577]
  + Banner decal (0850)
- + Gib (0467)
+ + Gibs (0467, 2154)
  + Bone ladder (0338)
  + Wood blockade (1142, 1143)
  + Paintings (0610, 0612, 0613)
