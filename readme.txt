@@ -2,8 +2,8 @@
 Blood Voxel Pack
 ============================================================================================
 
-Version:       0.96.1
-Release Date:  30.12.2023
+Version:       0.97.0
+Release Date:  24.12.2024
 
 
 ============================================================================================
@@ -93,7 +93,7 @@ CREDITS
 CHANGELOG
 ============================================================================================
 
-Version 0.97 (??.12.2024)
+Version 0.97 (24.12.2024)
 ---------------------------
 Dzierzan:
  > Updated maphacks
@@ -106,7 +106,7 @@ Dzierzan:
  > Updated tree (0798) and adjusted its pivots.
  > Updated face ball (0853)
  > Updated eye gib (1454)
- > Updated skullstake (0259)
+ > Updated skullstake (0257)
  > Updated stone statues (0572, 0573)
  > Updated candy machine (2273)
  + Stone face (0635, 0636)

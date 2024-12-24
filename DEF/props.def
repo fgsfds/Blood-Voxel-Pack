@@ -200,7 +200,7 @@ voxel "KVX/PROPS/0201.KVX"	{ tile 201 }  			  // TOXICBARREL 			// fgsfds
 voxel "KVX/PROPS/0246.KVX"	{ tile 246 }  			  // POLE 					// Dzierzan
 voxel "KVX/PROPS/0247.KVX"	{ tile 247 }  			  // POLE 					// Dzierzan
 voxel "KVX/PROPS/0256.KVX"	{ tile 256 }  			  // WOODBRIDGE 			// SomeThingEviL
-voxel "KVX/PROPS/0257.KVX"	{ tile 257 }  			  // SKULLSTAKE 			// warezeater
+voxel "KVX/PROPS/0257.KVX"	{ tile 257 }  			  // SKULLSTAKE 			// warezeater & Dzierzan
 voxel "KVX/PROPS/0258.KVX"	{ tile 258 }  			  // ROPE 					// SomeThingEviL
 voxel "KVX/PROPS/0259.KVX"	{ tile 259 }  			  // SKULLSTAKE2 			// Dzierzan
 voxel "KVX/PROPS/0284.KVX"	{ tile 284 }  			  // STOOL 					// fgsfds
@@ -243,8 +243,8 @@ voxel "KVX/PROPS/0564.KVX"	{ tile 564 }  			  // SKLAMP_OFF 			// Chillo & Dzier
 voxel "KVX/PROPS/0565.KVX"	{ tile 565 }  			  // SKLAMP_ON 				// Chillo & Dzierzan
 voxel "KVX/PROPS/0570.KVX"	{ tile 570 }  			  // TORCH_OFF 				// fgsfds
 voxel "KVX/PROPS/0571.KVX"	{ tile 571 }  			  // TORCH_ON				// fgsfds
-voxel "KVX/PROPS/0572.KVX"	{ tile 572 }  			  // STATUE_OFF				// Chillo
-voxel "KVX/PROPS/0573.KVX"	{ tile 573 }  			  // STATUE_ON				// Chillo
+voxel "KVX/PROPS/0572.KVX"	{ tile 572 }  			  // STATUE_OFF				// Chillo & Dzierzan
+voxel "KVX/PROPS/0573.KVX"	{ tile 573 }  			  // STATUE_ON				// Chillo & Dzierzan
 voxel "KVX/PROPS/0574.KVX"	{ tile 574 }  			  // EMPTY_GLASS 			// Dzierzan
 voxel "KVX/PROPS/0575.KVX"	{ tile 575 }  			  // INLOVING 				// fgsfds
 voxel "KVX/PROPS/0579.KVX"	{ tile 579 }  			  // ANVIL					// Dzierzan
@@ -293,7 +293,7 @@ voxel "KVX/PROPS/0739.KVX"	{ tile 739 }  			  // VASE 					// warezeater
 voxel "KVX/PROPS/0745.KVX"	{ tile 745 }  			  // CHAIN 					// Dzierzan
 voxel "KVX/PROPS/0753.KVX"	{ tile 753 }  			  // SHOWER 				// fgsfds
 voxel "KVX/PROPS/0759.KVX"	{ tile 759 }  			  // BOTTLE1				// fgsfds
-voxel "KVX/PROPS/0798.KVX"	{ tile 798 }			  // TREE					// Chillo
+voxel "KVX/PROPS/0798.KVX"	{ tile 798 }			  // TREE					// Chillo & Dzierzan
 voxel "KVX/PROPS/0799.KVX"	{ tile 799 }  			  // REAPER 				// Chillo
 voxel "KVX/PROPS/0802.KVX"	{ tile 802 }  			  // JAR1 					// fgsfds
 voxel "KVX/PROPS/0803.KVX"	{ tile 803 }  			  // GOBLET 				// Dzierzan
