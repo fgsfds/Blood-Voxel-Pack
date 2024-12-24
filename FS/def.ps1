@@ -23,6 +23,7 @@ Get-ChildItem "../DEF" -Filter *.def |
                 $a[1] -match 0745 -or
                 $a[1] -match 0795 -or
                 $a[1] -match 0797 -or
+                $a[1] -match 0916 -or
                 $a[1] -match 1066 -or
                 $a[1] -match 1067 -or
                 $a[1] -match 1068 -or
