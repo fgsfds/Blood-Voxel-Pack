@@ -1,9 +1,14 @@
 crc32 3595380326
+sprite 23 mdposyoff -35
+sprite 23 angoff -512
 sprite 28 mdposxoff 50
+sprite 34 mdposzoff 400
 sprite 35 angoff -256
 sprite 38 angoff -256
 sprite 39 angoff 256
 sprite 40 angoff -750
+sprite 43 mdposyoff -15
+sprite 44 mdposyoff -15
 sprite 52 angoff 512
 sprite 53 angoff 515
 sprite 62 angoff 256
@@ -22,6 +27,7 @@ sprite 107 angoff 256
 sprite 110 angoff 512
 sprite 116 angoff 256
 sprite 118 angoff -256
+sprite 119 angoff -1024
 sprite 120 angoff 512
 sprite 167 notmd
 sprite 326 angoff 1024
@@ -31,6 +37,8 @@ sprite 330 angoff 150
 sprite 332 angoff 150
 sprite 333 angoff 256
 sprite 335 angoff -450
+sprite 335 angoff -512
+sprite 336 angoff 1024
 sprite 359 angoff 250
 sprite 360 angoff 515
 sprite 362 angoff -450
@@ -40,6 +48,8 @@ sprite 368 angoff -250
 sprite 370 angoff -515
 sprite 373 angoff -765
 sprite 374 angoff 515
+sprite 375 angoff 256
+sprite 376 angoff 750
 sprite 379 angoff 515
 sprite 381 angoff -150
 sprite 384 angoff 200
@@ -48,8 +58,22 @@ sprite 410 angoff -256
 sprite 425 angoff 1024
 sprite 428 angoff 1024
 sprite 449 angoff -256
+sprite 490 mdposxoff 75
+sprite 491 mdposxoff 75
+sprite 492 mdposxoff 75
+sprite 493 mdposxoff 75
+sprite 494 mdposyoff -75
+sprite 495 mdposyoff -75
+sprite 496 mdposyoff -75
+sprite 497 mdposxoff 75
+sprite 498 mdposxoff 75
+sprite 499 mdposxoff 65
+sprite 499 angoff 512
 sprite 500 angoff -515
+sprite 500 mdposxoff 75
+sprite 503 angoff 256
 sprite 505 angoff 256
+sprite 506 angoff 756
 sprite 508 angoff 515
 sprite 531 angoff -256
 sprite 533 angoff -150

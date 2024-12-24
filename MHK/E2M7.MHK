@@ -21,6 +21,15 @@ sprite 103 angoff 1024
 sprite 104 angoff 1024
 sprite 139 angoff 512
 sprite 140 angoff 512
+sprite 141 angoff -256
+sprite 142 angoff 256
+sprite 181 angoff 512
+sprite 183 angoff 512
+sprite 184 angoff 512
+sprite 185 angoff 512
+sprite 186 angoff 512
+sprite 187 angoff 512
+sprite 207 angoff 512
 sprite 325 angoff -256
 sprite 462 angoff 1024
 sprite 551 angoff -256

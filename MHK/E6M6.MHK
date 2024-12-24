@@ -9,6 +9,9 @@ sprite 153 mdposyoff 30
 sprite 155 angoff 256
 sprite 168 angoff -256
 sprite 169 angoff 256
+sprite 202 angoff 512
+sprite 203 angoff 512
+sprite 204 angoff 512
 sprite 233 angoff 512
 sprite 236 angoff 256
 sprite 372 angoff 512
