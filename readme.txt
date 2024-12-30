@@ -48,6 +48,8 @@ saving the file.
 - In Raze port, voxels have incorrect offsets when overriding already existing voxels (replacing
 Monolith's original voxels): https://github.com/ZDoom/Raze/issues/1114
 
+- In Raze port, the basic armor voxel can be rendered as any random voxel (tree, tesla cannon...):
+https://github.com/ZDoom/Raze/issues/1059
 
 ============================================================================================
 LINKS
