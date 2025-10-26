@@ -239,8 +239,8 @@ voxel "KVX/PROPS/0557.KVX"	{ tile 557 }  			  // TASSEL					// Dzierzan
 voxel "KVX/PROPS/0560.KVX"	{ tile 560 }  			  // POST1 					// fgsfds
 voxel "KVX/PROPS/0561.KVX"	{ tile 561 }  			  // POST2 					// fgsfds
 voxel "KVX/PROPS/0563.KVX"	{ tile 563 }  			  // ZOMBARREL 				// fgsfds
-voxel "KVX/PROPS/0564.KVX"	{ tile 564 }  			  // SKLAMP_OFF 			// Chillo & Dzierzan
-voxel "KVX/PROPS/0565.KVX"	{ tile 565 }  			  // SKLAMP_ON 				// Chillo & Dzierzan
+voxel "KVX/PROPS/0564.KVX"	{ tile 564 }  			  // SKLAMP_OFF 			// Dzierzan
+voxel "KVX/PROPS/0565.KVX"	{ tile 565 }  			  // SKLAMP_ON 				// Dzierzan
 voxel "KVX/PROPS/0570.KVX"	{ tile 570 }  			  // TORCH_OFF 				// fgsfds
 voxel "KVX/PROPS/0571.KVX"	{ tile 571 }  			  // TORCH_ON				// fgsfds
 voxel "KVX/PROPS/0572.KVX"	{ tile 572 }  			  // STATUE_OFF				// Chillo & Dzierzan
