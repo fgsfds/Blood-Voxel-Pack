@@ -200,7 +200,7 @@ voxel "KVX/PROPS/0201.KVX"	{ tile 201 }  			  // TOXICBARREL 			// fgsfds
 voxel "KVX/PROPS/0246.KVX"	{ tile 246 }  			  // POLE 					// Dzierzan
 voxel "KVX/PROPS/0247.KVX"	{ tile 247 }  			  // POLE 					// Dzierzan
 voxel "KVX/PROPS/0256.KVX"	{ tile 256 }  			  // WOODBRIDGE 			// SomeThingEviL
-voxel "KVX/PROPS/0257.KVX"	{ tile 257 }  			  // SKULLSTAKE 			// warezeater & Dzierzan
+voxel "KVX/PROPS/0257.KVX"	{ tile 257 }  			  // SKULLSTAKE 			// Dzierzan
 voxel "KVX/PROPS/0258.KVX"	{ tile 258 }  			  // ROPE 					// SomeThingEviL
 voxel "KVX/PROPS/0259.KVX"	{ tile 259 }  			  // SKULLSTAKE2 			// Dzierzan
 voxel "KVX/PROPS/0284.KVX"	{ tile 284 }  			  // STOOL 					// fgsfds
