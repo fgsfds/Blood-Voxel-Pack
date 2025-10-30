@@ -102,7 +102,7 @@ Dzierzan:
  + Pot off (0550) [Remade from scratch]
  + Pot on (0551) [Remade from scratch]
  + Skull post off (0564) [Remade from scratch]
- + Skull post off (0565) [Remade from scratch]
+ + Skull post on (0565) [Remade from scratch]
 
 Version 0.97 (24.12.2024)
 ---------------------------
