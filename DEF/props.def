@@ -243,8 +243,8 @@ voxel "KVX/PROPS/0564.KVX"	{ tile 564 }  			  // SKLAMP_OFF 			// Dzierzan
 voxel "KVX/PROPS/0565.KVX"	{ tile 565 }  			  // SKLAMP_ON 				// Dzierzan
 voxel "KVX/PROPS/0570.KVX"	{ tile 570 }  			  // TORCH_OFF 				// fgsfds
 voxel "KVX/PROPS/0571.KVX"	{ tile 571 }  			  // TORCH_ON				// fgsfds
-voxel "KVX/PROPS/0572.KVX"	{ tile 572 }  			  // STATUE_OFF				// Chillo & Dzierzan
-voxel "KVX/PROPS/0573.KVX"	{ tile 573 }  			  // STATUE_ON				// Chillo & Dzierzan
+voxel "KVX/PROPS/0572.KVX"	{ tile 572 }  			  // STATUE_OFF				// Dzierzan
+voxel "KVX/PROPS/0573.KVX"	{ tile 573 }  			  // STATUE_ON				// Dzierzan
 voxel "KVX/PROPS/0574.KVX"	{ tile 574 }  			  // EMPTY_GLASS 			// Dzierzan
 voxel "KVX/PROPS/0575.KVX"	{ tile 575 }  			  // INLOVING 				// fgsfds
 voxel "KVX/PROPS/0579.KVX"	{ tile 579 }  			  // ANVIL					// Dzierzan
