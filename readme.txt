@@ -105,6 +105,7 @@ Dzierzan:
  + Skull post on (0565) [Remade from scratch]
  + Statue off (0572) [Remade from scratch]
  + Statue on (0573) [Remade from scratch]
+ + Bucket (3540-3548)
 
 Version 0.97 (24.12.2024)
 ---------------------------

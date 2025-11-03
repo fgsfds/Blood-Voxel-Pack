@@ -184,6 +184,15 @@ voxel "KVX/ANIM/3468.KVX"	{ tile 3468 } 			  // SPRAY_B 				// fgsfds
 voxel "KVX/ANIM/3469.KVX"	{ tile 3469 } 			  // SPRAY_C 				// fgsfds
 voxel "KVX/ANIM/3470.KVX"	{ tile 3470 } 			  // SPRAY_D 				// fgsfds
 
+voxel "KVX/ANIM/3541.KVX"	{ tile 3541 } 			  // BUCKET_A 				// Dzierzan
+voxel "KVX/ANIM/3542.KVX"	{ tile 3542 } 			  // BUCKET_B 				// Dzierzan
+voxel "KVX/ANIM/3543.KVX"	{ tile 3543 } 			  // BUCKET_C 				// Dzierzan
+voxel "KVX/ANIM/3544.KVX"	{ tile 3544 } 			  // BUCKET_D 				// Dzierzan
+voxel "KVX/ANIM/3545.KVX"	{ tile 3545 } 			  // BUCKET_E 				// Dzierzan
+voxel "KVX/ANIM/3546.KVX"	{ tile 3546 } 			  // BUCKET_F 				// Dzierzan
+voxel "KVX/ANIM/3547.KVX"	{ tile 3547 } 			  // BUCKET_G 				// Dzierzan
+voxel "KVX/ANIM/3548.KVX"	{ tile 3548 } 			  // BUCKET_H 				// Dzierzan
+
 //Props
 
 voxel "KVX/PROPS/0058.KVX"	{ tile 58 }   			  // MTLBARS 				// fgsfds
@@ -394,3 +403,4 @@ voxel "KVX/PROPS/2497.KVX"	{ tile 2497 }  			  // ICICLES				// Dzierzan
 voxel "KVX/PROPS/2498.KVX"	{ tile 2498 }  			  // ICICLES				// Dzierzan
 voxel "KVX/PROPS/2579.KVX"	{ tile 2579 } 			  // CHAIN 					// Dzierzan
 voxel "KVX/PROPS/3490.KVX"	{ tile 3490 } 			  // SIDE_BARREL 			// Dzierzan
+voxel "KVX/PROPS/3540.KVX"	{ tile 3540 } 			  // BUCKET 				// Dzierzan
