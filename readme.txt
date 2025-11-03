@@ -106,6 +106,7 @@ Dzierzan:
  + Statue off (0572) [Remade from scratch]
  + Statue on (0573) [Remade from scratch]
  + Bucket (3540-3548)
+ + Gasoline canister (0801)
 
 Version 0.97 (24.12.2024)
 ---------------------------
