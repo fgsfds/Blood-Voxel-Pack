@@ -1,6 +1,7 @@
 //Pickups
 
 voxel "KVX/PICKUPS/0517.KVX"	{ tile 517 } 		 //	HEALTHBOTTLE		// fgsfds
+voxel "KVX/PICKUPS/0519.KVX"	{ tile 519 } 		 //	MEDBAG				// Dzierzan
 voxel "KVX/PICKUPS/0525.KVX"	{ tile 525 } 		 //	VOODOO_DOLL			// Dzierzan
 voxel "KVX/PICKUPS/0548.KVX"	{ tile 548 } 		 //	AMMOTESLA 			// fgsfds
 voxel "KVX/PICKUPS/0558.KVX"	{ tile 558 }  		 //	TOMMY 				// fgsfds
