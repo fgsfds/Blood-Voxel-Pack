@@ -108,6 +108,7 @@ Dzierzan:
  + Bucket (3540-3548)
  + Gasoline canister (0801)
  + Medbag (0519)
+ + Flare gun (0524)
 
 Version 0.97 (24.12.2024)
 ---------------------------
