@@ -25,8 +25,8 @@ BuildGDX (1.15 or later) and NBlood (r11419 or later):
 Raze (1.1.3 or later):
 - drag and drop voxels_blood_*.zip onto Raze.exe and select then Blood
 
-Fresh Supply:
-- unpack voxels_freshsupply_*.zip in the Fresh Supply folder
+Refreshed Supply:
+- unpack voxels_refreshed_p*.kpf to the "Blood - Refreshed Supply \ mods" folder
 - start fs_install.bat
 
 BuildLauncher:

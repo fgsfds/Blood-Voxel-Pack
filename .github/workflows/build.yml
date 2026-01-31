@@ -20,15 +20,15 @@ jobs:
       - name: Making ZIP
         run: 7z a -m0=Copy -tzip voxels_blood_p${{ github.run_number }}.zip blood.def bloodgdx.def blood-raze.def blood_voxels.def blood_voxels_extra.def license.txt readme.txt MODELS.INI MHK KVX DEF
       
-      - name: Generating FS files
+      - name: Generating RS files
         run: |
-            cd FS
+            cd RS
             powershell .\def.ps1
             powershell .\maphacks.ps1
             powershell .\voxels.ps1
           
-      - name: Making FS ZIP
-        run: 7z a -m0=Copy -tzip voxels_freshsupply_p${{ github.run_number }}.zip ./FS/defs ./FS/KVX ./FS/7za.exe ./FS/fs_install.bat license.txt readme.txt
+      - name: Making RS ZIP
+        run: 7z a -m0=Copy -tzip voxels_refreshed_p${{ github.run_number }}.kpf ./RS/defs ./RS/KVX license.txt readme.txt
       
       - name: Replacing version in addon.json
         uses: richardrigutins/replace-in-files@v2
@@ -51,7 +51,7 @@ jobs:
         with:
           artifacts: |
             voxels_blood_p${{ github.run_number }}.zip
-            voxels_freshsupply_p${{ github.run_number }}.zip
+            voxels_refreshed_p${{ github.run_number }}.kpf
             blood-voxel-pack_p${{ github.run_number }}.zip
           name: preview_${{ github.run_number }}
           tag: preview_${{ github.run_number }}
@@ -59,6 +59,6 @@ jobs:
           body: |
             This is a pre-release version of the Blood Voxel Pack that includes all the latest additions and changes
             Use `voxels_blood_p${{ github.run_number }}.zip` for BloodGDX, NBlood, and Raze,
-            `voxels_freshsupply_p${{ github.run_number }}` for Fresh Supply,
+            `voxels_refreshed_p${{ github.run_number }}.kpf` for Refreshed Supply,
             or `blood-voxel-pack_p${{ github.run_number }}.zip` for [BuildLauncher](https://github.com/fgsfds/BuildLauncher)
             
