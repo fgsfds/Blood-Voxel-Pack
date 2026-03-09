@@ -171,6 +171,7 @@ Get-ChildItem "./KVX/PICKUPS" -Filter *.kvx |
 Get-ChildItem "./KVX/PROPS" -Filter *.kvx |
     ForEach-Object {
         if ($_.BaseName -eq "0485") { Main $_.FullName c 0 c }
+        elseif ($_.BaseName -eq "0708") { Main $_.FullName 49.5 2 24.5 }
         elseif ($_.BaseName -eq "0976") { Main $_.FullName 14 8.5 63 }
         elseif ($_.BaseName -eq "1067") { Main $_.FullName 32 0.5 64 }
         elseif ($_.BaseName -eq "1068") { Main $_.FullName 8 0.5 64 }
