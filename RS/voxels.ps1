@@ -122,6 +122,7 @@ Get-ChildItem "./KVX/ANIM" -Filter *.kvx |
     ForEach-Object {
         if ($_.BaseName -eq "0508") { Main $_.FullName 6 5 24.5 }
         elseif ($_.BaseName -eq "0509") { Main $_.FullName 6 6 25.5 }
+        elseif ($_.BaseName -eq "0591") { Main $_.FullName 14 5 22 }
         elseif ($_.BaseName -eq "0583") { Main $_.FullName 15 10 41 }
         elseif ($_.BaseName -eq "0854") { Main $_.FullName 13 5 22 }
         elseif ($_.BaseName -eq "0941") { Main $_.FullName 4.5 3.5 14 }
