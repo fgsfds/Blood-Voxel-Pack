@@ -97,7 +97,12 @@ CHANGELOG
 
 Version 0.98 (??.??.20??)
 ---------------------------
-Dzierzan:
+Refreshed Supply:
+ > Refreshed Supply is now supported. 
+ > Fixed wrong offsets for 0708.
+ > Adjusted 0590-0595 not rendered and adjusted a bit offsets.
+
+Added (by Dzierzan):
  + Skullstake (0257) [Remade from scratch]
  + Pot off (0550) [Remade from scratch]
  + Pot on (0551) [Remade from scratch]
