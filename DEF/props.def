@@ -37,6 +37,11 @@ voxel "KVX/ANIM/0655.KVX"	{ tile 655 } 			  // SAW1_A					// fgsfds
 voxel "KVX/ANIM/0656.KVX"	{ tile 656 } 			  // SAW1_B					// fgsfds
 voxel "KVX/ANIM/0657.KVX"	{ tile 657 } 			  // SAW1_C					// fgsfds
 
+voxel "KVX/ANIM/0660.KVX"	{ tile 660 } 			  // SEAWEED1_A				// Dzierzan
+voxel "KVX/ANIM/0661.KVX"	{ tile 661 } 			  // SEAWEED1_B				// Dzierzan
+voxel "KVX/ANIM/0662.KVX"	{ tile 662 } 			  // SEAWEED1_C				// Dzierzan
+voxel "KVX/ANIM/0663.KVX"	{ tile 663 } 			  // SEAWEED1_D				// Dzierzan
+
 voxel "KVX/ANIM/0664.KVX"	{ tile 664 } 			  // SEAWEED2_A				// fgsfds
 voxel "KVX/ANIM/0665.KVX"	{ tile 665 } 			  // SEAWEED2_B				// fgsfds
 voxel "KVX/ANIM/0666.KVX"	{ tile 666 } 			  // SEAWEED2_C				// fgsfds

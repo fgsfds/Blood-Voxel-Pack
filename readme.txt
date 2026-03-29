@@ -95,12 +95,12 @@ CREDITS
 CHANGELOG
 ============================================================================================
 
-Version 0.98 (??.??.20??)
+Version 0.98 (29.03.2026)
 ---------------------------
 Refreshed Supply:
  > Refreshed Supply is now supported. 
  > Fixed wrong offsets for 0708.
- > Adjusted 0590-0595 not rendered and adjusted a bit offsets.
+ > Fixed 0590-0595 not being rendered and adjusted a bit its offsets.
 
 Added (by Dzierzan):
  + Skullstake (0257) [Remade from scratch]
@@ -114,6 +114,7 @@ Added (by Dzierzan):
  + Gasoline canister (0801)
  + Medbag (0519)
  + Flare gun (0524)
+ + Seaweed (0660-0663) 
 
 Version 0.97 (24.12.2024)
 ---------------------------
