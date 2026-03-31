@@ -2,8 +2,8 @@
 Blood Voxel Pack
 ============================================================================================
 
-Version:       0.97.0
-Release Date:  24.12.2024
+Version:       0.98.0
+Release Date:  29.03.2026
 
 
 ============================================================================================
@@ -27,7 +27,6 @@ Raze (1.1.3 or later):
 
 Refreshed Supply:
 - unpack voxels_refreshed_p*.kpf to the "Blood - Refreshed Supply \ mods" folder
-- start fs_install.bat
 
 BuildLauncher:
 - put voxels_blood_*.zip into Data\Addons\Blood\Mods folder
