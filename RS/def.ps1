@@ -11,34 +11,39 @@ Get-ChildItem "../DEF" -Filter *.def |
 
             # commented out voxels
             if ($a[0].StartsWith("/")) { $comm = "//" }
+			
+			$disabledVoxels = @(
+				'0187', #WALL_SKULL_A
+				'0188', #WALL_SKULL_B
+				'0189', #WALL_SKULL_C
+				'0541', #TREE
+				'0544', #TREE
+				'0547', #TREE
+				'0599', #BUSH
+				'0745', #CHAIN
+				'0795', #LAMP
+				'0797', #TREE
+				'0916', #SLICER
+				'1066', #WEB1
+				'1067', #WEB2
+				'1068', #WEB3
+				'1069', #WEB4
+				'1087', #WEB_BRK_A				
+				'1088', #WEB_BRK_B
+				'1089', #WEB_BRK_C
+				'2420', #WEB_FIRE_A
+				'2421', #WEB_FIRE_B
+				'2422', #WEB_FIRE_C
+				'2423', #WEB_FIRE_D
+				'2579', #CHAIN
+				'2580', #CHAIN_A
+				'2581'  #CHAIN_A
+				)
+				
+			$voxelId = $a[1] -replace '\D'
 
             # voxels disabled specifically for Fresh Supply
-            if ($a[1] -match 0187 -or
-                $a[1] -match 0188 -or
-                $a[1] -match 0189 -or
-                $a[1] -match 0541 -or
-                $a[1] -match 0544 -or
-                $a[1] -match 0547 -or
-                $a[1] -match 0599 -or
-                $a[1] -match 0745 -or
-                $a[1] -match 0795 -or
-                $a[1] -match 0797 -or
-                $a[1] -match 0916 -or
-                $a[1] -match 1066 -or
-                $a[1] -match 1067 -or
-                $a[1] -match 1068 -or
-                $a[1] -match 1069 -or
-                $a[1] -match 1087 -or
-                $a[1] -match 1088 -or
-                $a[1] -match 1089 -or
-                $a[1] -match 2420 -or
-                $a[1] -match 2421 -or
-                $a[1] -match 2422 -or
-                $a[1] -match 2423 -or
-                $a[1] -match 2482 -or
-                $a[1] -match 2579 -or
-                $a[1] -match 2580 -or
-                $a[1] -match 2581 ) { $comm = "//" }
+            if ($voxelId -in $disabledVoxels) { $comm = "//" }
 
             if ($a[0].StartsWith("v") -or $a[0].StartsWith("//v")) {
 
